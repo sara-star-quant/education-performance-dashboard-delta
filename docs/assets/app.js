@@ -21,6 +21,8 @@ const PALETTES = {
 const S = { snap: null, window: "5", weights: { R: 25, P: 25, A: 25, O: 25 }, filters: new Set(), map: null, byIso: {}, palette: "default", lastTrigger: null };
 
 const $ = (s) => document.querySelector(s);
+// escape strings from data sources (e.g. OpenAlex names, overlay text) before innerHTML
+const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const fmtDelta = (v) => (v == null ? "n/a" : (v >= 0 ? "+" : "") + v.toFixed(1));
 const cls = (v) => (v == null ? "" : v >= 0 ? "pos" : "neg");
 const arrow = (v) => (v == null ? "" : v >= 0 ? "▲" : "▼"); // up/down triangle, CVD-safe
@@ -163,15 +165,15 @@ function renderDeveloping() {
       if (!b) return `<div><div class="label">${role}</div><div class="na">not available</div></div>`;
       const gapMax = 60;
       return `<div>
-        <div class="label">${role}: ${b.name}</div>
+        <div class="label">${role}: ${esc(b.name)}</div>
         <div class="note">EPI gap ${b.epi_gap >= 0 ? "+" : ""}${b.epi_gap}</div>
         <div class="gapbar"><i style="width:${Math.min(100, Math.abs(b.epi_gap) / gapMax * 100)}%"></i></div>
       </div>`;
     }).join("");
     const mot = (d.youth_motivators || []).map((m) =>
-      `<li>${m.text} ${m.citation ? `<a href="${m.citation}" target="_blank" rel="noopener">[src]</a>` : ""}</li>`).join("");
+      `<li>${esc(m.text)} ${m.citation ? `<a href="${esc(m.citation)}" target="_blank" rel="noopener">[src]</a>` : ""}</li>`).join("");
     return `<div class="card">
-      <h2>${d.name} <span class="conf low">${d.flag_reason.join(", ")}</span></h2>
+      <h2>${esc(d.name)} <span class="conf low">${esc(d.flag_reason.join(", "))}</span></h2>
       <div class="sub">EPI ${d.epi_ref} - 5y delta ${deltaSpan(d.delta["5"])}</div>
       <div class="bench">${benches}</div>
       ${mot ? `<div class="label" style="margin-top:12px">Youth motivators</div><ul class="note">${mot}</ul>` : ""}
@@ -189,7 +191,7 @@ function openDetail(iso) {
   const cf = c.cost_funding;
   const sub = S.snap.subnational?.[c.iso3];
   const tags = Object.entries(c.tags).map(([k, v]) =>
-    `<span class="tag ${v.value ? "" : "off"}" title="${(v.evidence || "").replace(/"/g, "'")}">${TAG_LABEL[k] || k}${v.value ? "" : ": no"}</span>`).join("") || '<span class="na">none coded</span>';
+    `<span class="tag ${v.value ? "" : "off"}" title="${esc(v.evidence)}">${esc(TAG_LABEL[k] || k)}${v.value ? "" : ": no"}</span>`).join("") || '<span class="na">none coded</span>';
   $("#dBody").innerHTML = `
     <div class="kv">
       <span class="k">Region</span><span>${regionName(c.region)}</span>
@@ -201,16 +203,16 @@ function openDetail(iso) {
     <div class="label">Normalized pillar change (${S.window}y)</div>
     <div id="pillars"></div>
     <div class="label">Top contributing institution</div>
-    ${inst ? `<div class="note"><b>${inst.name}</b><br>${inst.evidence}<br><span class="na">${inst.metric_climbed}</span></div>` : '<span class="na">not available</span>'}
+    ${inst ? `<div class="note"><b>${esc(inst.name)}</b><br>${esc(inst.evidence)}<br><span class="na">${esc(inst.metric_climbed)}</span></div>` : '<span class="na">not available</span>'}
     <div class="label" style="margin-top:14px">Why it moved</div>
-    <div class="note">${c.reason.text} ${c.reason.auto_generated ? '<span class="na">(data-derived)</span>' : ""}
-      <div class="cite">${(c.reason.citations || []).map((u) => u.startsWith("http") ? `<a href="${u}" target="_blank" rel="noopener">[src]</a>` : `<span class="na">${u}</span>`).join(" ")}</div>
+    <div class="note">${esc(c.reason.text)} ${c.reason.auto_generated ? '<span class="na">(data-derived)</span>' : ""}
+      <div class="cite">${(c.reason.citations || []).map((u) => /^https?:\/\//.test(u) ? `<a href="${esc(u)}" target="_blank" rel="noopener">[src]</a>` : `<span class="na">${esc(u)}</span>`).join(" ")}</div>
     </div>
     <div class="label" style="margin-top:14px">Feature tags</div><div>${tags}</div>
     <div class="label" style="margin-top:14px">Cost & funding</div>
-    ${cf ? `<div class="note">${cf.tuition_note || ""} ${cf.citation ? `<a href="${cf.citation}" target="_blank" rel="noopener">[src]</a>` : ""}</div>` : '<span class="na">not available</span>'}
+    ${cf ? `<div class="note">${esc(cf.tuition_note)} ${cf.citation ? `<a href="${esc(cf.citation)}" target="_blank" rel="noopener">[src]</a>` : ""}</div>` : '<span class="na">not available</span>'}
     <div class="label" style="margin-top:14px">Sub-national breakdown</div>
-    ${sub ? sub.map((s) => `<div class="note"><b>${s.state}</b> - ${s.note || ""}<br>${s.institutions.map((i) => `${i.name} <span class="na">(${i.feature})</span>`).join("<br>")}</div>`).join("<br>")
+    ${sub ? sub.map((s) => `<div class="note"><b>${esc(s.state)}</b> - ${esc(s.note)}<br>${s.institutions.map((i) => `${esc(i.name)} <span class="na">(${esc(i.feature)})</span>`).join("<br>")}</div>`).join("<br>")
       : '<span class="na">country-level only (no sub-national data)</span>'}
   `;
   drawer(true);

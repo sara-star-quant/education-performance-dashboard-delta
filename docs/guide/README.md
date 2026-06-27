@@ -13,6 +13,7 @@ pages render best on GitHub; the live dashboard is the static site in `docs/`.
 - [Developing-systems segment](developing-countries.md) - how the gap analysis works.
 - [Architecture](architecture.md) - pipeline, snapshot schema, refresh cadence, PWA, and the Flutter-later roadmap.
 - [Licensing & use](licensing.md) - the open-core model and commercial options.
+- [Disclaimer](disclaimer.md) - no advice, no warranty, no liability.
 
 ## At a glance
 

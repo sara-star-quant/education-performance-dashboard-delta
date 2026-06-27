@@ -25,7 +25,8 @@ Full cross-linked guide in **[docs/guide](docs/guide/README.md)**:
 [correlation study](docs/guide/correlation-study.md) -
 [developing systems](docs/guide/developing-countries.md) -
 [architecture](docs/guide/architecture.md) -
-[licensing](docs/guide/licensing.md).
+[licensing](docs/guide/licensing.md) -
+[disclaimer](docs/guide/disclaimer.md).
 
 ## How it works
 
@@ -73,6 +74,14 @@ cd docs && python3 -m http.server 8000   # open http://localhost:8000
 
 See [licensing](docs/guide/licensing.md) for commercial data licensing,
 hosted/white-label, and consulting options.
+
+## Disclaimer
+
+**No advice of any kind. No warranty. No liability.** This project is
+informational and educational only; figures come from third-party public sources
+and may be incomplete or wrong; the index is an opinionated construct and the
+analysis is observational, not causal. Use at your own risk. Full terms:
+[disclaimer](docs/guide/disclaimer.md).
 
 ## Scope of the first snapshot
 

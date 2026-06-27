@@ -22,7 +22,7 @@ CFGDIR = os.path.join(ROOT, "data", "config")
 PUBDIR = os.path.join(ROOT, "docs", "data")
 SNAPDIR = os.path.join(PUBDIR, "snapshots")
 
-VERSION = "2026Q3"
+VERSION = "2026-Q3"
 GENERATED = "2026-06-27"          # passed in, not Date.now (reproducible)
 REF_YEAR = 2023
 WINDOWS = [1, 3, 5, 10]
