@@ -26,23 +26,30 @@
 <div class="wrap">
   <div class="controls">
     <div>
-      <div class="label">Window</div>
-      <div class="seg" id="winSeg">
-        <button data-w="1">1y</button>
-        <button data-w="3">3y</button>
-        <button data-w="5" class="on">5y</button>
-        <button data-w="10">10y</button>
+      <div class="label" id="winLabel">Window</div>
+      <div class="seg" id="winSeg" role="group" aria-labelledby="winLabel">
+        <button data-w="1" aria-pressed="false">1y</button>
+        <button data-w="3" aria-pressed="false">3y</button>
+        <button data-w="5" class="on" aria-pressed="true">5y</button>
+        <button data-w="10" aria-pressed="false">10y</button>
+      </div>
+    </div>
+    <div>
+      <div class="label" id="palLabel">Palette</div>
+      <div class="seg" id="palSeg" role="group" aria-labelledby="palLabel">
+        <button data-p="default" class="on" aria-pressed="true">Default</button>
+        <button data-p="cb" aria-pressed="false">Color-blind</button>
       </div>
     </div>
     <div style="flex:1">
-      <div class="label">Filter by feature</div>
-      <div class="chips" id="tagChips"></div>
+      <div class="label" id="filterLabel">Filter by feature</div>
+      <div class="chips" id="tagChips" role="group" aria-labelledby="filterLabel"></div>
     </div>
   </div>
 
   <div class="grid">
     <div class="card map-card">
-      <div id="map"></div>
+      <div id="map" role="img" aria-label="World map colored by education performance change. Use the table below for an accessible, sortable list."></div>
     </div>
 
     <div class="card">
@@ -94,8 +101,8 @@
 </div>
 
 <div class="drawer-bg" id="drawerBg"></div>
-<aside class="drawer" id="drawer">
-  <button class="close" id="dClose">x</button>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dName" aria-hidden="true">
+  <button class="close" id="dClose" aria-label="Close details">x</button>
   <div class="pad">
     <h3 id="dName"></h3>
     <div id="dBody"></div>
