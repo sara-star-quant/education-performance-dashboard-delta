@@ -1,0 +1,42 @@
+name: refresh snapshot
+
+# Rebuilds the data snapshot from public sources and commits it.
+# Runs monthly (~3x/quarter) and on manual dispatch.
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+
+      - name: fetch + build + correlate
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
+        run: |
+          python3 build/fetch_sources.py
+          python3 build/build_snapshot.py
+          python3 build/correlate.py
+
+      - name: commit updated snapshot
+        run: |
+          git config user.name "edu-delta-bot"
+          git config user.email "edu-delta-bot@users.noreply.github.com"
+          git add docs/data data/sources
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "refresh snapshot from public sources"
+            git push
+          fi

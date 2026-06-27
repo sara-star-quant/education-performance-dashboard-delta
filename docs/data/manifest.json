@@ -1,0 +1,12 @@
+{
+  "latest": "2026Q3",
+  "snapshots": [
+    {
+      "version": "2026Q3",
+      "generated": "2026-06-27",
+      "reference_year": 2023,
+      "country_count": 50,
+      "path": "snapshots/2026Q3.json"
+    }
+  ]
+}

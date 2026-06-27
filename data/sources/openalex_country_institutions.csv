@@ -1,0 +1,1501 @@
+iso2,inst_id,display_name,year,works_count,country_rank
+US,I919571938,The University of Texas Health Science Center at Houston,2018,59692,1
+US,I136199984,Harvard University,2018,27508,2
+US,I201448701,University of Washington,2018,19236,3
+US,I27837315,University of Michigan,2018,18913,4
+US,I97018004,Stanford University,2018,18380,5
+US,I145311948,Johns Hopkins University,2018,18249,6
+US,I205783295,Cornell University,2018,16415,7
+US,I79576946,University of Pennsylvania,2018,14000,8
+US,I32971472,Yale University,2018,13260,9
+US,I161318765,"University of California, Los Angeles",2018,13207,10
+US,I36258959,University of California San Diego,2018,12581,11
+US,I33213144,University of Florida,2018,12552,12
+US,I95457486,"University of California, Berkeley",2018,12547,13
+US,I78577930,Columbia University,2018,12491,14
+US,I52357470,The Ohio State University,2018,11688,15
+US,I142606810,Pacific Northwest National Laboratory,2023,94459,1
+US,I2801280572,Environmental Molecular Sciences Laboratory,2023,91687,2
+US,I136199984,Harvard University,2023,34501,3
+US,I97018004,Stanford University,2023,22052,4
+US,I145311948,Johns Hopkins University,2023,21885,5
+US,I27837315,University of Michigan,2023,21338,6
+US,I201448701,University of Washington,2023,20388,7
+US,I95457486,"University of California, Berkeley",2023,19504,8
+US,I205783295,Cornell University,2023,18693,9
+US,I161318765,"University of California, Los Angeles",2023,16965,10
+US,I32971472,Yale University,2023,16944,11
+US,I79576946,University of Pennsylvania,2023,16755,12
+US,I36258959,University of California San Diego,2023,16133,13
+US,I33213144,University of Florida,2023,15520,14
+US,I114027177,University of North Carolina at Chapel Hill,2023,15458,15
+CA,I185261750,University of Toronto,2018,20953,1
+CA,I141945490,University of British Columbia,2018,13133,2
+CA,I5023651,McGill University,2018,10385,3
+CA,I154425047,University of Alberta,2018,10101,4
+CA,I168635309,University of Calgary,2018,9376,5
+CA,I153718931,University of Ottawa,2018,7085,6
+CA,I98251732,McMaster University,2018,6622,7
+CA,I125749732,Western University,2018,6367,8
+CA,I70931966,Université de Montréal,2018,6313,9
+CA,I151746483,University of Waterloo,2018,5592,10
+CA,I43406934,Université Laval,2018,4627,11
+CA,I46247651,University of Manitoba,2018,4125,12
+CA,I129902397,Dalhousie University,2018,4118,13
+CA,I204722609,Queen's University,2018,3972,14
+CA,I32625721,University of Saskatchewan,2018,3506,15
+CA,I185261750,University of Toronto,2023,26675,1
+CA,I141945490,University of British Columbia,2023,16131,2
+CA,I5023651,McGill University,2023,12647,3
+CA,I154425047,University of Alberta,2023,11567,4
+CA,I168635309,University of Calgary,2023,9534,5
+CA,I98251732,McMaster University,2023,8434,6
+CA,I153718931,University of Ottawa,2023,8277,7
+CA,I70931966,Université de Montréal,2023,7858,8
+CA,I125749732,Western University,2023,7527,9
+CA,I151746483,University of Waterloo,2023,6860,10
+CA,I43406934,Université Laval,2023,5988,11
+CA,I204722609,Queen's University,2023,5318,12
+CA,I129902397,Dalhousie University,2023,4951,13
+CA,I46247651,University of Manitoba,2023,4627,14
+CA,I1325899441,University Health Network,2023,4552,15
+GB,I45129253,University College London,2018,22156,1
+GB,I40120149,University of Oxford,2018,19306,2
+GB,I241749,University of Cambridge,2018,15439,3
+GB,I47508984,Imperial College London,2018,14766,4
+GB,I183935753,King's College London,2018,10590,5
+GB,I28407311,University of Manchester,2018,10587,6
+GB,I98677209,University of Edinburgh,2018,9767,7
+GB,I79619799,University of Birmingham,2018,7468,8
+GB,I36234482,University of Bristol,2018,7427,9
+GB,I142263535,University of Nottingham,2018,7098,10
+GB,I130828816,University of Leeds,2018,6895,11
+GB,I146655781,University of Liverpool,2018,6859,12
+GB,I43439940,University of Southampton,2018,6812,13
+GB,I91136226,University of Sheffield,2018,6541,14
+GB,I7882870,University of Glasgow,2018,6450,15
+GB,I45129253,University College London,2023,27845,1
+GB,I40120149,University of Oxford,2023,24407,2
+GB,I241749,University of Cambridge,2023,18269,3
+GB,I47508984,Imperial College London,2023,18245,4
+GB,I183935753,King's College London,2023,14173,5
+GB,I98677209,University of Edinburgh,2023,13150,6
+GB,I28407311,University of Manchester,2023,12619,7
+GB,I79619799,University of Birmingham,2023,9160,8
+GB,I7882870,University of Glasgow,2023,9107,9
+GB,I36234482,University of Bristol,2023,9025,10
+GB,I146655781,University of Liverpool,2023,8833,11
+GB,I130828816,University of Leeds,2023,8571,12
+GB,I142263535,University of Nottingham,2023,7904,13
+GB,I43439940,University of Southampton,2023,7440,14
+GB,I91136226,University of Sheffield,2023,7303,15
+DE,I223822909,Heidelberg University,2018,11313,1
+DE,I8204097,Ludwig-Maximilians-Universität München,2018,9986,2
+DE,I62916508,Technical University of Munich,2018,8760,3
+DE,I159176309,Universität Hamburg,2018,8412,4
+DE,I114090438,Goethe University Frankfurt,2018,7548,5
+DE,I887968799,RWTH Aachen University,2018,7001,6
+DE,I149899117,Max Planck Society,2018,6060,7
+DE,I7877124,Charité - Universitätsmedizin Berlin,2018,5978,8
+DE,I1294671590,Centre National de la Recherche Scientifique,2018,5899,9
+DE,I102335020,Karlsruhe Institute of Technology,2018,5850,10
+DE,I78650965,Technische Universität Dresden,2018,5622,11
+DE,I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg,2018,5404,12
+DE,I161046081,University of Freiburg,2018,4917,13
+DE,I197323543,Johannes Gutenberg University Mainz,2018,4817,14
+DE,I2802164966,University Hospital Heidelberg,2018,4791,15
+DE,I223822909,Heidelberg University,2023,13342,1
+DE,I8204097,Ludwig-Maximilians-Universität München,2023,12893,2
+DE,I62916508,Technical University of Munich,2023,12637,3
+DE,I159176309,Universität Hamburg,2023,10732,4
+DE,I887968799,RWTH Aachen University,2023,8749,5
+DE,I7877124,Charité - Universitätsmedizin Berlin,2023,8180,6
+DE,I75951250,Freie Universität Berlin,2023,7985,7
+DE,I1294671590,Centre National de la Recherche Scientifique,2023,7751,8
+DE,I114090438,Goethe University Frankfurt,2023,7341,9
+DE,I78650965,Technische Universität Dresden,2023,7311,10
+DE,I102335020,Karlsruhe Institute of Technology,2023,7237,11
+DE,I39343248,Humboldt-Universität zu Berlin,2023,6949,12
+DE,I181369854,Friedrich-Alexander-Universität Erlangen-Nürnberg,2023,6640,13
+DE,I8087733,University of Tübingen,2023,6506,14
+DE,I2802164966,University Hospital Heidelberg,2023,6383,15
+FR,I1294671590,Centre National de la Recherche Scientifique,2018,57626,1
+FR,I154526488,Inserm,2018,20011,2
+FR,I39804081,Sorbonne Université,2018,16194,3
+FR,I204730241,Université Paris Cité,2018,15449,4
+FR,I277688954,Université Paris-Saclay,2018,10024,5
+FR,I100532134,Université Claude Bernard Lyon 1,2018,8911,6
+FR,I899635006,Université Grenoble Alpes,2018,8853,7
+FR,I21491767,Aix-Marseille Université,2018,8017,8
+FR,I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2018,7631,9
+FR,I90183372,Université de Lorraine,2018,6974,10
+FR,I4210097159,Assistance Publique – Hôpitaux de Paris,2018,6731,11
+FR,I19894307,Université de Montpellier,2018,6142,12
+FR,I2279609970,Université de Lille,2018,5623,13
+FR,I15057530,Université de Bordeaux,2018,5580,14
+FR,I102197404,Université Paris-Sud,2018,5479,15
+FR,I1294671590,Centre National de la Recherche Scientifique,2023,67903,1
+FR,I154526488,Inserm,2023,24790,2
+FR,I39804081,Sorbonne Université,2023,18948,3
+FR,I204730241,Université Paris Cité,2023,16828,4
+FR,I277688954,Université Paris-Saclay,2023,15030,5
+FR,I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",2023,11940,6
+FR,I100532134,Université Claude Bernard Lyon 1,2023,10292,7
+FR,I899635006,Université Grenoble Alpes,2023,10125,8
+FR,I4210097159,Assistance Publique – Hôpitaux de Paris,2023,9113,9
+FR,I19894307,Université de Montpellier,2023,8910,10
+FR,I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2023,8427,11
+FR,I21491767,Aix-Marseille Université,2023,8335,12
+FR,I4210166444,Institut de Recherche pour le Développement,2023,8186,13
+FR,I2279609970,Université de Lille,2023,7990,14
+FR,I15057530,Université de Bordeaux,2023,7316,15
+NL,I887064364,University of Amsterdam,2018,8279,1
+NL,I145872427,Radboud University Nijmegen,2018,8274,2
+NL,I193662353,Utrecht University,2018,7503,3
+NL,I169381384,University of Groningen,2018,7257,4
+NL,I98358874,Delft University of Technology,2018,6921,5
+NL,I913481162,Wageningen University & Research,2018,5080,6
+NL,I34352273,Maastricht University,2018,4805,7
+NL,I121797337,Leiden University,2018,4728,8
+NL,I865915315,Vrije Universiteit Amsterdam,2018,4450,9
+NL,I3018483916,University Medical Center Utrecht,2018,4357,10
+NL,I2802934949,Radboud University Medical Center,2018,4307,11
+NL,I2801952686,Erasmus MC,2018,4278,12
+NL,I913958620,Erasmus University Rotterdam,2018,4235,13
+NL,I1334415907,University Medical Center Groningen,2018,3992,14
+NL,I2800006345,Leiden University Medical Center,2018,3942,15
+NL,I887064364,University of Amsterdam,2023,10954,1
+NL,I193662353,Utrecht University,2023,9974,2
+NL,I145872427,Radboud University Nijmegen,2023,9638,3
+NL,I169381384,University of Groningen,2023,8996,4
+NL,I98358874,Delft University of Technology,2023,8482,5
+NL,I4210151833,Amsterdam University Medical Centers,2023,8205,6
+NL,I865915315,Vrije Universiteit Amsterdam,2023,7952,7
+NL,I34352273,Maastricht University,2023,6527,8
+NL,I913481162,Wageningen University & Research,2023,6505,9
+NL,I121797337,Leiden University,2023,5637,10
+NL,I2801952686,Erasmus MC,2023,5514,11
+NL,I2802934949,Radboud University Medical Center,2023,5324,12
+NL,I3018483916,University Medical Center Utrecht,2023,5174,13
+NL,I83019370,Eindhoven University of Technology,2023,4972,14
+NL,I1334415907,University Medical Center Groningen,2023,4938,15
+CH,I35440088,ETH Zurich,2018,9668,1
+CH,I202697423,University of Zurich,2018,7677,2
+CH,I5124864,École Polytechnique Fédérale de Lausanne,2018,6006,3
+CH,I118564535,University of Bern,2018,5916,4
+CH,I114457229,University of Geneva,2018,4852,5
+CH,I97565354,University of Lausanne,2018,4211,6
+CH,I1850255,University of Basel,2018,4108,7
+CH,I1294671590,Centre National de la Recherche Scientifique,2018,2844,8
+CH,I4210100468,University Hospital of Zurich,2018,2783,9
+CH,I2801112126,University Hospital of Bern,2018,2340,10
+CH,I67311998,European Organization for Nuclear Research,2018,2162,11
+CH,I2802542264,University Hospital of Basel,2018,1749,12
+CH,I2802229908,Paul Scherrer Institute,2018,1704,13
+CH,I4210106256,University Hospital of Geneva,2018,1535,14
+CH,I154338468,University of Fribourg,2018,1473,15
+CH,I35440088,ETH Zurich,2023,12469,1
+CH,I202697423,University of Zurich,2023,10178,2
+CH,I118564535,University of Bern,2023,8630,3
+CH,I5124864,École Polytechnique Fédérale de Lausanne,2023,7022,4
+CH,I114457229,University of Geneva,2023,6445,5
+CH,I97565354,University of Lausanne,2023,6323,6
+CH,I1850255,University of Basel,2023,5544,7
+CH,I1294671590,Centre National de la Recherche Scientifique,2023,3985,8
+CH,I4210100468,University Hospital of Zurich,2023,3664,9
+CH,I2801112126,University Hospital of Bern,2023,3387,10
+CH,I130692619,Bern University of Applied Sciences,2023,2800,11
+CH,I2802542264,University Hospital of Basel,2023,2404,12
+CH,I154338468,University of Fribourg,2023,2287,13
+CH,I2802229908,Paul Scherrer Institute,2023,2172,14
+CH,I190397597,University of Urbino,2023,2081,15
+SE,I28166907,Karolinska Institutet,2018,8561,1
+SE,I187531555,Lund University,2018,7613,2
+SE,I123387679,Uppsala University,2018,6781,3
+SE,I881427289,University of Gothenburg,2018,5834,4
+SE,I161593684,Stockholm University,2018,4731,5
+SE,I86987016,KTH Royal Institute of Technology,2018,4586,6
+SE,I66862912,Chalmers University of Technology,2018,3432,7
+SE,I102134673,Linköping University,2018,3359,8
+SE,I1335113835,Karolinska University Hospital,2018,3105,9
+SE,I90267481,Umeå University,2018,2870,10
+SE,I298625061,Swedish University of Agricultural Sciences,2018,2139,11
+SE,I4210137844,Skåne University Hospital,2018,1527,12
+SE,I1294671590,Centre National de la Recherche Scientifique,2018,1452,13
+SE,I2801112325,Sahlgrenska University Hospital,2018,1410,14
+SE,I124055696,University of Copenhagen,2018,1235,15
+SE,I28166907,Karolinska Institutet,2023,10645,1
+SE,I187531555,Lund University,2023,9599,2
+SE,I123387679,Uppsala University,2023,8642,3
+SE,I881427289,University of Gothenburg,2023,7167,4
+SE,I161593684,Stockholm University,2023,5899,5
+SE,I86987016,KTH Royal Institute of Technology,2023,5414,6
+SE,I102134673,Linköping University,2023,4276,7
+SE,I66862912,Chalmers University of Technology,2023,3941,8
+SE,I1335113835,Karolinska University Hospital,2023,3731,9
+SE,I90267481,Umeå University,2023,3475,10
+SE,I298625061,Swedish University of Agricultural Sciences,2023,2775,11
+SE,I2801112325,Sahlgrenska University Hospital,2023,2306,12
+SE,I1294671590,Centre National de la Recherche Scientifique,2023,1971,13
+SE,I4210137844,Skåne University Hospital,2023,1825,14
+SE,I45129253,University College London,2023,1788,15
+DK,I124055696,University of Copenhagen,2018,11111,1
+DK,I204337017,Aarhus University,2018,9768,2
+DK,I96673099,Technical University of Denmark,2018,6380,3
+DK,I891191580,Aalborg University,2018,6252,4
+DK,I177969490,University of Southern Denmark,2018,4451,5
+DK,I2802709434,Rigshospitalet,2018,3236,6
+DK,I2802335433,Aarhus University Hospital,2018,2740,7
+DK,I2802567020,Copenhagen University Hospital,2018,2380,8
+DK,I2801498763,Odense University Hospital,2018,1675,9
+DK,I180519160,Copenhagen Business School,2018,1655,10
+DK,I107707843,Roskilde University,2018,1174,11
+DK,I2799976261,Aalborg University Hospital,2018,1034,12
+DK,I2802582725,Gentofte Hospital,2018,931,13
+DK,I187531555,Lund University,2018,913,14
+DK,I1294671590,Centre National de la Recherche Scientifique,2018,891,15
+DK,I124055696,University of Copenhagen,2023,14060,1
+DK,I204337017,Aarhus University,2023,11351,2
+DK,I96673099,Technical University of Denmark,2023,7519,3
+DK,I891191580,Aalborg University,2023,6810,4
+DK,I177969490,University of Southern Denmark,2023,5669,5
+DK,I2802567020,Copenhagen University Hospital,2023,4271,6
+DK,I2802709434,Rigshospitalet,2023,4240,7
+DK,I2802335433,Aarhus University Hospital,2023,3447,8
+DK,I2801498763,Odense University Hospital,2023,2237,9
+DK,I180519160,Copenhagen Business School,2023,1699,10
+DK,I2799976261,Aalborg University Hospital,2023,1455,11
+DK,I1294671590,Centre National de la Recherche Scientifique,2023,1375,12
+DK,I107707843,Roskilde University,2023,1337,13
+DK,I2802582725,Gentofte Hospital,2023,1318,14
+DK,I187531555,Lund University,2023,1252,15
+FI,I133731052,University of Helsinki,2018,7933,1
+FI,I9927081,Aalto University,2018,3707,2
+FI,I4210133110,,2018,3438,3
+FI,I155660961,University of Turku,2018,3269,4
+FI,I98381234,University of Oulu,2018,2814,5
+FI,I166825849,Tampere University,2018,2538,6
+FI,I175532246,University of Eastern Finland,2018,2369,7
+FI,I2800394112,Helsinki University Hospital,2018,2039,8
+FI,I94722563,University of Jyväskylä,2018,1936,9
+FI,I39624965,Finnish Institute for Health and Welfare,2018,1334,10
+FI,I130217899,Åbo Akademi University,2018,1049,11
+FI,I2801970007,Turku University Hospital,2018,1033,12
+FI,I63548447,Lappeenranta-Lahti University of Technology,2018,978,13
+FI,I28166907,Karolinska Institutet,2018,881,14
+FI,I4210126318,Tampere University Hospital,2018,826,15
+FI,I133731052,University of Helsinki,2023,10415,1
+FI,I155660961,University of Turku,2023,4357,2
+FI,I9927081,Aalto University,2023,3942,3
+FI,I166825849,Tampere University,2023,3898,4
+FI,I98381234,University of Oulu,2023,3773,5
+FI,I175532246,University of Eastern Finland,2023,3222,6
+FI,I94722563,University of Jyväskylä,2023,2474,7
+FI,I2800394112,Helsinki University Hospital,2023,2316,8
+FI,I4210133110,,2023,1373,9
+FI,I2801970007,Turku University Hospital,2023,1220,10
+FI,I63548447,Lappeenranta-Lahti University of Technology,2023,1170,11
+FI,I130217899,Åbo Akademi University,2023,1134,12
+FI,I1285790362,Finnish Meteorological Institute,2023,1108,13
+FI,I1294671590,Centre National de la Recherche Scientifique,2023,1064,14
+FI,I39624965,Finnish Institute for Health and Welfare,2023,1022,15
+NO,I184942183,University of Oslo,2018,7292,1
+NO,I204778367,Norwegian University of Science and Technology,2018,5362,2
+NO,I4432739,University of Bergen,2018,3845,3
+NO,I1281400175,Oslo University Hospital,2018,2871,4
+NO,I78037679,UiT The Arctic University of Norway,2018,2196,5
+NO,I54108979,Norwegian University of Life Sciences,2018,1161,6
+NO,I173888879,SINTEF,2018,1108,7
+NO,I2800740805,Haukeland University Hospital,2018,1102,8
+NO,I92008406,University of Stavanger,2018,1002,9
+NO,I1294671590,Centre National de la Recherche Scientifique,2018,833,10
+NO,I184531372,OsloMet – Oslo Metropolitan University,2018,827,11
+NO,I124055696,University of Copenhagen,2018,824,12
+NO,I1333353642,Norwegian Institute of Public Health,2018,785,13
+NO,I200650556,University of Agder,2018,768,14
+NO,I2801380234,University of South-Eastern Norway,2018,727,15
+NO,I184942183,University of Oslo,2023,9021,1
+NO,I204778367,Norwegian University of Science and Technology,2023,7481,2
+NO,I4432739,University of Bergen,2023,4961,3
+NO,I1281400175,Oslo University Hospital,2023,3503,4
+NO,I78037679,UiT The Arctic University of Norway,2023,2900,5
+NO,I92008406,University of Stavanger,2023,1695,6
+NO,I173888879,SINTEF,2023,1649,7
+NO,I2801380234,University of South-Eastern Norway,2023,1386,8
+NO,I54108979,Norwegian University of Life Sciences,2023,1380,9
+NO,I1294671590,Centre National de la Recherche Scientifique,2023,1363,10
+NO,I2800740805,Haukeland University Hospital,2023,1350,11
+NO,I184531372,OsloMet – Oslo Metropolitan University,2023,1346,12
+NO,I200650556,University of Agder,2023,1262,13
+NO,I185261750,University of Toronto,2023,1260,14
+NO,I98677209,University of Edinburgh,2023,1216,15
+IE,I100930933,University College Dublin,2018,4341,1
+IE,I205274468,Trinity College Dublin,2018,3843,2
+IE,I27577105,University College Cork,2018,2418,3
+IE,I188760350,Ollscoil na Gaillimhe – University of Galway,2018,2158,4
+IE,I4210108542,Schlumberger (Ireland),2018,1670,5
+IE,I230495080,University of Limerick,2018,1631,6
+IE,I42934936,Dublin City University,2018,1378,7
+IE,I142762351,Royal College of Surgeons in Ireland,2018,1004,8
+IE,I157286207,"National University of Ireland, Maynooth",2018,795,9
+IE,I141766778,Teagasc - The Irish Agriculture and Food Development Authority,2018,678,10
+IE,I1294671590,Centre National de la Recherche Scientifique,2018,568,11
+IE,I4210154619,St. James's Hospital,2018,514,12
+IE,I4210115218,St. Vincent's University Hospital,2018,474,13
+IE,I47508984,Imperial College London,2018,411,14
+IE,I2801846703,Beaumont Hospital,2018,399,15
+IE,I100930933,University College Dublin,2023,6023,1
+IE,I205274468,Trinity College Dublin,2023,5085,2
+IE,I27577105,University College Cork,2023,3329,3
+IE,I188760350,Ollscoil na Gaillimhe – University of Galway,2023,2709,4
+IE,I230495080,University of Limerick,2023,2140,5
+IE,I42934936,Dublin City University,2023,1864,6
+IE,I4210108542,Schlumberger (Ireland),2023,1732,7
+IE,I142762351,Royal College of Surgeons in Ireland,2023,1505,8
+IE,I157286207,"National University of Ireland, Maynooth",2023,1359,9
+IE,I4210144925,Technological University Dublin,2023,1007,10
+IE,I1294671590,Centre National de la Recherche Scientifique,2023,783,11
+IE,I4210154619,St. James's Hospital,2023,778,12
+IE,I141766778,Teagasc - The Irish Agriculture and Food Development Authority,2023,731,13
+IE,I45129253,University College London,2023,727,14
+IE,I47508984,Imperial College London,2023,680,15
+AT,I76134821,Medical University of Vienna,2018,5963,1
+AT,I129774422,University of Vienna,2018,5091,2
+AT,I145847075,TU Wien,2018,3823,3
+AT,I190249584,Universität Innsbruck,2018,3025,4
+AT,I114090438,Goethe University Frankfurt,2018,1919,5
+AT,I4092182,Graz University of Technology,2018,1897,6
+AT,I15766117,University of Graz,2018,1748,7
+AT,I202276237,Medical University of Graz,2018,1733,8
+AT,I143397708,Innsbruck Medical University,2018,1671,9
+AT,I121883995,Johannes Kepler University of Linz,2018,1603,10
+AT,I92869138,BOKU University,2018,1551,11
+AT,I138211613,Austrian Academy of Sciences,2018,1227,12
+AT,I1294671590,Centre National de la Recherche Scientifique,2018,1142,13
+AT,I182212641,University of Salzburg,2018,1129,14
+AT,I27945538,Paracelsus Medical University,2018,844,15
+AT,I129774422,University of Vienna,2023,7089,1
+AT,I76134821,Medical University of Vienna,2023,5822,2
+AT,I190249584,Universität Innsbruck,2023,4363,3
+AT,I145847075,TU Wien,2023,4108,4
+AT,I4092182,Graz University of Technology,2023,2449,5
+AT,I15766117,University of Graz,2023,2434,6
+AT,I202276237,Medical University of Graz,2023,2305,7
+AT,I121883995,Johannes Kepler University of Linz,2023,2031,8
+AT,I143397708,Innsbruck Medical University,2023,1903,9
+AT,I92869138,BOKU University,2023,1792,10
+AT,I1294671590,Centre National de la Recherche Scientifique,2023,1514,11
+AT,I138211613,Austrian Academy of Sciences,2023,1492,12
+AT,I182212641,University of Salzburg,2023,1491,13
+AT,I8204097,Ludwig-Maximilians-Universität München,2023,1062,14
+AT,I27945538,Paracelsus Medical University,2023,1057,15
+BE,I99464096,KU Leuven,2018,13172,1
+BE,I157674565,University of Liège,2018,8574,2
+BE,I32597200,Ghent University,2018,7376,3
+BE,I95674353,UCLouvain,2018,4050,4
+BE,I149213910,University of Antwerp,2018,3847,5
+BE,I132053463,Université Libre de Bruxelles,2018,3701,6
+BE,I2801227569,Ghent University Hospital,2018,3156,7
+BE,I13469542,Vrije Universiteit Brussel,2018,3056,8
+BE,I1294671590,Centre National de la Recherche Scientifique,2018,2107,9
+BE,I130929987,University of Mons,2018,1646,10
+BE,I878454856,Hasselt University,2018,1191,11
+BE,I4210114974,IMEC,2018,1120,12
+BE,I154526488,Inserm,2018,1090,13
+BE,I1315288073,Cliniques Universitaires Saint-Luc,2018,930,14
+BE,I204730241,Université Paris Cité,2018,923,15
+BE,I99464096,KU Leuven,2023,13991,1
+BE,I32597200,Ghent University,2023,8465,2
+BE,I13469542,Vrije Universiteit Brussel,2023,5429,3
+BE,I149213910,University of Antwerp,2023,5059,4
+BE,I132053463,Université Libre de Bruxelles,2023,4587,5
+BE,I157674565,University of Liège,2023,4537,6
+BE,I2801227569,Ghent University Hospital,2023,4155,7
+BE,I95674353,UCLouvain,2023,3839,8
+BE,I1294671590,Centre National de la Recherche Scientifique,2023,2772,9
+BE,I2801223450,Institute of Natural Sciences,2023,2303,10
+BE,I130929987,University of Mons,2023,2015,11
+BE,I33278361,University of Zambia,2023,1830,12
+BE,I154526488,Inserm,2023,1718,13
+BE,I15057530,Université de Bordeaux,2023,1580,14
+BE,I878454856,Hasselt University,2023,1556,15
+ES,I71999127,Universitat de Barcelona,2018,7299,1
+ES,I123044942,Universitat Autònoma de Barcelona,2018,6165,2
+ES,I121748325,Universidad Complutense de Madrid,2018,6065,3
+ES,I16097986,Universitat de València,2018,5503,4
+ES,I63634437,Universidad Autónoma de Madrid,2018,5090,5
+ES,I173304897,Universidad de Granada,2018,4993,6
+ES,I79238269,Universidad de Sevilla,2018,4449,7
+ES,I169108374,University of the Basque Country,2018,4427,8
+ES,I9617848,Universitat Politècnica de Catalunya,2018,3749,9
+ES,I60053951,Universitat Politècnica de València,2018,3588,10
+ES,I1294671590,Centre National de la Recherche Scientifique,2018,3473,11
+ES,I255234318,Universidad de Zaragoza,2018,3394,12
+ES,I88060688,Universidad Politécnica de Madrid,2018,3302,13
+ES,I200284239,Universidade de Santiago de Compostela,2018,3275,14
+ES,I134820265,Consejo Superior de Investigaciones Científicas,2018,2970,15
+ES,I71999127,Universitat de Barcelona,2023,10359,1
+ES,I121748325,Universidad Complutense de Madrid,2023,8964,2
+ES,I63634437,Universidad Autónoma de Madrid,2023,7486,3
+ES,I79238269,Universidad de Sevilla,2023,7388,4
+ES,I123044942,Universitat Autònoma de Barcelona,2023,7276,5
+ES,I173304897,Universidad de Granada,2023,6973,6
+ES,I16097986,Universitat de València,2023,6912,7
+ES,I134820265,Consejo Superior de Investigaciones Científicas,2023,6290,8
+ES,I169108374,University of the Basque Country,2023,5485,9
+ES,I2801357902,Instituto de Salud Carlos III,2023,5326,10
+ES,I1294671590,Centre National de la Recherche Scientifique,2023,4720,11
+ES,I9617848,Universitat Politècnica de Catalunya,2023,4627,12
+ES,I255234318,Universidad de Zaragoza,2023,4283,13
+ES,I60053951,Universitat Politècnica de València,2023,4232,14
+ES,I88060688,Universidad Politécnica de Madrid,2023,4188,15
+IT,I861853513,Sapienza University of Rome,2018,9224,1
+IT,I138689650,University of Padua,2018,7960,2
+IT,I189158943,University of Milan,2018,7871,3
+IT,I9360294,University of Bologna,2018,7728,4
+IT,I71267560,University of Naples Federico II,2018,5777,5
+IT,I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,2018,5703,6
+IT,I55143463,University of Turin,2018,5370,7
+IT,I45084792,University of Florence,2018,5253,8
+IT,I108290504,University of Pisa,2018,5061,9
+IT,I93860229,Politecnico di Milano,2018,5015,10
+IT,I4210155236,National Research Council,2018,4223,11
+IT,I1294671590,Centre National de la Recherche Scientifique,2018,4071,12
+IT,I116067653,University of Rome Tor Vergata,2018,3792,13
+IT,I83816512,University of Genoa,2018,3595,14
+IT,I66752286,University of Milano-Bicocca,2018,3279,15
+IT,I861853513,Sapienza University of Rome,2023,17374,1
+IT,I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,2023,12401,2
+IT,I138689650,University of Padua,2023,12030,3
+IT,I9360294,University of Bologna,2023,11251,4
+IT,I189158943,University of Milan,2023,10858,5
+IT,I71267560,University of Naples Federico II,2023,8495,6
+IT,I93860229,Politecnico di Milano,2023,8178,7
+IT,I55143463,University of Turin,2023,7544,8
+IT,I45084792,University of Florence,2023,7219,9
+IT,I4210155236,National Research Council,2023,6727,10
+IT,I108290504,University of Pisa,2023,6713,11
+IT,I1294671590,Centre National de la Recherche Scientifique,2023,5690,12
+IT,I83816512,University of Genoa,2023,5073,13
+IT,I177477856,Politecnico di Torino,2023,4999,14
+IT,I116067653,University of Rome Tor Vergata,2023,4939,15
+PT,I141596103,University of Lisbon,2018,7792,1
+PT,I182534213,Universidade do Porto,2018,6407,2
+PT,I76903346,University of Coimbra,2018,4473,3
+PT,I99682543,University of Minho,2018,3398,4
+PT,I83558840,Universidade Nova de Lisboa,2018,3357,5
+PT,I60858718,University of Aveiro,2018,3098,6
+PT,I4210138594,Rede de Química e Tecnologia,2018,1219,7
+PT,I161321875,University of Beira Interior,2018,1060,8
+PT,I1294671590,Centre National de la Recherche Scientifique,2018,1039,9
+PT,I203847022,Instituto Politécnico de Lisboa,2018,999,10
+PT,I71503853,University of Algarve,2018,986,11
+PT,I4210120471,Instituto de Telecomunicações,2018,965,12
+PT,I21803372,University of Évora,2018,960,13
+PT,I155381812,University of Trás-os-Montes and Alto Douro,2018,917,14
+PT,I110026055,Iscte – Instituto Universitário de Lisboa,2018,869,15
+PT,I141596103,University of Lisbon,2023,9871,1
+PT,I182534213,Universidade do Porto,2023,9778,2
+PT,I76903346,University of Coimbra,2023,5584,3
+PT,I99682543,University of Minho,2023,4269,4
+PT,I83558840,Universidade Nova de Lisboa,2023,4193,5
+PT,I60858718,University of Aveiro,2023,4174,6
+PT,I4210103026,Instituto Politécnico da Guarda,2023,2343,7
+PT,I190397597,University of Urbino,2023,2040,8
+PT,I130692619,Bern University of Applied Sciences,2023,2013,9
+PT,I126193024,London Metropolitan University,2023,2006,10
+PT,I173012211,Loyola University New Orleans,2023,2001,11
+PT,I4210116399,Labor (Italy),2023,2001,12
+PT,I4210137869,International Training Centre of the ILO,2023,2001,13
+PT,I83863532,Polytechnic Institute of Porto,2023,1529,14
+PT,I4210138594,Rede de Química e Tecnologia,2023,1456,15
+PL,I126596746,Jagiellonian University,2018,5667,1
+PL,I99542240,Polish Academy of Sciences,2018,4961,2
+PL,I4654613,University of Warsaw,2018,4792,3
+PL,I686019,AGH University of Krakow,2018,4785,4
+PL,I59411706,Adam Mickiewicz University in Poznań,2018,3652,5
+PL,I108403487,Warsaw University of Technology,2018,2964,6
+PL,I11923345,Wrocław University of Science and Technology,2018,2511,7
+PL,I34250744,University of Łódź,2018,2448,8
+PL,I3019271933,Nicolaus Copernicus University,2018,2402,9
+PL,I219388962,University of Wrocław,2018,2305,10
+PL,I119004910,Silesian University of Technology,2018,2284,11
+PL,I268303160,Medical University of Warsaw,2018,2167,12
+PL,I47996466,University of Warmia and Mazury in Olsztyn,2018,1844,13
+PL,I170230895,Warsaw University of Life Sciences,2018,1831,14
+PL,I40413290,University of Gdańsk,2018,1791,15
+PL,I126596746,Jagiellonian University,2023,7168,1
+PL,I99542240,Polish Academy of Sciences,2023,6166,2
+PL,I686019,AGH University of Krakow,2023,5491,3
+PL,I4654613,University of Warsaw,2023,5475,4
+PL,I59411706,Adam Mickiewicz University in Poznań,2023,3606,5
+PL,I108403487,Warsaw University of Technology,2023,2791,6
+PL,I119004910,Silesian University of Technology,2023,2723,7
+PL,I34250744,University of Łódź,2023,2628,8
+PL,I3019271933,Nicolaus Copernicus University,2023,2572,9
+PL,I268303160,Medical University of Warsaw,2023,2557,10
+PL,I11923345,Wrocław University of Science and Technology,2023,2343,11
+PL,I864159182,University of Silesia in Katowice,2023,2219,12
+PL,I40413290,University of Gdańsk,2023,2107,13
+PL,I219388962,University of Wrocław,2023,2037,14
+PL,I166182418,Medical University of Silesia,2023,1948,15
+CZ,I21250087,Charles University,2018,5860,1
+CZ,I21449261,Masaryk University,2018,2537,2
+CZ,I44504214,Czech Technical University in Prague,2018,2411,3
+CZ,I202391551,Czech Academy of Sciences,2018,1800,4
+CZ,I60587646,Brno University of Technology,2018,1733,5
+CZ,I70703428,Palacký University Olomouc,2018,1720,6
+CZ,I4210122644,FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic,2018,1312,7
+CZ,I142208455,VSB - Technical University of Ostrava,2018,1060,8
+CZ,I1294671590,Centre National de la Recherche Scientifique,2018,1015,9
+CZ,I205984670,Czech University of Life Sciences Prague,2018,972,10
+CZ,I9073902,"University of Chemistry and Technology, Prague",2018,824,11
+CZ,I3124161356,University of South Bohemia in České Budějovice,2018,821,12
+CZ,I92715842,University of West Bohemia in Pilsen,2018,730,13
+CZ,I1310815967,Central European Institute of Technology,2018,680,14
+CZ,I56081889,Mendel University in Brno,2018,597,15
+CZ,I21250087,Charles University,2023,7793,1
+CZ,I21449261,Masaryk University,2023,3479,2
+CZ,I44504214,Czech Technical University in Prague,2023,2747,3
+CZ,I202391551,Czech Academy of Sciences,2023,2180,4
+CZ,I70703428,Palacký University Olomouc,2023,2043,5
+CZ,I60587646,Brno University of Technology,2023,1899,6
+CZ,I205984670,Czech University of Life Sciences Prague,2023,1678,7
+CZ,I4210122644,FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic,2023,1649,8
+CZ,I1294671590,Centre National de la Recherche Scientifique,2023,1533,9
+CZ,I142208455,VSB - Technical University of Ostrava,2023,1351,10
+CZ,I9073902,"University of Chemistry and Technology, Prague",2023,1106,11
+CZ,I3124161356,University of South Bohemia in České Budějovice,2023,1046,12
+CZ,I56081889,Mendel University in Brno,2023,990,13
+CZ,I19820366,Chinese Academy of Sciences,2023,928,14
+CZ,I187293425,University of Ostrava,2023,793,15
+EE,I56085075,University of Tartu,2018,1914,1
+EE,I111112146,Tallinn University of Technology,2018,968,2
+EE,I924572780,Praxis,2018,587,3
+EE,I133731052,University of Helsinki,2018,413,4
+EE,I193629610,Tallinn University,2018,349,5
+EE,I19409027,Estonian University of Life Sciences,2018,326,6
+EE,I31528381,National Institute of Chemical Physics and Biophysics,2018,272,7
+EE,I1294671590,Centre National de la Recherche Scientifique,2018,255,8
+EE,I47508984,Imperial College London,2018,209,9
+EE,I36234482,University of Bristol,2018,181,10
+EE,I159176309,Universität Hamburg,2018,180,11
+EE,I145311948,Johns Hopkins University,2018,179,12
+EE,I173212132,Vilnius University,2018,177,13
+EE,I21250087,Charles University,2018,176,14
+EE,I2802241215,Tartu University Hospital,2018,174,15
+EE,I56085075,University of Tartu,2023,2772,1
+EE,I111112146,Tallinn University of Technology,2023,1409,2
+EE,I924572780,Praxis,2023,628,3
+EE,I193629610,Tallinn University,2023,535,4
+EE,I19409027,Estonian University of Life Sciences,2023,478,5
+EE,I133731052,University of Helsinki,2023,311,6
+EE,I1294671590,Centre National de la Recherche Scientifique,2023,252,7
+EE,I31528381,National Institute of Chemical Physics and Biophysics,2023,247,8
+EE,I2802241215,Tartu University Hospital,2023,200,9
+EE,I4210093416,Ministry of Agriculture,2023,188,10
+EE,I173212132,Vilnius University,2023,150,11
+EE,I159176309,Universität Hamburg,2023,149,12
+EE,I28166907,Karolinska Institutet,2023,146,13
+EE,I91123046,University of Latvia,2023,142,14
+EE,I202697423,University of Zurich,2023,131,15
+MT,I197854408,University of Malta,2018,1003,1
+MT,I2801220772,Mater Dei Hospital,2018,229,2
+MT,I4210127577,Middlesex University,2018,72,3
+MT,I4210124742,Primary HealthCare,2018,71,4
+MT,I4210165689,St. Luke's Hospital,2018,56,5
+MT,I4210134505,Primary Health Care,2018,38,6
+MT,I4210134722,Ministry for Health,2018,38,7
+MT,I79510175,Cardiff University,2018,38,8
+MT,I98704320,Icahn School of Medicine at Mount Sinai,2018,37,9
+MT,I4210124908,"Malta College of Arts, Science and Technology",2018,36,10
+MT,I1320796813,Mount Sinai Health System,2018,35,11
+MT,I2799405328,Heritage Malta,2018,32,12
+MT,I1294671590,Centre National de la Recherche Scientifique,2018,27,13
+MT,I60488453,Middlesex University,2018,25,14
+MT,I124055696,University of Copenhagen,2018,24,15
+MT,I197854408,University of Malta,2023,1462,1
+MT,I2801220772,Mater Dei Hospital,2023,255,2
+MT,I4210124742,Primary HealthCare,2023,160,3
+MT,I4210124908,"Malta College of Arts, Science and Technology",2023,133,4
+MT,I2799405328,Heritage Malta,2023,76,5
+MT,I4210134505,Primary Health Care,2023,58,6
+MT,I4210134722,Ministry for Health,2023,50,7
+MT,I1294671590,Centre National de la Recherche Scientifique,2023,48,8
+MT,I4210127577,Middlesex University,2023,48,9
+MT,I98677209,University of Edinburgh,2023,44,10
+MT,I40120149,University of Oxford,2023,41,11
+MT,I96673099,Technical University of Denmark,2023,40,12
+MT,I169381384,University of Groningen,2023,37,13
+MT,I45129253,University College London,2023,37,14
+MT,I124055696,University of Copenhagen,2023,36,15
+GE,I102808428,Tbilisi State University,2018,772,1
+GE,I131762061,Georgian Technical University,2018,284,2
+GE,I1294671590,Centre National de la Recherche Scientifique,2018,252,3
+GE,I183003952,Ilia State University,2018,248,4
+GE,I19880235,Lomonosov Moscow State University,2018,246,5
+GE,I32699454,Joint Institute for Nuclear Research,2018,246,6
+GE,I21250087,Charles University,2018,240,7
+GE,I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2018,240,8
+GE,I4210130434,Petersburg Nuclear Physics Institute,2018,239,9
+GE,I135310074,University of Wisconsin–Madison,2018,238,10
+GE,I4068193,University of Belgrade,2018,238,11
+GE,I200777214,National and Kapodistrian University of Athens,2018,237,12
+GE,I4210128565,CEA Paris-Saclay,2018,237,13
+GE,I4210108560,"Istituto Nazionale di Fisica Nucleare, Sezione di Napoli",2018,236,14
+GE,I4210109533,"Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",2018,236,15
+GE,I102808428,Tbilisi State University,2023,874,1
+GE,I183003952,Ilia State University,2023,662,2
+GE,I131762061,Georgian Technical University,2023,501,3
+GE,I7848551,Tbilisi State Medical University,2023,460,4
+GE,I12153360,Batumi Shota Rustaveli State University,2023,246,5
+GE,I2802466663,State Museum of Natural History Karlsruhe,2023,225,6
+GE,I59807684,Akaki Tsereteli State University,2023,223,7
+GE,I1294671590,Centre National de la Recherche Scientifique,2023,213,8
+GE,I200777214,National and Kapodistrian University of Athens,2023,195,9
+GE,I21250087,Charles University,2023,184,10
+GE,I4068193,University of Belgrade,2023,183,11
+GE,I4210108110,Mohamed I University,2023,178,12
+GE,I277688954,Université Paris-Saclay,2023,176,13
+GE,I63634437,Universidad Autónoma de Madrid,2023,175,14
+GE,I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2023,173,15
+TR,I67581229,Istanbul University,2018,3223,1
+TR,I66514158,Hacettepe University,2018,3185,2
+TR,I149218525,Ankara University,2018,3071,3
+TR,I4210128276,Sağlık Bilimleri Üniversitesi,2018,2994,4
+TR,I95634034,Gazi University,2018,2430,5
+TR,I48912391,Istanbul Technical University,2018,2352,6
+TR,I41641357,Ege University,2018,2244,7
+TR,I74897591,Marmara University,2018,2145,8
+TR,I201799495,Middle East Technical University,2018,2063,9
+TR,I193615760,Dokuz Eylül University,2018,1818,10
+TR,I55931168,Cukurova University,2018,1684,11
+TR,I64134780,Atatürk University,2018,1673,12
+TR,I137996928,Selçuk University,2018,1513,13
+TR,I103703290,Sakarya University,2018,1501,14
+TR,I131835042,Bursa Uludağ Üni̇versi̇tesi̇,2018,1438,15
+TR,I4210128276,Sağlık Bilimleri Üniversitesi,2023,7665,1
+TR,I66514158,Hacettepe University,2023,4779,2
+TR,I149218525,Ankara University,2023,4503,3
+TR,I67581229,Istanbul University,2023,4371,4
+TR,I48912391,Istanbul Technical University,2023,3633,5
+TR,I64134780,Atatürk University,2023,3415,6
+TR,I74897591,Marmara University,2023,3324,7
+TR,I41641357,Ege University,2023,3291,8
+TR,I95634034,Gazi University,2023,3254,9
+TR,I4210112471,Istanbul University-Cerrahpaşa,2023,2809,10
+TR,I137996928,Selçuk University,2023,2661,11
+TR,I103703290,Sakarya University,2023,2625,12
+TR,I193615760,Dokuz Eylül University,2023,2533,13
+TR,I4101805,Yıldız Technical University,2023,2435,14
+TR,I55931168,Cukurova University,2023,2410,15
+RU,I19880235,Lomonosov Moscow State University,2018,9047,1
+RU,I1313323035,Russian Academy of Sciences,2018,6242,2
+RU,I172901346,St Petersburg University,2018,4592,3
+RU,I196355604,National Research Tomsk State University,2018,3950,4
+RU,I118501908,National Research University Higher School of Economics,2018,3650,5
+RU,I188973947,Novosibirsk State University,2018,3116,6
+RU,I130823665,Ural Federal University,2018,3055,7
+RU,I21203515,Kazan Federal University,2018,2710,8
+RU,I173089394,ITMO University,2018,2569,9
+RU,I887846188,National Research Nuclear University MEPhI,2018,2554,10
+RU,I17877952,Sechenov University,2018,2434,11
+RU,I153845743,Moscow Institute of Physics and Technology,2018,2417,12
+RU,I126527374,Peoples' Friendship University of Russia,2018,2181,13
+RU,I4210127387,Siberian Branch of the Russian Academy of Sciences,2018,2084,14
+RU,I4210117042,Ministry of Health of the Russian Federation,2018,2025,15
+RU,I19880235,Lomonosov Moscow State University,2023,11441,1
+RU,I1313323035,Russian Academy of Sciences,2023,9498,2
+RU,I172901346,St Petersburg University,2023,5272,3
+RU,I118501908,National Research University Higher School of Economics,2023,4165,4
+RU,I17877952,Sechenov University,2023,4004,5
+RU,I126527374,Peoples' Friendship University of Russia,2023,3736,6
+RU,I4210150146,Moscow State University,2023,3731,7
+RU,I130823665,Ural Federal University,2023,3290,8
+RU,I4210117042,Ministry of Health of the Russian Federation,2023,3263,9
+RU,I21203515,Kazan Federal University,2023,2881,10
+RU,I196355604,National Research Tomsk State University,2023,2865,11
+RU,I153845743,Moscow Institute of Physics and Technology,2023,2584,12
+RU,I4210127387,Siberian Branch of the Russian Academy of Sciences,2023,2276,13
+RU,I188973947,Novosibirsk State University,2023,2202,14
+RU,I337778094,Pirogov Russian National Research Medical University,2023,2141,15
+CN,I19820366,Chinese Academy of Sciences,2018,44522,1
+CN,I4210165038,University of Chinese Academy of Sciences,2018,22680,2
+CN,I99065089,Tsinghua University,2018,16654,3
+CN,I183067930,Shanghai Jiao Tong University,2018,15713,4
+CN,I20231570,Peking University,2018,15178,5
+CN,I76130692,Zhejiang University,2018,13464,6
+CN,I157773358,Sun Yat-sen University,2018,12832,7
+CN,I47720641,Huazhong University of Science and Technology,2018,11408,8
+CN,I204983213,Harbin Institute of Technology,2018,10154,9
+CN,I24185976,Sichuan University,2018,10098,10
+CN,I139660479,Central South University,2018,9820,11
+CN,I126520041,University of Science and Technology of China,2018,9189,12
+CN,I87445476,Xi'an Jiaotong University,2018,9188,13
+CN,I24943067,Fudan University,2018,9116,14
+CN,I37461747,Wuhan University,2018,8718,15
+CN,I19820366,Chinese Academy of Sciences,2023,69578,1
+CN,I4210165038,University of Chinese Academy of Sciences,2023,36984,2
+CN,I183067930,Shanghai Jiao Tong University,2023,28906,3
+CN,I76130692,Zhejiang University,2023,28740,4
+CN,I20231570,Peking University,2023,26982,5
+CN,I99065089,Tsinghua University,2023,25069,6
+CN,I157773358,Sun Yat-sen University,2023,24628,7
+CN,I24185976,Sichuan University,2023,22227,8
+CN,I139660479,Central South University,2023,21300,9
+CN,I47720641,Huazhong University of Science and Technology,2023,20176,10
+CN,I24943067,Fudan University,2023,18678,11
+CN,I126520041,University of Science and Technology of China,2023,16756,12
+CN,I37461747,Wuhan University,2023,16674,13
+CN,I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,2023,16558,14
+CN,I204983213,Harbin Institute of Technology,2023,16064,15
+JP,I74801974,The University of Tokyo,2018,14920,1
+JP,I22299242,Kyoto University,2018,11320,2
+JP,I98285908,The University of Osaka,2018,8203,3
+JP,I201537933,Tohoku University,2018,7759,4
+JP,I135598925,Kyushu University,2018,6478,5
+JP,I60134161,Nagoya University,2018,6351,6
+JP,I205349734,Hokkaido University,2018,5332,7
+JP,I114531698,Tokyo Institute of Technology,2018,4758,8
+JP,I146399215,University of Tsukuba,2018,4658,9
+JP,I203951103,Keio University,2018,4406,10
+JP,I73613424,National Institute of Advanced Industrial Science and Technology,2018,3651,11
+JP,I150744194,Waseda University,2018,3318,12
+JP,I113306721,Hiroshima University,2018,3304,13
+JP,I65837984,Kobe University,2018,3274,14
+JP,I159385669,Chiba University,2018,2735,15
+JP,I74801974,The University of Tokyo,2023,18186,1
+JP,I22299242,Kyoto University,2023,11103,2
+JP,I98285908,The University of Osaka,2023,8997,3
+JP,I201537933,Tohoku University,2023,8800,4
+JP,I60134161,Nagoya University,2023,6968,5
+JP,I135598925,Kyushu University,2023,6855,6
+JP,I114531698,Tokyo Institute of Technology,2023,6111,7
+JP,I205349734,Hokkaido University,2023,6056,8
+JP,I146399215,University of Tsukuba,2023,5279,9
+JP,I203951103,Keio University,2023,4669,10
+JP,I113306721,Hiroshima University,2023,4248,11
+JP,I150744194,Waseda University,2023,3575,12
+JP,I65837984,Kobe University,2023,3534,13
+JP,I73613424,National Institute of Advanced Industrial Science and Technology,2023,3334,14
+JP,I159385669,Chiba University,2023,3262,15
+KR,I139264467,Seoul National University,2018,9935,1
+KR,I193775966,Yonsei University,2018,7766,2
+KR,I848706,Sungkyunkwan University,2018,6209,3
+KR,I197347611,Korea University,2018,5412,4
+KR,I157485424,Korea Advanced Institute of Science and Technology,2018,4602,5
+KR,I4575257,Hanyang University,2018,4059,6
+KR,I35928602,Kyung Hee University,2018,3611,7
+KR,I31419693,Kyungpook National University,2018,3222,8
+KR,I40542001,University of Ulsan,2018,3190,9
+KR,I4921948,Pusan National University,2018,2883,10
+KR,I2801680663,Asan Medical Center,2018,2543,11
+KR,I2802835388,Seoul National University Hospital,2018,2533,12
+KR,I87111246,Catholic University of Korea,2018,2500,13
+KR,I116631150,Ulsan College,2018,2468,14
+KR,I2802194831,Samsung Medical Center,2018,2360,15
+KR,I139264467,Seoul National University,2023,11622,1
+KR,I193775966,Yonsei University,2023,10804,2
+KR,I848706,Sungkyunkwan University,2023,8118,3
+KR,I197347611,Korea University,2023,6843,4
+KR,I4575257,Hanyang University,2023,5236,5
+KR,I157485424,Korea Advanced Institute of Science and Technology,2023,4989,6
+KR,I35928602,Kyung Hee University,2023,4534,7
+KR,I31419693,Kyungpook National University,2023,4037,8
+KR,I40542001,University of Ulsan,2023,3797,9
+KR,I4921948,Pusan National University,2023,3797,10
+KR,I2802835388,Seoul National University Hospital,2023,3466,11
+KR,I87111246,Catholic University of Korea,2023,3343,12
+KR,I2802194831,Samsung Medical Center,2023,3107,13
+KR,I67900169,Chung-Ang University,2023,3094,14
+KR,I196345858,Chungnam National University,2023,3072,15
+SG,I165932596,National University of Singapore,2018,11038,1
+SG,I172675005,Nanyang Technological University,2018,8866,2
+SG,I115228651,"Agency for Science, Technology and Research",2018,2151,3
+SG,I4210126319,Duke-NUS Medical School,2018,1331,4
+SG,I4210150261,National University Health System,2018,1159,5
+SG,I2251586001,Singapore General Hospital,2018,1031,6
+SG,I152815399,Singapore University of Technology and Design,2018,990,7
+SG,I79891267,Singapore Management University,2018,861,8
+SG,I4210146690,National University Hospital,2018,747,9
+SG,I2802408685,Tan Tock Seng Hospital,2018,585,10
+SG,I4210112252,KK Women's and Children's Hospital,2018,496,11
+SG,I4210123095,Institute of Materials Research and Engineering,2018,477,12
+SG,I19820366,Chinese Academy of Sciences,2018,469,13
+SG,I4210137145,National Cancer Centre Singapore,2018,461,14
+SG,I4210116917,Singapore Eye Research Institute,2018,413,15
+SG,I165932596,National University of Singapore,2023,14341,1
+SG,I172675005,Nanyang Technological University,2023,10351,2
+SG,I115228651,"Agency for Science, Technology and Research",2023,3656,3
+SG,I4210126319,Duke-NUS Medical School,2023,1869,4
+SG,I4210150261,National University Health System,2023,1550,5
+SG,I2251586001,Singapore General Hospital,2023,1393,6
+SG,I4210146690,National University Hospital,2023,1269,7
+SG,I152815399,Singapore University of Technology and Design,2023,1257,8
+SG,I79891267,Singapore Management University,2023,1253,9
+SG,I19820366,Chinese Academy of Sciences,2023,871,10
+SG,I4210123095,Institute of Materials Research and Engineering,2023,793,11
+SG,I76130692,Zhejiang University,2023,777,12
+SG,I2802408685,Tan Tock Seng Hospital,2023,735,13
+SG,I3004594783,Institute of High Performance Computing,2023,704,14
+SG,I4210112252,KK Women's and Children's Hospital,2023,704,15
+AU,I165779595,The University of Melbourne,2018,14481,1
+AU,I129604602,The University of Sydney,2018,14192,2
+AU,I31746571,UNSW Sydney,2018,12629,3
+AU,I56590836,Monash University,2018,12257,4
+AU,I165143802,The University of Queensland,2018,12076,5
+AU,I5681781,The University of Adelaide,2018,6909,6
+AU,I177877127,The University of Western Australia,2018,6723,7
+AU,I118347636,Australian National University,2018,6654,8
+AU,I114017466,University of Technology Sydney,2018,5490,9
+AU,I149704539,Deakin University,2018,4955,10
+AU,I205640436,Curtin University,2018,4891,11
+AU,I160993911,Queensland University of Technology,2018,4813,12
+AU,I11701301,Griffith University,2018,4767,13
+AU,I99043593,Macquarie University,2018,4734,14
+AU,I63525965,Western Sydney University,2018,3946,15
+AU,I165779595,The University of Melbourne,2023,17656,1
+AU,I129604602,The University of Sydney,2023,17041,2
+AU,I56590836,Monash University,2023,15340,3
+AU,I31746571,UNSW Sydney,2023,13980,4
+AU,I165143802,The University of Queensland,2023,13700,5
+AU,I177877127,The University of Western Australia,2023,7293,6
+AU,I5681781,The University of Adelaide,2023,7041,7
+AU,I118347636,Australian National University,2023,7002,8
+AU,I114017466,University of Technology Sydney,2023,6498,9
+AU,I149704539,Deakin University,2023,6127,10
+AU,I11701301,Griffith University,2023,5390,11
+AU,I160993911,Queensland University of Technology,2023,5149,12
+AU,I99043593,Macquarie University,2023,5087,13
+AU,I205640436,Curtin University,2023,5000,14
+AU,I82951845,RMIT University,2023,4803,15
+NZ,I154130895,University of Auckland,2018,5906,1
+NZ,I80281795,University of Otago,2018,3781,2
+NZ,I41156924,Victoria University of Wellington,2018,2511,3
+NZ,I51158804,Massey University,2018,2018,4
+NZ,I185492890,University of Canterbury,2018,1900,5
+NZ,I39854758,Auckland University of Technology,2018,1774,6
+NZ,I52179390,University of Waikato,2018,1168,7
+NZ,I184746854,Lincoln University,2018,605,8
+NZ,I2801418622,Auckland City Hospital,2018,514,9
+NZ,I165779595,The University of Melbourne,2018,506,10
+NZ,I41125697,AgResearch,2018,445,11
+NZ,I45935490,National Institute of Water and Atmospheric Research,2018,439,12
+NZ,I1320288732,Plant & Food Research,2018,438,13
+NZ,I1294671590,Centre National de la Recherche Scientifique,2018,432,14
+NZ,I165143802,The University of Queensland,2018,410,15
+NZ,I154130895,University of Auckland,2023,6748,1
+NZ,I80281795,University of Otago,2023,4026,2
+NZ,I41156924,Victoria University of Wellington,2023,2551,3
+NZ,I185492890,University of Canterbury,2023,2338,4
+NZ,I51158804,Massey University,2023,2227,5
+NZ,I39854758,Auckland University of Technology,2023,2079,6
+NZ,I52179390,University of Waikato,2023,1511,7
+NZ,I165779595,The University of Melbourne,2023,690,8
+NZ,I129604602,The University of Sydney,2023,555,9
+NZ,I184746854,Lincoln University,2023,553,10
+NZ,I2801418622,Auckland City Hospital,2023,548,11
+NZ,I45935490,National Institute of Water and Atmospheric Research,2023,533,12
+NZ,I56590836,Monash University,2023,529,13
+NZ,I165143802,The University of Queensland,2023,472,14
+NZ,I11886867,GNS Science,2023,441,15
+MY,I33849332,University of Malaya,2018,4876,1
+MY,I82724352,Universiti Teknologi MARA,2018,4363,2
+MY,I4576418,University of Technology Malaysia,2018,4350,3
+MY,I885383172,National University of Malaysia,2018,4263,4
+MY,I130343225,Universiti Putra Malaysia,2018,3943,5
+MY,I139322472,Universiti Sains Malaysia,2018,3770,6
+MY,I4164984,International Islamic University Malaysia,2018,2180,7
+MY,I930072361,Tun Hussein Onn University of Malaysia,2018,1870,8
+MY,I102913810,Universiti Malaysia Pahang Al-Sultan Abdullah,2018,1759,9
+MY,I203899302,Universiti Teknologi Petronas,2018,1563,10
+MY,I65079550,Universiti Malaysia Perlis,2018,1467,11
+MY,I94625822,Northern University of Malaysia,2018,1306,12
+MY,I161371597,Universiti of Malaysia Sabah,2018,984,13
+MY,I32589535,Technical University of Malaysia Malacca,2018,938,14
+MY,I51569856,Sultan Zainal Abidin University,2018,933,15
+MY,I82724352,Universiti Teknologi MARA,2023,7846,1
+MY,I885383172,National University of Malaysia,2023,6541,2
+MY,I33849332,University of Malaya,2023,6310,3
+MY,I139322472,Universiti Sains Malaysia,2023,5956,4
+MY,I130343225,Universiti Putra Malaysia,2023,5485,5
+MY,I4576418,University of Technology Malaysia,2023,5305,6
+MY,I4164984,International Islamic University Malaysia,2023,2530,7
+MY,I102913810,Universiti Malaysia Pahang Al-Sultan Abdullah,2023,2047,8
+MY,I161371597,Universiti of Malaysia Sabah,2023,2006,9
+MY,I930072361,Tun Hussein Onn University of Malaysia,2023,1958,10
+MY,I157696592,Universiti Malaysia Terengganu,2023,1926,11
+MY,I203899302,Universiti Teknologi Petronas,2023,1727,12
+MY,I65079550,Universiti Malaysia Perlis,2023,1725,13
+MY,I143923087,Sultan Idris Education University,2023,1697,14
+MY,I84339108,Sunway University,2023,1592,15
+ID,I29617571,University of Indonesia,2018,6674,1
+ID,I11855966,Diponegoro University,2018,4796,2
+ID,I165230279,Universitas Gadjah Mada,2018,4715,3
+ID,I119896790,Sebelas Maret University,2018,4359,4
+ID,I254887060,Universitas Sumatera Utara,2018,3732,5
+ID,I91819753,Padjadjaran University,2018,3607,6
+ID,I205133468,Airlangga University,2018,3480,7
+ID,I177055848,University of Brawijaya,2018,3458,8
+ID,I862893732,Telkom University,2018,3384,9
+ID,I21881038,IPB University,2018,3290,10
+ID,I126826664,Udayana University,2018,3112,11
+ID,I134635517,Bandung Institute of Technology,2018,3047,12
+ID,I187494767,Universitas Syiah Kuala,2018,2853,13
+ID,I245308123,State University of Padang,2018,2798,14
+ID,I4210150789,Universitas Muhammadiyah Tapanuli Selatan,2018,2738,15
+ID,I4210148414,Institut Agama Islam Negeri Bengkulu,2023,10060,1
+ID,I29617571,University of Indonesia,2023,9643,2
+ID,I245308123,State University of Padang,2023,7488,3
+ID,I165230279,Universitas Gadjah Mada,2023,7199,4
+ID,I205133468,Airlangga University,2023,7194,5
+ID,I130218214,Indonesia University of Education,2023,6796,6
+ID,I4210137904,Universitas Islam Negeri Sumatera Utara,2023,6555,7
+ID,I4387154144,National Research and Innovation Agency,2023,6516,8
+ID,I119896790,Sebelas Maret University,2023,6467,9
+ID,I177055848,University of Brawijaya,2023,6426,10
+ID,I91819753,Padjadjaran University,2023,6329,11
+ID,I102893293,State University of Malang,2023,6272,12
+ID,I11855966,Diponegoro University,2023,5792,13
+ID,I134635517,Bandung Institute of Technology,2023,5690,14
+ID,I4210116728,Universitas Patria Artha,2023,5553,15
+TH,I25399158,Mahidol University,2018,3309,1
+TH,I158708052,Chulalongkorn University,2018,3059,2
+TH,I48076826,Chiang Mai University,2018,1966,3
+TH,I198105771,Kasetsart University,2018,1471,4
+TH,I179193067,Khon Kaen University,2018,1433,5
+TH,I131868736,Prince of Songkla University,2018,1295,6
+TH,I108108428,Thammasat University,2018,1099,7
+TH,I91538806,King Mongkut's Institute of Technology Ladkrabang,2018,1066,8
+TH,I1332387789,Siriraj Hospital,2018,834,9
+TH,I60837268,King Mongkut's University of Technology Thonburi,2018,754,10
+TH,I82828225,King Mongkut's University of Technology North Bangkok,2018,657,11
+TH,I4210140007,Ramathibodi Hospital,2018,566,12
+TH,I66200439,Naresuan University,2018,548,13
+TH,I82475049,Suranaree University of Technology,2018,469,14
+TH,I1332092204,National Science and Technology Development Agency,2018,453,15
+TH,I25399158,Mahidol University,2023,4780,1
+TH,I158708052,Chulalongkorn University,2023,4647,2
+TH,I48076826,Chiang Mai University,2023,3055,3
+TH,I179193067,Khon Kaen University,2023,2141,4
+TH,I131868736,Prince of Songkla University,2023,2086,5
+TH,I198105771,Kasetsart University,2023,2032,6
+TH,I108108428,Thammasat University,2023,1789,7
+TH,I1332387789,Siriraj Hospital,2023,1345,8
+TH,I91538806,King Mongkut's Institute of Technology Ladkrabang,2023,1225,9
+TH,I82828225,King Mongkut's University of Technology North Bangkok,2023,1203,10
+TH,I60837268,King Mongkut's University of Technology Thonburi,2023,1150,11
+TH,I1332092204,National Science and Technology Development Agency,2023,983,12
+TH,I82475049,Suranaree University of Technology,2023,888,13
+TH,I4210140007,Ramathibodi Hospital,2023,885,14
+TH,I2802209374,King Chulalongkorn Memorial Hospital,2023,786,15
+VN,I141445968,Ton Duc Thang University,2018,1643,1
+VN,I70349855,Vietnam Academy of Science and Technology,2018,1165,2
+VN,I123565023,Vietnam National University Ho Chi Minh City,2018,874,3
+VN,I94518387,Hanoi University of Science and Technology,2018,762,4
+VN,I170238339,Duy Tan University,2018,651,5
+VN,I47265099,Ho Chi Minh City University of Technology,2018,531,6
+VN,I177233841,"Vietnam National University, Hanoi",2018,441,7
+VN,I67868205,VNU University of Science,2018,432,8
+VN,I4210095101,Hue University,2018,379,9
+VN,I177733328,Can Tho University,2018,341,10
+VN,I4210095633,General Department of Preventive Medicine,2018,331,11
+VN,I3129492623,University of Da Nang,2018,322,12
+VN,I4210115718,Thai Nguyen University,2018,316,13
+VN,I23582244,Ho Chi Minh City University of Science,2018,315,14
+VN,I1294671590,Centre National de la Recherche Scientifique,2018,261,15
+VN,I123565023,Vietnam National University Ho Chi Minh City,2023,3228,1
+VN,I70349855,Vietnam Academy of Science and Technology,2023,1909,2
+VN,I47265099,Ho Chi Minh City University of Technology,2023,1770,3
+VN,I94518387,Hanoi University of Science and Technology,2023,1735,4
+VN,I177233841,"Vietnam National University, Hanoi",2023,1351,5
+VN,I177733328,Can Tho University,2023,1334,6
+VN,I170238339,Duy Tan University,2023,1057,7
+VN,I3129492623,University of Da Nang,2023,820,8
+VN,I4210095101,Hue University,2023,817,9
+VN,I181727666,University of Economics Ho Chi Minh City,2023,810,10
+VN,I3020192730,Trường ĐH Nguyễn Tất Thành,2023,799,11
+VN,I4210115718,Thai Nguyen University,2023,740,12
+VN,I141445968,Ton Duc Thang University,2023,724,13
+VN,I202539009,Industrial University of Ho Chi Minh City,2023,716,14
+VN,I23582244,Ho Chi Minh City University of Science,2023,696,15
+IN,I876193797,Vellore Institute of Technology University,2018,3829,1
+IN,I59270414,Indian Institute of Science Bangalore,2018,3414,2
+IN,I68891433,Indian Institute of Technology Delhi,2018,3346,3
+IN,I24676775,Indian Institute of Technology Madras,2018,3318,4
+IN,I145894827,Indian Institute of Technology Kharagpur,2018,3192,5
+IN,I162827531,Indian Institute of Technology Bombay,2018,3173,6
+IN,I63739035,All India Institute of Medical Sciences,2018,3111,7
+IN,I110166357,University of Delhi,2018,2968,8
+IN,I91357014,Banaras Hindu University,2018,2904,9
+IN,I45294948,Post Graduate Institute of Medical Education and Research,2018,2619,10
+IN,I164861460,Manipal Academy of Higher Education,2018,2436,11
+IN,I154851008,Indian Institute of Technology Roorkee,2018,2329,12
+IN,I51317819,Institute of Medical Sciences,2018,2294,13
+IN,I170979836,Jadavpur University,2018,2173,14
+IN,I94234084,Indian Institute of Technology Kanpur,2018,2145,15
+IN,I876193797,Vellore Institute of Technology University,2023,8096,1
+IN,I85461943,Saveetha University,2023,7633,2
+IN,I145286018,SRM Institute of Science and Technology,2023,6753,3
+IN,I63739035,All India Institute of Medical Sciences,2023,6274,4
+IN,I101407740,Chandigarh University,2023,5643,5
+IN,I110166357,University of Delhi,2023,5317,6
+IN,I91357014,Banaras Hindu University,2023,5290,7
+IN,I68891433,Indian Institute of Technology Delhi,2023,5059,8
+IN,I110360157,Lovely Professional University,2023,4637,9
+IN,I145894827,Indian Institute of Technology Kharagpur,2023,4455,10
+IN,I164861460,Manipal Academy of Higher Education,2023,4443,11
+IN,I60054993,Graphic Era University,2023,4387,12
+IN,I99364266,Academy of Scientific and Innovative Research,2023,4315,13
+IN,I51317819,Institute of Medical Sciences,2023,4204,14
+IN,I24676775,Indian Institute of Technology Madras,2023,4167,15
+PK,I16076960,COMSATS University Islamabad,2018,2976,1
+PK,I12469534,Quaid-i-Azam University,2018,1565,2
+PK,I929597975,National University of Sciences and Technology,2018,1431,3
+PK,I172780181,University of the Punjab,2018,1417,4
+PK,I61623833,University of Agriculture Faisalabad,2018,1082,5
+PK,I193670377,University of Karachi,2018,1015,6
+PK,I194348271,"Government College University, Faisalabad",2018,832,7
+PK,I121243025,"International Islamic University, Islamabad",2018,819,8
+PK,I127670440,Bahauddin Zakariya University,2018,803,9
+PK,I142204992,University of Lahore,2018,789,10
+PK,I174731842,Islamia University of Bahawalpur,2018,722,11
+PK,I181063083,Abdul Wali Khan University Mardan,2018,688,12
+PK,I160968435,University of Sargodha,2018,660,13
+PK,I36001604,University of Peshawar,2018,653,14
+PK,I142732210,University of Engineering and Technology Lahore,2018,650,15
+PK,I172780181,University of the Punjab,2023,3892,1
+PK,I16076960,COMSATS University Islamabad,2023,3726,2
+PK,I28022161,King Saud University,2023,2796,3
+PK,I61623833,University of Agriculture Faisalabad,2023,2621,4
+PK,I929597975,National University of Sciences and Technology,2023,2564,5
+PK,I142204992,University of Lahore,2023,2361,6
+PK,I174731842,Islamia University of Bahawalpur,2023,2341,7
+PK,I194348271,"Government College University, Faisalabad",2023,2298,8
+PK,I12469534,Quaid-i-Azam University,2023,2177,9
+PK,I127670440,Bahauddin Zakariya University,2023,1976,10
+PK,I195024194,Riphah International University,2023,1762,11
+PK,I39727005,Dow University of Health Sciences,2023,1695,12
+PK,I5100685,University of Education,2023,1691,13
+PK,I193670377,University of Karachi,2023,1638,14
+PK,I3130814776,University of Okara,2023,1612,15
+BD,I205746353,University of Dhaka,2018,1198,1
+BD,I183697816,Bangladesh University of Engineering and Technology,2018,760,2
+BD,I24057909,Bangladesh Agricultural University,2018,662,3
+BD,I4210090971,Southeast University,2018,629,4
+BD,I902853133,University of Rajshahi,2018,544,5
+BD,I201969901,Bangladesh Medical University,2018,537,6
+BD,I40279923,Islamic University,2018,478,7
+BD,I205889620,International Centre for Diarrhoeal Disease Research,2018,455,8
+BD,I46080048,Jahangirnagar University,2018,448,9
+BD,I96369009,Dhaka Medical College and Hospital,2018,445,10
+BD,I157386601,North South University,2018,405,11
+BD,I76569877,Southeast University,2018,377,12
+BD,I894293524,University of Chittagong,2018,368,13
+BD,I5518804,BRAC University,2018,337,14
+BD,I4210150840,Ministry of Education,2018,324,15
+BD,I205746353,University of Dhaka,2023,2384,1
+BD,I40279923,Islamic University,2023,1566,2
+BD,I183697816,Bangladesh University of Engineering and Technology,2023,1360,3
+BD,I200606013,Daffodil International University,2023,1305,4
+BD,I902853133,University of Rajshahi,2023,1129,5
+BD,I4210090971,Southeast University,2023,1078,6
+BD,I96369009,Dhaka Medical College and Hospital,2023,1078,7
+BD,I24057909,Bangladesh Agricultural University,2023,958,8
+BD,I46080048,Jahangirnagar University,2023,949,9
+BD,I201969901,Bangladesh Medical University,2023,944,10
+BD,I5518804,BRAC University,2023,813,11
+BD,I1307585291,Khulna University of Engineering and Technology,2023,770,12
+BD,I124386471,Khulna University,2023,764,13
+BD,I157386601,North South University,2023,745,14
+BD,I76569877,Southeast University,2023,727,15
+BR,I17974374,Universidade de São Paulo,2018,21095,1
+BR,I879563668,Universidade Estadual Paulista (Unesp),2018,10545,2
+BR,I181391015,Universidade Estadual de Campinas (UNICAMP),2018,9130,3
+BR,I130442723,Universidade Federal do Rio Grande do Sul,2018,8479,4
+BR,I122140584,Universidade Federal do Rio de Janeiro,2018,7639,5
+BR,I110200422,Universidade Federal de Minas Gerais,2018,6996,6
+BR,I4104125,Universidade Federal de Santa Catarina,2018,5783,7
+BR,I52418104,Universidade Federal do Paraná,2018,5594,8
+BR,I150729083,Universidade de Brasília,2018,5304,9
+BR,I161127581,Universidade Federal Fluminense,2018,4234,10
+BR,I25112270,Universidade Federal de Pernambuco,2018,4159,11
+BR,I177909021,Universidade Federal de São Carlos,2018,4112,12
+BR,I88273585,Universidade Federal de São Paulo,2018,4110,13
+BR,I33501960,Universidade Federal de Santa Maria,2018,4072,14
+BR,I243754102,Universidade Federal do Ceará,2018,4070,15
+BR,I17974374,Universidade de São Paulo,2023,23405,1
+BR,I879563668,Universidade Estadual Paulista (Unesp),2023,9996,2
+BR,I122140584,Universidade Federal do Rio de Janeiro,2023,8914,3
+BR,I181391015,Universidade Estadual de Campinas (UNICAMP),2023,8624,4
+BR,I130442723,Universidade Federal do Rio Grande do Sul,2023,8389,5
+BR,I110200422,Universidade Federal de Minas Gerais,2023,8125,6
+BR,I4104125,Universidade Federal de Santa Catarina,2023,6516,7
+BR,I150729083,Universidade de Brasília,2023,6092,8
+BR,I52418104,Universidade Federal do Paraná,2023,5618,9
+BR,I25112270,Universidade Federal de Pernambuco,2023,5539,10
+BR,I88273585,Universidade Federal de São Paulo,2023,5232,11
+BR,I243754102,Universidade Federal do Ceará,2023,5029,12
+BR,I161127581,Universidade Federal Fluminense,2023,5014,13
+BR,I40034438,Universidade do Estado do Rio de Janeiro,2023,4921,14
+BR,I169045520,Universidade Federal da Paraíba,2023,4578,15
+MX,I8961855,Universidad Nacional Autónoma de México,2018,9233,1
+MX,I59361560,Instituto Politécnico Nacional,2018,3869,2
+MX,I200362191,Universidad Autónoma Metropolitana,2018,2548,3
+MX,I193181351,Universidad de Guadalajara,2018,2314,4
+MX,I68368234,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,2018,1928,5
+MX,I129858807,Universidad de Guanajuato,2018,1709,6
+MX,I169046204,Universidad Autónoma de Nuevo León,2018,1685,7
+MX,I98461037,Tecnológico de Monterrey,2018,1641,8
+MX,I721619,Benemérita Universidad Autónoma de Puebla,2018,1483,9
+MX,I147280213,Universidad Veracruzana,2018,1243,10
+MX,I179647637,Universidad Autónoma del Estado de México,2018,1170,11
+MX,I164915025,Mexican Social Security Institute,2018,1074,12
+MX,I196664497,Autonomous University of San Luis Potosí,2018,1065,13
+MX,I104854061,Universidad Autónoma del Estado de Hidalgo,2018,989,14
+MX,I173755004,Universidad Michoacana de San Nicolás de Hidalgo,2018,921,15
+MX,I8961855,Universidad Nacional Autónoma de México,2023,11393,1
+MX,I59361560,Instituto Politécnico Nacional,2023,4188,2
+MX,I98461037,Tecnológico de Monterrey,2023,3027,3
+MX,I193181351,Universidad de Guadalajara,2023,2826,4
+MX,I4210090124,Tecnológico Nacional de México,2023,2567,5
+MX,I200362191,Universidad Autónoma Metropolitana,2023,2223,6
+MX,I169046204,Universidad Autónoma de Nuevo León,2023,2078,7
+MX,I164915025,Mexican Social Security Institute,2023,1931,8
+MX,I721619,Benemérita Universidad Autónoma de Puebla,2023,1680,9
+MX,I68368234,Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,2023,1671,10
+MX,I147280213,Universidad Veracruzana,2023,1670,11
+MX,I87182695,Universidad del Noreste,2023,1515,12
+MX,I129858807,Universidad de Guanajuato,2023,1329,13
+MX,I179647637,Universidad Autónoma del Estado de México,2023,1269,14
+MX,I104854061,Universidad Autónoma del Estado de Hidalgo,2023,1245,15
+AR,I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2018,9937,1
+AR,I24354313,Universidad de Buenos Aires,2018,5128,2
+AR,I874386039,Universidad Nacional de La Plata,2018,2691,3
+AR,I166401450,Universidad Nacional de Córdoba,2018,1933,4
+AR,I4141589,National University of Rosario,2018,1127,5
+AR,I53241121,Fundación Ciencias Exactas y Naturales,2018,1035,6
+AR,I17974374,Universidade de São Paulo,2018,925,7
+AR,I189075073,National University of Mar del Plata,2018,905,8
+AR,I3129709771,National University of Patagonia San Juan Bosco,2018,793,9
+AR,I3121987637,Universidad Nacional del Litoral,2018,713,10
+AR,I15881080,Universidad Nacional de Cuyo,2018,699,11
+AR,I879563668,Universidade Estadual Paulista (Unesp),2018,687,12
+AR,I56858762,Universidad Nacional del Sur,2018,681,13
+AR,I4210095825,Centro Científico Tecnológico - San Juan,2018,647,14
+AR,I52418104,Universidade Federal do Paraná,2018,644,15
+AR,I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2023,10590,1
+AR,I24354313,Universidad de Buenos Aires,2023,5969,2
+AR,I874386039,Universidad Nacional de La Plata,2023,2618,3
+AR,I166401450,Universidad Nacional de Córdoba,2023,1998,4
+AR,I53241121,Fundación Ciencias Exactas y Naturales,2023,1179,5
+AR,I4141589,National University of Rosario,2023,1072,6
+AR,I185261750,University of Toronto,2023,973,7
+AR,I129604602,The University of Sydney,2023,900,8
+AR,I8204097,Ludwig-Maximilians-Universität München,2023,889,9
+AR,I98677209,University of Edinburgh,2023,884,10
+AR,I2802359038,Hospital Italiano de Buenos Aires,2023,882,11
+AR,I74801974,The University of Tokyo,2023,861,12
+AR,I138689650,University of Padua,2023,804,13
+AR,I36258959,University of California San Diego,2023,803,14
+AR,I182534213,Universidade do Porto,2023,798,15
+CL,I69737025,University of Chile,2018,4419,1
+CL,I162148367,Pontificia Universidad Católica de Chile,2018,3781,2
+CL,I172787465,University of Concepción,2018,1801,3
+CL,I10457146,Universidad de Santiago de Chile,2018,1372,4
+CL,I130474213,Pontificia Universidad Católica de Valparaíso,2018,1019,5
+CL,I16465266,Austral University of Chile,2018,1004,6
+CL,I1294671590,Centre National de la Recherche Scientifique,2018,917,7
+CL,I13897259,Universidad Andrés Bello,2018,897,8
+CL,I11944219,Universidad de La Frontera,2018,834,9
+CL,I4210144918,"Centro Regional de Derechos Humanos y Justicia de Género, Corporación Humanas",2018,798,10
+CL,I2802166871,Universidad Católica del Norte,2018,728,11
+CL,I75778554,Federico Santa María Technical University,2018,708,12
+CL,I134695357,University of Talca,2018,700,13
+CL,I3121512035,Universidad Autónoma de Chile,2018,692,14
+CL,I4210129543,Dirección de Investigación y Desarrollo,2018,675,15
+CL,I69737025,University of Chile,2023,4716,1
+CL,I162148367,Pontificia Universidad Católica de Chile,2023,4361,2
+CL,I172787465,University of Concepción,2023,2214,3
+CL,I13897259,Universidad Andrés Bello,2023,1609,4
+CL,I10457146,Universidad de Santiago de Chile,2023,1560,5
+CL,I16465266,Austral University of Chile,2023,1288,6
+CL,I130474213,Pontificia Universidad Católica de Valparaíso,2023,1266,7
+CL,I4210144918,"Centro Regional de Derechos Humanos y Justicia de Género, Corporación Humanas",2023,1261,8
+CL,I11944219,Universidad de La Frontera,2023,1254,9
+CL,I4210129543,Dirección de Investigación y Desarrollo,2023,1000,10
+CL,I1294671590,Centre National de la Recherche Scientifique,2023,994,11
+CL,I3121512035,Universidad Autónoma de Chile,2023,969,12
+CL,I3124150290,San Sebastián University,2023,954,13
+CL,I75778554,Federico Santa María Technical University,2023,947,14
+CL,I185652977,University of Tarapacá,2023,925,15
+CO,I36243813,Universidad Nacional de Colombia,2018,3566,1
+CO,I35961687,Universidad de Antioquia,2018,2411,2
+CO,I233745408,Pontificia Universidad Javeriana,2018,1397,3
+CO,I162096671,Universidad de Los Andes,2018,1330,4
+CO,I91732220,Universidad del Valle,2018,1221,5
+CO,I115684694,Industrial University of Santander,2018,837,6
+CO,I90803817,Universidad del Rosario,2018,830,7
+CO,I181028852,Universidad Pontificia Bolivariana,2018,728,8
+CO,I332011152,Universidad Distrital Francisco José de Caldas,2018,697,9
+CO,I4210150291,Colciencias,2018,620,10
+CO,I153390918,University of Cartagena,2018,604,11
+CO,I222202552,Pedagogical and Technological University of Colombia,2018,581,12
+CO,I142879360,Universidad del Norte,2018,512,13
+CO,I90425591,Universidad Libre de Colombia,2018,488,14
+CO,I200183955,Technological University of Pereira,2018,469,15
+CO,I36243813,Universidad Nacional de Colombia,2023,3959,1
+CO,I35961687,Universidad de Antioquia,2023,2684,2
+CO,I233745408,Pontificia Universidad Javeriana,2023,1845,3
+CO,I162096671,Universidad de Los Andes,2023,1473,4
+CO,I91732220,Universidad del Valle,2023,1399,5
+CO,I4210150291,Colciencias,2023,1202,6
+CO,I90803817,Universidad del Rosario,2023,929,7
+CO,I115684694,Industrial University of Santander,2023,903,8
+CO,I181028852,Universidad Pontificia Bolivariana,2023,725,9
+CO,I332011152,Universidad Distrital Francisco José de Caldas,2023,714,10
+CO,I4210152403,Universidad Cooperativa de Colombia,2023,674,11
+CO,I153390918,University of Cartagena,2023,653,12
+CO,I142879360,Universidad del Norte,2023,647,13
+CO,I90425591,Universidad Libre de Colombia,2023,642,14
+CO,I222202552,Pedagogical and Technological University of Colombia,2023,622,15
+SA,I28022161,King Saud University,2018,4956,1
+SA,I185163786,King Abdulaziz University,2018,4936,2
+SA,I71920554,King Abdullah University of Science and Technology,2018,2798,3
+SA,I134085113,King Fahd University of Petroleum and Minerals,2018,1770,4
+SA,I76571253,Imam Abdulrahman Bin Faisal University,2018,1135,5
+SA,I23075662,Taibah University,2018,1098,6
+SA,I82952536,King Khalid University,2018,1067,7
+SA,I199693650,Umm al-Qura University,2018,855,8
+SA,I185203018,King Saud bin Abdulaziz University for Health Sciences,2018,825,9
+SA,I156216236,Qassim University,2018,810,10
+SA,I179331831,Taif University,2018,724,11
+SA,I2800965796,King Faisal Specialist Hospital & Research Centre,2018,682,12
+SA,I142608572,Prince Sattam Bin Abdulaziz University,2018,680,13
+SA,I4210099699,University of Jeddah,2018,672,14
+SA,I91450128,Jazan University,2018,651,15
+SA,I28022161,King Saud University,2023,14478,1
+SA,I185163786,King Abdulaziz University,2023,7595,2
+SA,I82952536,King Khalid University,2023,6107,3
+SA,I106778892,Princess Nourah bint Abdulrahman University,2023,4934,4
+SA,I142608572,Prince Sattam Bin Abdulaziz University,2023,4523,5
+SA,I199693650,Umm al-Qura University,2023,3887,6
+SA,I71920554,King Abdullah University of Science and Technology,2023,3794,7
+SA,I134085113,King Fahd University of Petroleum and Minerals,2023,3266,8
+SA,I156216236,Qassim University,2023,3216,9
+SA,I179331831,Taif University,2023,2772,10
+SA,I91450128,Jazan University,2023,2676,11
+SA,I4626487,King Faisal University,2023,2653,12
+SA,I76571253,Imam Abdulrahman Bin Faisal University,2023,2307,13
+SA,I240666556,Imam Mohammad ibn Saud Islamic University,2023,2056,14
+SA,I23075662,Taibah University,2023,2023,15
+AE,I176601375,Khalifa University of Science and Technology,2018,1334,1
+AE,I201726411,United Arab Emirates University,2018,1120,2
+AE,I29891158,University of Sharjah,2018,861,3
+AE,I120250893,New York University Abu Dhabi,2018,540,4
+AE,I199440890,American University of Sharjah,2018,484,5
+AE,I91044093,Zayed University,2018,455,6
+AE,I4210126505,Amity University,2018,438,7
+AE,I119744171,Higher Colleges of Technology,2018,389,8
+AE,I117222138,Abu Dhabi University,2018,384,9
+AE,I97699614,Abu Dhabi National Oil (United Arab Emirates),2018,291,10
+AE,I161913731,Al Ain University,2018,195,11
+AE,I57206974,New York University,2018,187,12
+AE,I4210153389,American University of Ras Al Khaimah,2018,156,13
+AE,I182000528,Ajman University,2018,147,14
+AE,I2801466683,Shaikh Khalifa Medical City,2018,136,15
+AE,I29891158,University of Sharjah,2023,3531,1
+AE,I176601375,Khalifa University of Science and Technology,2023,3134,2
+AE,I201726411,United Arab Emirates University,2023,3022,3
+AE,I182000528,Ajman University,2023,1310,4
+AE,I4210126505,Amity University,2023,1161,5
+AE,I161913731,Al Ain University,2023,1006,6
+AE,I117222138,Abu Dhabi University,2023,925,7
+AE,I91044093,Zayed University,2023,922,8
+AE,I120250893,New York University Abu Dhabi,2023,890,9
+AE,I199440890,American University of Sharjah,2023,842,10
+AE,I4210087059,Technology Innovation Institute,2023,640,11
+AE,I4210113480,Mohamed bin Zayed University of Artificial Intelligence,2023,630,12
+AE,I119744171,Higher Colleges of Technology,2023,583,13
+AE,I56306041,Lebanese American University,2023,525,14
+AE,I163074564,Gulf Medical University,2023,448,15
+IL,I16391192,Tel Aviv University,2018,7062,1
+IL,I197251160,Hebrew University of Jerusalem,2018,3897,2
+IL,I124227911,Ben-Gurion University of the Negev,2018,3684,3
+IL,I174306211,Technion – Israel Institute of Technology,2018,3566,4
+IL,I13955877,Bar-Ilan University,2018,2315,5
+IL,I53964585,Weizmann Institute of Science,2018,2117,6
+IL,I91203450,University of Haifa,2018,2065,7
+IL,I2799810450,Sheba Medical Center,2018,1558,8
+IL,I2799899409,Hadassah Medical Center,2018,1226,9
+IL,I1311269955,Apple (Israel),2018,958,10
+IL,I2799807261,Tel Aviv Sourasky Medical Center,2018,903,11
+IL,I2800389475,Rabin Medical Center,2018,879,12
+IL,I52170813,Ariel University,2018,834,13
+IL,I2801301638,Rambam Health Care Campus,2018,755,14
+IL,I136199984,Harvard University,2018,588,15
+IL,I16391192,Tel Aviv University,2023,8315,1
+IL,I197251160,Hebrew University of Jerusalem,2023,6572,2
+IL,I124227911,Ben-Gurion University of the Negev,2023,4282,3
+IL,I174306211,Technion – Israel Institute of Technology,2023,4129,4
+IL,I13955877,Bar-Ilan University,2023,2908,5
+IL,I53964585,Weizmann Institute of Science,2023,2632,6
+IL,I91203450,University of Haifa,2023,2475,7
+IL,I2799810450,Sheba Medical Center,2023,2033,8
+IL,I2799899409,Hadassah Medical Center,2023,1710,9
+IL,I1311269955,Apple (Israel),2023,1423,10
+IL,I185261750,University of Toronto,2023,1421,11
+IL,I52170813,Ariel University,2023,1399,12
+IL,I2799807261,Tel Aviv Sourasky Medical Center,2023,1220,13
+IL,I2800389475,Rabin Medical Center,2023,1095,14
+IL,I8204097,Ludwig-Maximilians-Universität München,2023,1031,15
+IR,I23946033,University of Tehran,2018,7203,1
+IR,I70640408,Tehran University of Medical Sciences,2018,6246,2
+IR,I58048189,Shahid Beheshti University of Medical Sciences,2018,4434,3
+IR,I161106909,Iran University of Medical Sciences,2018,3458,4
+IR,I1516879,Tarbiat Modares University,2018,3426,5
+IR,I155419210,"Islamic Azad University, Science and Research Branch",2018,2656,6
+IR,I158248296,Amirkabir University of Technology,2018,2563,7
+IR,I165560825,Mashhad University of Medical Sciences,2018,2512,8
+IR,I48379061,Shahid Beheshti University,2018,2461,9
+IR,I86958956,Ferdowsi University of Mashhad,2018,2406,10
+IR,I194604659,Shiraz University of Medical Sciences,2018,2289,11
+IR,I114982161,Isfahan University of Medical Sciences,2018,2283,12
+IR,I41832843,University of Tabriz,2018,2276,13
+IR,I133529467,Sharif University of Technology,2018,2237,14
+IR,I166459259,Shiraz University,2018,2192,15
+IR,I70640408,Tehran University of Medical Sciences,2023,7114,1
+IR,I23946033,University of Tehran,2023,6818,2
+IR,I58048189,Shahid Beheshti University of Medical Sciences,2023,5182,3
+IR,I161106909,Iran University of Medical Sciences,2023,4148,4
+IR,I1516879,Tarbiat Modares University,2023,3303,5
+IR,I194604659,Shiraz University of Medical Sciences,2023,3005,6
+IR,I165560825,Mashhad University of Medical Sciences,2023,2838,7
+IR,I163205636,Tabriz University of Medical Sciences,2023,2812,8
+IR,I114982161,Isfahan University of Medical Sciences,2023,2732,9
+IR,I67009956,Iran University of Science and Technology,2023,2661,10
+IR,I48379061,Shahid Beheshti University,2023,2635,11
+IR,I158248296,Amirkabir University of Technology,2023,2554,12
+IR,I41832843,University of Tabriz,2023,2520,13
+IR,I155419210,"Islamic Azad University, Science and Research Branch",2023,2271,14
+IR,I133529467,Sharif University of Technology,2023,2215,15
+EG,I145487455,Cairo University,2018,5566,1
+EG,I107720978,Ain Shams University,2018,4407,2
+EG,I159247623,Mansoura University,2018,2725,3
+EG,I84524832,Alexandria University,2018,2544,4
+EG,I192398990,Zagazig University,2018,2453,5
+EG,I184834183,Al-Azhar University,2018,2221,6
+EG,I91041137,Assiut University,2018,2173,7
+EG,I4210131959,National Research Centre,2018,2059,8
+EG,I207547235,Benha University,2018,1685,9
+EG,I21376657,Tanta University,2018,1683,10
+EG,I63601056,Menoufia University,2018,1605,11
+EG,I84058292,Helwan University,2018,1279,12
+EG,I4210165448,Agricultural Research Center,2018,1200,13
+EG,I114794399,Suez Canal University,2018,1073,14
+EG,I89466785,Minia University,2018,1042,15
+EG,I145487455,Cairo University,2023,8603,1
+EG,I107720978,Ain Shams University,2023,6822,2
+EG,I159247623,Mansoura University,2023,5219,3
+EG,I184834183,Al-Azhar University,2023,4961,4
+EG,I84524832,Alexandria University,2023,4881,5
+EG,I192398990,Zagazig University,2023,4150,6
+EG,I21376657,Tanta University,2023,3581,7
+EG,I4210131959,National Research Centre,2023,3402,8
+EG,I207547235,Benha University,2023,3369,9
+EG,I91041137,Assiut University,2023,3298,10
+EG,I63601056,Menoufia University,2023,2751,11
+EG,I89466785,Minia University,2023,2205,12
+EG,I4210165448,Agricultural Research Center,2023,2177,13
+EG,I84058292,Helwan University,2023,2175,14
+EG,I114794399,Suez Canal University,2023,2136,15
+ZA,I157614274,University of Cape Town,2018,4785,1
+ZA,I192619145,University of the Witwatersrand,2018,4240,2
+ZA,I69552723,University of Pretoria,2018,3846,3
+ZA,I26092322,Stellenbosch University,2018,3722,4
+ZA,I95023434,University of KwaZulu-Natal,2018,3588,5
+ZA,I24027795,University of Johannesburg,2018,3006,6
+ZA,I27765905,North-West University,2018,2093,7
+ZA,I165390105,University of South Africa,2018,1929,8
+ZA,I26999989,University of the Free State,2018,1514,9
+ZA,I869660684,University of the Western Cape,2018,1207,10
+ZA,I203238179,Rhodes University,2018,892,11
+ZA,I137616099,Tshwane University of Technology,2018,834,12
+ZA,I10947320,South African Medical Research Council,2018,827,13
+ZA,I99712911,Nelson Mandela University,2018,760,14
+ZA,I1294671590,Centre National de la Recherche Scientifique,2018,663,15
+ZA,I24027795,University of Johannesburg,2023,6255,1
+ZA,I192619145,University of the Witwatersrand,2023,5607,2
+ZA,I157614274,University of Cape Town,2023,5399,3
+ZA,I26092322,Stellenbosch University,2023,4751,4
+ZA,I69552723,University of Pretoria,2023,4575,5
+ZA,I95023434,University of KwaZulu-Natal,2023,4418,6
+ZA,I165390105,University of South Africa,2023,3428,7
+ZA,I27765905,North-West University,2023,2934,8
+ZA,I26999989,University of the Free State,2023,2446,9
+ZA,I869660684,University of the Western Cape,2023,1748,10
+ZA,I10947320,South African Medical Research Council,2023,1305,11
+ZA,I177181097,Durban University of Technology,2023,1290,12
+ZA,I137616099,Tshwane University of Technology,2023,1083,13
+ZA,I99712911,Nelson Mandela University,2023,1082,14
+ZA,I203238179,Rhodes University,2023,970,15
+NG,I181631907,University of Ibadan,2018,2091,1
+NG,I11892038,University of Nigeria,2018,1588,2
+NG,I197610006,University of Lagos,2018,1217,3
+NG,I186771145,Covenant University,2018,1098,4
+NG,I45711476,Obafemi Awolowo University,2018,1063,5
+NG,I134542131,University of Ilorin,2018,1013,6
+NG,I12789410,Ahmadu Bello University,2018,980,7
+NG,I180664298,Federal University of Technology,2018,970,8
+NG,I100116408,University of Port Harcourt,2018,871,9
+NG,I207227095,Nnamdi Azikiwe University,2018,807,10
+NG,I919958821,Bayero University Kano,2018,713,11
+NG,I3970730,University of Calabar,2018,701,12
+NG,I6406202,University of Benin,2018,672,13
+NG,I18045400,Federal University of Agriculture,2018,619,14
+NG,I13144388,Ekiti State University,2018,545,15
+NG,I181631907,University of Ibadan,2023,2905,1
+NG,I11892038,University of Nigeria,2023,2796,2
+NG,I197610006,University of Lagos,2023,1917,3
+NG,I207227095,Nnamdi Azikiwe University,2023,1801,4
+NG,I12789410,Ahmadu Bello University,2023,1722,5
+NG,I134542131,University of Ilorin,2023,1711,6
+NG,I100116408,University of Port Harcourt,2023,1688,7
+NG,I45711476,Obafemi Awolowo University,2023,1601,8
+NG,I180664298,Federal University of Technology,2023,1442,9
+NG,I96576516,Rivers State University,2023,1432,10
+NG,I3970730,University of Calabar,2023,1336,11
+NG,I4210113643,"The Federal Polytechnic, Ado-Ekiti",2023,1172,12
+NG,I919958821,Bayero University Kano,2023,1127,13
+NG,I193555791,Delta State University,2023,1111,14
+NG,I6406202,University of Benin,2023,1035,15
+KE,I12859529,University of Nairobi,2018,1228,1
+KE,I26805570,Jomo Kenyatta University of Agriculture and Technology,2018,965,2
+KE,I2841861,Kenya Medical Research Institute,2018,734,3
+KE,I153975220,Kenyatta University,2018,511,4
+KE,I147168166,Moi University,2018,401,5
+KE,I55021457,World Agroforestry Centre,2018,332,6
+KE,I4210118691,International Center for Tropical Agriculture,2018,323,7
+KE,I58422712,International Livestock Research Institute,2018,262,8
+KE,I195931504,Egerton University,2018,257,9
+KE,I168685008,International Centre of Insect Physiology and Ecology,2018,232,10
+KE,I40120149,University of Oxford,2018,226,11
+KE,I22607950,University of Eldoret,2018,218,12
+KE,I195610458,Maseno University,2018,156,13
+KE,I4210145675,Centers for Disease Control and Prevention,2018,156,14
+KE,I4210098278,Kenya Agricultural and Livestock Research Organization,2018,154,15
+KE,I12859529,University of Nairobi,2023,1772,1
+KE,I153975220,Kenyatta University,2023,1183,2
+KE,I26805570,Jomo Kenyatta University of Agriculture and Technology,2023,1145,3
+KE,I2841861,Kenya Medical Research Institute,2023,1058,4
+KE,I250207469,Mount Kenya University,2023,595,5
+KE,I147168166,Moi University,2023,586,6
+KE,I88132101,Masinde Muliro University of Science and Technology,2023,372,7
+KE,I195931504,Egerton University,2023,366,8
+KE,I58422712,International Livestock Research Institute,2023,362,9
+KE,I195610458,Maseno University,2023,326,10
+KE,I4210108070,Aga Khan University Nairobi,2023,301,11
+KE,I4210089966,London School of Hygiene & Tropical Medicine,2023,295,12
+KE,I168685008,International Centre of Insect Physiology and Ecology,2023,293,13
+KE,I201448701,University of Washington,2023,288,14
+KE,I40120149,University of Oxford,2023,287,15

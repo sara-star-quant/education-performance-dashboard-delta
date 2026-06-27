@@ -1,0 +1,13 @@
+{
+  "name": "Education Performance Delta Dashboard",
+  "short_name": "Edu Delta",
+  "description": "Change in higher-education performance per region and country over 1/3/5/10 years, from trusted public sources.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfbfa",
+  "theme_color": "#2f6f72",
+  "icons": [
+    { "src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

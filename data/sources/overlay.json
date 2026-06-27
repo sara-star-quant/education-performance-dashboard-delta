@@ -1,0 +1,85 @@
+{
+  "_comment": "Curated qualitative layer the APIs cannot provide. Every entry is cited. Missing entries render as 'not available' on the dashboard - never fabricated. Expanded each refresh.",
+
+  "country_tags": {
+    "MT": {
+      "delivery_remote": {"value": true, "evidence": "University of Malta offers online/blended degree programmes via its eLearning provision.", "confidence": "med", "citation": "https://www.um.edu.mt/"},
+      "funding_government": {"value": true, "evidence": "University of Malta is primarily state-funded.", "confidence": "high", "citation": "https://eurydice.eacea.ec.europa.eu/eurypedia/malta/types-higher-education-institutions"}
+    },
+    "GE": {
+      "intl_dual_degree": {"value": true, "evidence": "Georgia adopted international (San Diego State) STEM degree partnerships in Tbilisi.", "confidence": "high", "citation": "https://www.rand.org/pubs/research_reports/RRA363-2.html"},
+      "funding_government": {"value": true, "evidence": "State universities dominate; medical education is a state-steered sector.", "confidence": "med", "citation": "https://blogs.worldbank.org/en/education/how-georgia-is-using-medical-education-to-build-better-health-ca"}
+    }
+  },
+
+  "country_reasons": {
+    "MT": {
+      "text": "International enrolment surged to 37% of tertiary students in 2023-24 (up ~27% in one year) on the back of English-medium teaching, competitive fees and post-study work routes; the national education strategy 2024-2030 and Malta's first Professional Doctorate in Education (2024) deepened the offer.",
+      "citations": [
+        "https://newsbook.com.mt/en/international-students-now-account-for-over-a-third-of-maltas-tertiary-enrollments/",
+        "https://op.europa.eu/webpub/eac/education-and-training-monitor/en/country-reports/malta.html"
+      ]
+    },
+    "GE": {
+      "text": "Medical education became a growth engine: international students rose from ~17,500 (2021-22) to ~37,100 (2024-25), most in medicine, contributing ~$450M in 2024; reforms tied universities to clinical networks (5 university clinics, 40+ affiliated facilities). A 2024-25 reform proposing to restrict foreign admissions at state universities is a live risk.",
+      "citations": [
+        "https://blogs.worldbank.org/en/education/how-georgia-is-using-medical-education-to-build-better-health-ca",
+        "https://oc-media.org/georgia-to-stop-accepting-foreign-students-in-state-universities-as-of-next-academic-year/"
+      ]
+    }
+  },
+
+  "developing": {
+    "MT": {
+      "missing_features": [
+        {"text": "No globally top-ranked research university (best CWUR 2025 rank ~1,622).", "citation": "https://www.globalcitizensolutions.com/best-universities-in-malta/"},
+        {"text": "Narrow research base relative to advanced EU neighbours; limited PhD-scale STEM depth."}
+      ],
+      "youth_motivators": [
+        {"text": "English-medium degrees inside the EU with comparatively low tuition and post-study work rights.", "citation": "https://www.corpgems.com/malta-higher-education-growth-attract-global-students/"},
+        {"text": "Small, safe Anglophone Mediterranean campus drawing students from 127 countries.", "citation": "https://terratern.com/blog/universities-in-malta-for-international-students/"}
+      ]
+    },
+    "GE": {
+      "missing_features": [
+        {"text": "Research output and global ranking lag advanced neighbours; strength is concentrated in medical training rather than broad R&D."},
+        {"text": "Policy uncertainty: proposed limits on foreign students at state universities.", "citation": "https://georgiatoday.ge/georgia-to-ban-foreign-students-at-state-universities-from-next-year/"}
+      ],
+      "youth_motivators": [
+        {"text": "Affordable, English-taught medical degrees with early clinical exposure across a wide hospital network.", "citation": "https://blogs.worldbank.org/en/education/how-georgia-is-using-medical-education-to-build-better-health-ca"},
+        {"text": "US-style STEM programmes via international university partnerships in Tbilisi.", "citation": "https://www.rand.org/pubs/research_reports/RRA363-2.html"}
+      ]
+    }
+  },
+
+  "subnational": {
+    "USA": [
+      {"state": "Massachusetts", "note": "Dense elite cluster (Boston/Cambridge).", "institutions": [
+        {"name": "Harvard University", "feature": "Top global research + large endowment"},
+        {"name": "Massachusetts Institute of Technology", "feature": "STEM, AI and quantum research leader"}
+      ]},
+      {"state": "California", "note": "Largest public + elite private mix.", "institutions": [
+        {"name": "Stanford University", "feature": "Entrepreneurship/incubator pipeline"},
+        {"name": "University of California, Berkeley", "feature": "Public research powerhouse"}
+      ]}
+    ],
+    "DEU": [
+      {"state": "Bavaria", "note": "Munich research hub.", "institutions": [
+        {"name": "Technical University of Munich", "feature": "Engineering + AI (excellence strategy)"},
+        {"name": "Ludwig Maximilian University of Munich", "feature": "Broad research university"}
+      ]},
+      {"state": "Baden-Wurttemberg", "note": "Heidelberg/Karlsruhe.", "institutions": [
+        {"name": "Heidelberg University", "feature": "Life sciences and physics"},
+        {"name": "Karlsruhe Institute of Technology", "feature": "Engineering + quantum"}
+      ]}
+    ]
+  },
+
+  "cost_funding": {
+    "MT": {
+      "tuition_note": "EU students largely state-funded; non-EU undergraduate fees broadly EUR 10,000-12,000/yr depending on programme.",
+      "source_ccy": "EUR",
+      "citation": "https://www.um.edu.mt/"
+    }
+  }
+}

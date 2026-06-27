@@ -1,0 +1,14 @@
+# secrets - never commit
+.env
+.env.local
+*.secret
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / editor
+.DS_Store
+*.swp

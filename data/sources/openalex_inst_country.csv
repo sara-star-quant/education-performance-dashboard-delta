@@ -1,0 +1,266 @@
+inst_id,display_name,country_code
+I1294671590,Centre National de la Recherche Scientifique,FR
+I136199984,Harvard University,US
+I135310074,University of Wisconsin–Madison,US
+I114027177,University of North Carolina at Chapel Hill,US
+I130238516,University of Minnesota,US
+I130769515,Pennsylvania State University,US
+I129604602,The University of Sydney,AU
+I124055696,University of Copenhagen,DK
+I1174212,University of Southern California,US
+I1299303238,National Institutes of Health,US
+I111979921,Northwestern University,US
+I138006243,University of Arizona,US
+I139660479,Central South University,CN
+I102322142,"Rutgers, The State University of New Jersey",US
+I122411786,California Institute of Technology,US
+I139264467,Seoul National University,KR
+I1313323035,Russian Academy of Sciences,RU
+I135598925,Kyushu University,JP
+I133731052,University of Helsinki,FI
+I1283280774,Brigham and Women's Hospital,US
+I138689650,University of Padua,IT
+I100532134,Université Claude Bernard Lyon 1,FR
+I126520041,University of Science and Technology of China,CN
+I123387679,Uppsala University,SE
+I111088046,Boston University,US
+I130701444,Georgia Institute of Technology,US
+I130828816,University of Leeds,GB
+I126307644,University of Iowa,US
+I118347636,Australian National University,AU
+I116953780,Tongji University,CN
+I137902535,North Carolina State University,US
+I122140584,Universidade Federal do Rio de Janeiro,BR
+I130442723,Universidade Federal do Rio Grande do Sul,BR
+I1330342723,Mayo Clinic,US
+I125749732,Western University,CA
+I1343551460,The University of Texas MD Anderson Cancer Center,US
+I114090438,Goethe University Frankfurt,DE
+I102335020,Karlsruhe Institute of Technology,DE
+I121748325,Universidad Complutense de Madrid,ES
+I123044942,Universitat Autònoma de Barcelona,ES
+I118564535,University of Bern,CH
+I141596103,University of Lisbon,PT
+I1316902750,Cleveland Clinic,US
+I110200422,Universidade Federal de Minas Gerais,BR
+I125839683,Beijing Institute of Technology,CN
+I102197404,Université Paris-Sud,FR
+I115592961,Jiangsu University,CN
+I108688024,Qingdao University,CN
+I1281735042,Natural Resources Canada,CA
+I141686865,Concern Worldwide US,US
+I142606810,Pacific Northwest National Laboratory,US
+I145311948,Johns Hopkins University,US
+I154526488,Inserm,FR
+I17974374,Universidade de São Paulo,BR
+I161318765,"University of California, Los Angeles",US
+I141945490,University of British Columbia,CA
+I165779595,The University of Melbourne,AU
+I157725225,University of Illinois Urbana-Champaign,US
+I157773358,Sun Yat-sen University,CN
+I180670191,"University of California, San Francisco",US
+I170201317,University of Pittsburgh,US
+I165932596,National University of Singapore,SG
+I165143802,The University of Queensland,AU
+I149899117,Max Planck Society,DE
+I170897317,Duke University,US
+I157674565,University of Liège,BE
+I154425047,University of Alberta,CA
+I150468666,Emory University,US
+I159176309,Universität Hamburg,DE
+I146655781,University of Liverpool,GB
+I181391015,Universidade Estadual de Campinas (UNICAMP),BR
+I145872427,Radboud University Nijmegen,NL
+I16391192,Tel Aviv University,IL
+I154099455,Shandong University,CN
+I168635309,University of Calgary,CA
+I177725633,Chinese University of Hong Kong,HK
+I173911158,Iowa State University,US
+I172675005,Nanyang Technological University,SG
+I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,AR
+I142263535,University of Nottingham,GB
+I169381384,University of Groningen,NL
+I16733864,National Taiwan University,TW
+I162868743,Tianjin University,CN
+I145608581,University of Miami,US
+I153718931,University of Ottawa,CA
+I148283060,Lawrence Berkeley National Laboratory,US
+I177877127,The University of Western Australia,AU
+I14243506,Hong Kong Polytechnic University,HK
+I150229711,University of Electronic Science and Technology of China,CN
+I154130895,University of Auckland,NZ
+I158842170,Chongqing University,CN
+I17145004,Northwestern Polytechnical University,CN
+I145487455,Cairo University,EG
+I148366613,National Yang Ming Chiao Tung University,TW
+I165690674,Oregon Health & Science University,US
+I168719708,City University of Hong Kong,HK
+I157485424,Korea Advanced Institute of Science and Technology,KR
+I16609230,Hunan University,CN
+I180726961,Shenzhen University,CN
+I155093810,University of Idaho,US
+I19820366,Chinese Academy of Sciences,CN
+I185261750,University of Toronto,CA
+I201448701,University of Washington,US
+I205783295,Cornell University,US
+I241749,University of Cambridge,GB
+I20231570,Peking University,CN
+I189158943,University of Milan,IT
+I183067930,Shanghai Jiao Tong University,CN
+I204730241,Université Paris Cité,FR
+I22299242,Kyoto University,JP
+I223822909,Heidelberg University,DE
+I219193219,Purdue University West Lafayette,US
+I201537933,Tohoku University,JP
+I24185976,Sichuan University,CN
+I183935753,King's College London,GB
+I204465549,Washington University in St. Louis,US
+I205349734,Hokkaido University,JP
+I24943067,Fudan University,CN
+I193662353,Utrecht University,NL
+I187531555,Lund University,SE
+I204337017,Aarhus University,DK
+I204983213,Harbin Institute of Technology,CN
+I223532165,University of Utah,US
+I20089843,Princeton University,US
+I19880235,Lomonosov Moscow State University,RU
+I202697423,University of Zurich,CH
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,FR
+I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,CN
+I204250578,"University of California, Irvine",US
+I184942183,University of Oslo,NO
+I194450716,Jilin University,CN
+I193775966,Yonsei University,KR
+I200719446,Vanderbilt University,US
+I188538660,University of Colorado Boulder,US
+I181547552,Baylor College of Medicine,US
+I277688954,Université Paris-Saclay,FR
+I182534213,Universidade do Porto,PT
+I21491767,Aix-Marseille Université,FR
+I19894307,Université de Montpellier,FR
+I27357992,Dalian University of Technology,CN
+I183519381,Capital Medical University,CN
+I2613432,University of South Florida,US
+I23946033,University of Tehran,IR
+I191208505,Xiamen University,CN
+I25254941,Beijing Normal University,CN
+I197347611,Korea University,KR
+I205237279,Nankai University,CN
+I2279609970,Université de Lille,FR
+I25974101,University of Würzburg,DE
+I185163786,King Abdulaziz University,SA
+I27837315,University of Michigan,US
+I2801280572,Environmental Molecular Sciences Laboratory,US
+I40120149,University of Oxford,GB
+I45129253,University College London,GB
+I32971472,Yale University,US
+I39804081,Sorbonne Université,FR
+I47508984,Imperial College London,GB
+I4210165038,University of Chinese Academy of Sciences,CN
+I52357470,The Ohio State University,US
+I33213144,University of Florida,US
+I36258959,University of California San Diego,US
+I28407311,University of Manchester,GB
+I40347166,University of Chicago,US
+I5023651,McGill University,CA
+I31746571,UNSW Sydney,AU
+I2801851002,Harvard University Press,US
+I47720641,Huazhong University of Science and Technology,CN
+I4210087915,Massachusetts General Hospital,US
+I35440088,ETH Zurich,CH
+I28166907,Karolinska Institutet,SE
+I37461747,Wuhan University,CN
+I36234482,University of Bristol,GB
+I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",FR
+I51556381,University of Virginia,US
+I39422238,University of Illinois Chicago,US
+I55732556,Arizona State University,US
+I43439940,University of Southampton,GB
+I2799853436,Johns Hopkins Medicine,US
+I32597200,Ghent University,BE
+I5124864,École Polytechnique Fédérale de Lausanne,CH
+I285663978,Weatherford College,US
+I32389192,University of Alabama at Birmingham,US
+I28022161,King Saud University,SA
+I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,IT
+I39555362,University of Warwick,GB
+I4210125099,Mayo Clinic in Arizona,US
+I4210097159,Assistance Publique – Hôpitaux de Paris,FR
+I3923682,Soochow University,CN
+I38877650,Zhengzhou University,CN
+I4210089966,London School of Hygiene & Tropical Medicine,GB
+I4210166444,Institut de Recherche pour le Développement,FR
+I52158045,China Agricultural University,CN
+I4210112217,NamesforLife (United States),US
+I29617571,University of Indonesia,ID
+I4210138501,Chinese Academy of Agricultural Sciences,CN
+I4210148414,Institut Agama Islam Negeri Bengkulu,ID
+I3045169105,Southern University of Science and Technology,CN
+I4210151833,Amsterdam University Medical Centers,NL
+I4210128276,Sağlık Bilimleri Üniversitesi,TR
+I4210139925,Korea Basic Science Institute,KR
+I74801974,The University of Tokyo,JP
+I78577930,Columbia University,US
+I79576946,University of Pennsylvania,US
+I76130692,Zhejiang University,CN
+I86519309,The University of Texas at Austin,US
+I63966007,Massachusetts Institute of Technology,US
+I84218800,"University of California, Davis",US
+I56590836,Monash University,AU
+I57206974,New York University,US
+I8204097,Ludwig-Maximilians-Universität München,DE
+I60134161,Nagoya University,JP
+I861853513,Sapienza University of Rome,IT
+I8961855,Universidad Nacional Autónoma de México,MX
+I87216513,Michigan State University,US
+I91045830,Texas A&M University,US
+I66946132,"University of Maryland, College Park",US
+I887064364,University of Amsterdam,NL
+I889458895,University of Hong Kong,HK
+I62916508,Technical University of Munich,DE
+I79619799,University of Birmingham,GB
+I879563668,Universidade Estadual Paulista (Unesp),BR
+I87445476,Xi'an Jiaotong University,CN
+I7882870,University of Glasgow,GB
+I887968799,RWTH Aachen University,DE
+I91136226,University of Sheffield,GB
+I71999127,Universitat de Barcelona,ES
+I881766915,Nanjing University,CN
+I70931966,Université de Montréal,CA
+I90183372,Université de Lorraine,FR
+I899635006,Université Grenoble Alpes,FR
+I76569877,Southeast University,CN
+I74973139,Carnegie Mellon University,US
+I7877124,Charité - Universitätsmedizin Berlin,DE
+I90610280,South China University of Technology,CN
+I71267560,University of Naples Federico II,IT
+I82880672,Beihang University,CN
+I5681781,The University of Adelaide,AU
+I75951250,Freie Universität Berlin,DE
+I55769427,Indiana University – Purdue University Indianapolis,US
+I78650965,Technische Universität Dresden,DE
+I865915315,Vrije Universiteit Amsterdam,NL
+I848706,Sungkyunkwan University,KR
+I891191580,Aalborg University,DK
+I70640408,Tehran University of Medical Sciences,IR
+I83519826,Nanjing Medical University,CN
+I76214153,Lanzhou University,CN
+I76134821,Medical University of Vienna,AT
+I73236664,Wheaton College - Illinois,US
+I58200834,Southern Medical University,CN
+I876193797,Vellore Institute of Technology University,IN
+I97018004,Stanford University,US
+I95457486,"University of California, Berkeley",US
+I99065089,Tsinghua University,CN
+I99464096,KU Leuven,BE
+I98285908,The University of Osaka,JP
+I98677209,University of Edinburgh,GB
+I93860229,Politecnico di Milano,IT
+I9360294,University of Bologna,IT
+I98251732,McMaster University,CA
+I98358874,Delft University of Technology,NL
+I98704320,Icahn School of Medicine at Mount Sinai,US
+I96673099,Technical University of Denmark,DK
+I921990950,University of Colorado Denver,US
+I919571938,The University of Texas Health Science Center at Houston,US
+I92403157,University of Science and Technology Beijing,CN

@@ -1,0 +1,21 @@
+{
+  "description": "Curated developing-countries (educational perspective) segment. Each entry is benchmarked against one geographic neighbor and one size-matched aspirational peer. Pairings are interpretive choices, documented here; the dashboard comparison is descriptive, not a ranking verdict.",
+  "criteria_flag": {
+    "rule": "EPI below median AND positive 5y delta AND limited system size (total tertiary enrollment below the 40th percentile of the snapshot)",
+    "note": "Countries meeting the rule are auto-flagged into the developing segment in addition to the curated list below."
+  },
+  "watchlist": [
+    {
+      "country": "MLT",
+      "name": "Malta",
+      "benchmarks": { "neighbor": "ITA", "peer": "EST" },
+      "rationale": "Small EU island state; Italy is the nearest advanced neighbor, Estonia a size-matched digital-forward peer."
+    },
+    {
+      "country": "GEO",
+      "name": "Georgia",
+      "benchmarks": { "neighbor": "TUR", "peer": "EST" },
+      "rationale": "South Caucasus; Turkey is the large advanced neighbor, Estonia a small post-Soviet reform peer."
+    }
+  ]
+}

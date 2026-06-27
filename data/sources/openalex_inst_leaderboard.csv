@@ -1,0 +1,1001 @@
+inst_id,display_name,year,works_count,global_rank
+I1294671590,Centre National de la Recherche Scientifique,2013,47214,1
+I19820366,Chinese Academy of Sciences,2013,34509,2
+I136199984,Harvard University,2013,20717,3
+I17974374,Universidade de São Paulo,2013,15957,4
+I185261750,University of Toronto,2013,15928,5
+I45129253,University College London,2013,15903,6
+I27837315,University of Michigan,2013,15061,7
+I154526488,Inserm,2013,14970,8
+I40120149,University of Oxford,2013,14409,9
+I97018004,Stanford University,2013,14221,10
+I145311948,Johns Hopkins University,2013,13931,11
+I201448701,University of Washington,2013,13629,12
+I74801974,The University of Tokyo,2013,13484,13
+I204730241,Université Paris Cité,2013,12843,14
+I99065089,Tsinghua University,2013,11858,15
+I241749,University of Cambridge,2013,11857,16
+I20231570,Peking University,2013,11642,17
+I170201317,University of Pittsburgh,2013,11589,18
+I205783295,Cornell University,2013,11423,19
+I79576946,University of Pennsylvania,2013,11268,20
+I47508984,Imperial College London,2013,11066,21
+I39804081,Sorbonne Université,2013,10997,22
+I76130692,Zhejiang University,2013,10885,23
+I129604602,The University of Sydney,2013,10818,24
+I183067930,Shanghai Jiao Tong University,2013,10812,25
+I78577930,Columbia University,2013,10801,26
+I99464096,KU Leuven,2013,10612,27
+I161318765,"University of California, Los Angeles",2013,10528,28
+I36258959,University of California San Diego,2013,10425,29
+I165779595,The University of Melbourne,2013,10424,30
+I1313323035,Russian Academy of Sciences,2013,10358,31
+I32971472,Yale University,2013,10290,32
+I141945490,University of British Columbia,2013,10236,33
+I95457486,"University of California, Berkeley",2013,10037,34
+I52357470,The Ohio State University,2013,9868,35
+I22299242,Kyoto University,2013,9823,36
+I63966007,Massachusetts Institute of Technology,2013,9594,37
+I33213144,University of Florida,2013,9487,38
+I135310074,University of Wisconsin–Madison,2013,9453,39
+I130769515,Pennsylvania State University,2013,9442,40
+I165143802,The University of Queensland,2013,9367,41
+I130238516,University of Minnesota,2013,9290,42
+I149899117,Max Planck Society,2013,9172,43
+I157674565,University of Liège,2013,9137,44
+I124055696,University of Copenhagen,2013,9116,45
+I165932596,National University of Singapore,2013,9042,46
+I31746571,UNSW Sydney,2013,9013,47
+I223822909,Heidelberg University,2013,8973,48
+I56590836,Monash University,2013,8884,49
+I139264467,Seoul National University,2013,8848,50
+I180670191,"University of California, San Francisco",2013,8826,51
+I5023651,McGill University,2013,8675,52
+I111979921,Northwestern University,2013,8651,53
+I4210165038,University of Chinese Academy of Sciences,2013,8486,54
+I84218800,"University of California, Davis",2013,8388,55
+I204337017,Aarhus University,2013,8368,56
+I28407311,University of Manchester,2013,8234,57
+I157725225,University of Illinois Urbana-Champaign,2013,8190,58
+I114027177,University of North Carolina at Chapel Hill,2013,8162,59
+I98285908,The University of Osaka,2013,8154,60
+I1299303238,National Institutes of Health,2013,8066,61
+I86519309,The University of Texas at Austin,2013,7944,62
+I4210112217,NamesforLife (United States),2013,7866,63
+I154425047,University of Alberta,2013,7848,64
+I201537933,Tohoku University,2013,7784,65
+I157773358,Sun Yat-sen University,2013,7774,66
+I861853513,Sapienza University of Rome,2013,7763,67
+I183935753,King's College London,2013,7621,68
+I170897317,Duke University,2013,7592,69
+I4210087915,Massachusetts General Hospital,2013,7554,70
+I35440088,ETH Zurich,2013,7482,71
+I879563668,Universidade Estadual Paulista (Unesp),2013,7469,72
+I8204097,Ludwig-Maximilians-Universität München,2013,7429,73
+I47720641,Huazhong University of Science and Technology,2013,7409,74
+I98677209,University of Edinburgh,2013,7396,75
+I66946132,"University of Maryland, College Park",2013,7392,76
+I1174212,University of Southern California,2013,7361,77
+I57206974,New York University,2013,7310,78
+I8961855,Universidad Nacional Autónoma de México,2013,7288,79
+I204983213,Harbin Institute of Technology,2013,7269,80
+I40347166,University of Chicago,2013,7260,81
+I24185976,Sichuan University,2013,7214,82
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2013,7076,83
+I204465549,Washington University in St. Louis,2013,7023,84
+I100532134,Université Claude Bernard Lyon 1,2013,7022,85
+I1283280774,Brigham and Women's Hospital,2013,6925,86
+I24943067,Fudan University,2013,6864,87
+I172675005,Nanyang Technological University,2013,6820,88
+I150468666,Emory University,2013,6760,89
+I145872427,Radboud University Nijmegen,2013,6705,90
+I16733864,National Taiwan University,2013,6688,91
+I193775966,Yonsei University,2013,6653,92
+I102322142,"Rutgers, The State University of New Jersey",2013,6651,93
+I130701444,Georgia Institute of Technology,2013,6651,94
+I62916508,Technical University of Munich,2013,6627,95
+I91045830,Texas A&M University,2013,6566,96
+I118347636,Australian National University,2013,6560,97
+I139660479,Central South University,2013,6535,98
+I219193219,Purdue University West Lafayette,2013,6524,99
+I9360294,University of Bologna,2013,6487,100
+I194450716,Jilin University,2013,6467,101
+I138006243,University of Arizona,2013,6390,102
+I87216513,Michigan State University,2013,6388,103
+I887064364,University of Amsterdam,2013,6351,104
+I111088046,Boston University,2013,6341,105
+I889458895,University of Hong Kong,2013,6330,106
+I181391015,Universidade Estadual de Campinas (UNICAMP),2013,6242,107
+I187531555,Lund University,2013,6224,108
+I135598925,Kyushu University,2013,6209,109
+I130442723,Universidade Federal do Rio Grande do Sul,2013,6189,110
+I37461747,Wuhan University,2013,6176,111
+I154099455,Shandong University,2013,6170,112
+I223532165,University of Utah,2013,6166,113
+I138689650,University of Padua,2013,6155,114
+I881766915,Nanjing University,2013,6151,115
+I28166907,Karolinska Institutet,2013,6131,116
+I71999127,Universitat de Barcelona,2013,6121,117
+I51556381,University of Virginia,2013,6117,118
+I116953780,Tongji University,2013,6107,119
+I159176309,Universität Hamburg,2013,6068,120
+I189158943,University of Milan,2013,6067,121
+I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2013,6042,122
+I32597200,Ghent University,2013,6000,123
+I1343551460,The University of Texas MD Anderson Cancer Center,2013,5980,124
+I43439940,University of Southampton,2013,5863,125
+I168635309,University of Calgary,2013,5838,126
+I60134161,Nagoya University,2013,5834,127
+I142263535,University of Nottingham,2013,5832,128
+I5124864,École Polytechnique Fédérale de Lausanne,2013,5820,129
+I36234482,University of Bristol,2013,5808,130
+I79619799,University of Birmingham,2013,5799,131
+I193662353,Utrecht University,2013,5798,132
+I133731052,University of Helsinki,2013,5741,133
+I21491767,Aix-Marseille Université,2013,5663,134
+I90183372,Université de Lorraine,2013,5644,135
+I123044942,Universitat Autònoma de Barcelona,2013,5641,136
+I202697423,University of Zurich,2013,5605,137
+I25974101,University of Würzburg,2013,5588,138
+I122140584,Universidade Federal do Rio de Janeiro,2013,5584,139
+I87445476,Xi'an Jiaotong University,2013,5546,140
+I55732556,Arizona State University,2013,5535,141
+I82880672,Beihang University,2013,5527,142
+I16391192,Tel Aviv University,2013,5506,143
+I200719446,Vanderbilt University,2013,5498,144
+I19880235,Lomonosov Moscow State University,2013,5482,145
+I96673099,Technical University of Denmark,2013,5463,146
+I1330342723,Mayo Clinic,2013,5362,147
+I146655781,University of Liverpool,2013,5348,148
+I70931966,Université de Montréal,2013,5302,149
+I204250578,"University of California, Irvine",2013,5275,150
+I39422238,University of Illinois Chicago,2013,5263,151
+I177725633,Chinese University of Hong Kong,2013,5256,152
+I121748325,Universidad Complutense de Madrid,2013,5245,153
+I123387679,Uppsala University,2013,5241,154
+I145608581,University of Miami,2013,5227,155
+I98251732,McMaster University,2013,5215,156
+I126307644,University of Iowa,2013,5199,157
+I91136226,University of Sheffield,2013,5196,158
+I126520041,University of Science and Technology of China,2013,5188,159
+I162868743,Tianjin University,2013,5182,160
+I153718931,University of Ottawa,2013,5151,161
+I20089843,Princeton University,2013,5150,162
+I177877127,The University of Western Australia,2013,5114,163
+I27357992,Dalian University of Technology,2013,5065,164
+I182534213,Universidade do Porto,2013,5055,165
+I157485424,Korea Advanced Institute of Science and Technology,2013,5035,166
+I169381384,University of Groningen,2013,5022,167
+I848706,Sungkyunkwan University,2013,5017,168
+I2799853436,Johns Hopkins Medicine,2013,5013,169
+I148366613,National Yang Ming Chiao Tung University,2013,5006,170
+I921990950,University of Colorado Denver,2013,4988,171
+I887968799,RWTH Aachen University,2013,4980,172
+I125749732,Western University,2013,4972,173
+I98358874,Delft University of Technology,2013,4955,174
+I130828816,University of Leeds,2013,4937,175
+I90610280,South China University of Technology,2013,4931,176
+I205349734,Hokkaido University,2013,4921,177
+I102335020,Karlsruhe Institute of Technology,2013,4914,178
+I102197404,Université Paris-Sud,2013,4912,179
+I891191580,Aalborg University,2013,4875,180
+I2613432,University of South Florida,2013,4859,181
+I184942183,University of Oslo,2013,4854,182
+I110200422,Universidade Federal de Minas Gerais,2013,4824,183
+I7877124,Charité - Universitätsmedizin Berlin,2013,4800,184
+I4210097159,Assistance Publique – Hôpitaux de Paris,2013,4759,185
+I7882870,University of Glasgow,2013,4759,186
+I122411786,California Institute of Technology,2013,4741,187
+I71267560,University of Naples Federico II,2013,4736,188
+I137902535,North Carolina State University,2013,4715,189
+I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,2013,4704,190
+I114090438,Goethe University Frankfurt,2013,4679,191
+I173911158,Iowa State University,2013,4675,192
+I23946033,University of Tehran,2013,4665,193
+I188538660,University of Colorado Boulder,2013,4639,194
+I78650965,Technische Universität Dresden,2013,4616,195
+I141596103,University of Lisbon,2013,4610,196
+I5681781,The University of Adelaide,2013,4609,197
+I32389192,University of Alabama at Birmingham,2013,4591,198
+I197347611,Korea University,2013,4574,199
+I74973139,Carnegie Mellon University,2013,4572,200
+I919571938,The University of Texas Health Science Center at Houston,2018,59692,1
+I1294671590,Centre National de la Recherche Scientifique,2018,57626,2
+I19820366,Chinese Academy of Sciences,2018,44522,3
+I136199984,Harvard University,2018,27508,4
+I4210165038,University of Chinese Academy of Sciences,2018,22680,5
+I45129253,University College London,2018,22156,6
+I17974374,Universidade de São Paulo,2018,21095,7
+I185261750,University of Toronto,2018,20953,8
+I154526488,Inserm,2018,20011,9
+I40120149,University of Oxford,2018,19306,10
+I201448701,University of Washington,2018,19236,11
+I27837315,University of Michigan,2018,18913,12
+I97018004,Stanford University,2018,18380,13
+I145311948,Johns Hopkins University,2018,18249,14
+I99065089,Tsinghua University,2018,16654,15
+I205783295,Cornell University,2018,16415,16
+I39804081,Sorbonne Université,2018,16194,17
+I183067930,Shanghai Jiao Tong University,2018,15713,18
+I204730241,Université Paris Cité,2018,15449,19
+I241749,University of Cambridge,2018,15439,20
+I20231570,Peking University,2018,15178,21
+I74801974,The University of Tokyo,2018,14920,22
+I47508984,Imperial College London,2018,14766,23
+I165779595,The University of Melbourne,2018,14481,24
+I129604602,The University of Sydney,2018,14192,25
+I79576946,University of Pennsylvania,2018,14000,26
+I76130692,Zhejiang University,2018,13464,27
+I32971472,Yale University,2018,13260,28
+I161318765,"University of California, Los Angeles",2018,13207,29
+I99464096,KU Leuven,2018,13172,30
+I141945490,University of British Columbia,2018,13133,31
+I157773358,Sun Yat-sen University,2018,12832,32
+I31746571,UNSW Sydney,2018,12629,33
+I36258959,University of California San Diego,2018,12581,34
+I33213144,University of Florida,2018,12552,35
+I95457486,"University of California, Berkeley",2018,12547,36
+I78577930,Columbia University,2018,12491,37
+I56590836,Monash University,2018,12257,38
+I165143802,The University of Queensland,2018,12076,39
+I52357470,The Ohio State University,2018,11688,40
+I47720641,Huazhong University of Science and Technology,2018,11408,41
+I130238516,University of Minnesota,2018,11366,42
+I22299242,Kyoto University,2018,11320,43
+I223822909,Heidelberg University,2018,11313,44
+I135310074,University of Wisconsin–Madison,2018,11273,45
+I124055696,University of Copenhagen,2018,11111,46
+I130769515,Pennsylvania State University,2018,11076,47
+I165932596,National University of Singapore,2018,11038,48
+I180670191,"University of California, San Francisco",2018,10970,49
+I63966007,Massachusetts Institute of Technology,2018,10663,50
+I183935753,King's College London,2018,10590,51
+I28407311,University of Manchester,2018,10587,52
+I879563668,Universidade Estadual Paulista (Unesp),2018,10545,53
+I114027177,University of North Carolina at Chapel Hill,2018,10493,54
+I5023651,McGill University,2018,10385,55
+I84218800,"University of California, Davis",2018,10304,56
+I4210087915,Massachusetts General Hospital,2018,10269,57
+I170201317,University of Pittsburgh,2018,10218,58
+I204983213,Harbin Institute of Technology,2018,10154,59
+I154425047,University of Alberta,2018,10101,60
+I24185976,Sichuan University,2018,10098,61
+I170897317,Duke University,2018,10032,62
+I277688954,Université Paris-Saclay,2018,10024,63
+I8204097,Ludwig-Maximilians-Universität München,2018,9986,64
+I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2018,9937,65
+I139264467,Seoul National University,2018,9935,66
+I111979921,Northwestern University,2018,9918,67
+I157725225,University of Illinois Urbana-Champaign,2018,9857,68
+I139660479,Central South University,2018,9820,69
+I204337017,Aarhus University,2018,9768,70
+I98677209,University of Edinburgh,2018,9767,71
+I35440088,ETH Zurich,2018,9668,72
+I86519309,The University of Texas at Austin,2018,9659,73
+I57206974,New York University,2018,9501,74
+I1174212,University of Southern California,2018,9486,75
+I40347166,University of Chicago,2018,9431,76
+I168635309,University of Calgary,2018,9376,77
+I8961855,Universidad Nacional Autónoma de México,2018,9233,78
+I861853513,Sapienza University of Rome,2018,9224,79
+I126520041,University of Science and Technology of China,2018,9189,80
+I87445476,Xi'an Jiaotong University,2018,9188,81
+I91045830,Texas A&M University,2018,9173,82
+I1283280774,Brigham and Women's Hospital,2018,9169,83
+I181391015,Universidade Estadual de Campinas (UNICAMP),2018,9130,84
+I24943067,Fudan University,2018,9116,85
+I19880235,Lomonosov Moscow State University,2018,9047,86
+I150468666,Emory University,2018,9030,87
+I100532134,Université Claude Bernard Lyon 1,2018,8911,88
+I172675005,Nanyang Technological University,2018,8866,89
+I899635006,Université Grenoble Alpes,2018,8853,90
+I62916508,Technical University of Munich,2018,8760,91
+I37461747,Wuhan University,2018,8718,92
+I204465549,Washington University in St. Louis,2018,8620,93
+I138006243,University of Arizona,2018,8591,94
+I223532165,University of Utah,2018,8580,95
+I157674565,University of Liège,2018,8574,96
+I28166907,Karolinska Institutet,2018,8561,97
+I102322142,"Rutgers, The State University of New Jersey",2018,8539,98
+I130442723,Universidade Federal do Rio Grande do Sul,2018,8479,99
+I219193219,Purdue University West Lafayette,2018,8444,100
+I159176309,Universität Hamburg,2018,8412,101
+I887064364,University of Amsterdam,2018,8279,102
+I145872427,Radboud University Nijmegen,2018,8274,103
+I74973139,Carnegie Mellon University,2018,8215,104
+I66946132,"University of Maryland, College Park",2018,8212,105
+I98285908,The University of Osaka,2018,8203,106
+I194450716,Jilin University,2018,8046,107
+I21491767,Aix-Marseille Université,2018,8017,108
+I138689650,University of Padua,2018,7960,109
+I87216513,Michigan State University,2018,7954,110
+I133731052,University of Helsinki,2018,7933,111
+I82880672,Beihang University,2018,7912,112
+I189158943,University of Milan,2018,7871,113
+I881766915,Nanjing University,2018,7870,114
+I154099455,Shandong University,2018,7804,115
+I141596103,University of Lisbon,2018,7792,116
+I116953780,Tongji University,2018,7771,117
+I889458895,University of Hong Kong,2018,7771,118
+I193775966,Yonsei University,2018,7766,119
+I201537933,Tohoku University,2018,7759,120
+I9360294,University of Bologna,2018,7728,121
+I202697423,University of Zurich,2018,7677,122
+I122140584,Universidade Federal do Rio de Janeiro,2018,7639,123
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2018,7631,124
+I162868743,Tianjin University,2018,7615,125
+I187531555,Lund University,2018,7613,126
+I1299303238,National Institutes of Health,2018,7604,127
+I1343551460,The University of Texas MD Anderson Cancer Center,2018,7566,128
+I114090438,Goethe University Frankfurt,2018,7548,129
+I193662353,Utrecht University,2018,7503,130
+I79619799,University of Birmingham,2018,7468,131
+I111088046,Boston University,2018,7461,132
+I55732556,Arizona State University,2018,7453,133
+I36234482,University of Bristol,2018,7427,134
+I2799853436,Johns Hopkins Medicine,2018,7412,135
+I32597200,Ghent University,2018,7376,136
+I130701444,Georgia Institute of Technology,2018,7358,137
+I71999127,Universitat de Barcelona,2018,7299,138
+I184942183,University of Oslo,2018,7292,139
+I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,2018,7268,140
+I169381384,University of Groningen,2018,7257,141
+I23946033,University of Tehran,2018,7203,142
+I76569877,Southeast University,2018,7154,143
+I142263535,University of Nottingham,2018,7098,144
+I153718931,University of Ottawa,2018,7085,145
+I16391192,Tel Aviv University,2018,7062,146
+I887968799,RWTH Aachen University,2018,7001,147
+I110200422,Universidade Federal de Minas Gerais,2018,6996,148
+I90183372,Université de Lorraine,2018,6974,149
+I204250578,"University of California, Irvine",2018,6964,150
+I921990950,University of Colorado Denver,2018,6946,151
+I98358874,Delft University of Technology,2018,6921,152
+I5681781,The University of Adelaide,2018,6909,153
+I130828816,University of Leeds,2018,6895,154
+I146655781,University of Liverpool,2018,6859,155
+I39422238,University of Illinois Chicago,2018,6835,156
+I90610280,South China University of Technology,2018,6813,157
+I43439940,University of Southampton,2018,6812,158
+I123387679,Uppsala University,2018,6781,159
+I150229711,University of Electronic Science and Technology of China,2018,6761,160
+I177725633,Chinese University of Hong Kong,2018,6737,161
+I4210097159,Assistance Publique – Hôpitaux de Paris,2018,6731,162
+I177877127,The University of Western Australia,2018,6723,163
+I29617571,University of Indonesia,2018,6674,164
+I118347636,Australian National University,2018,6654,165
+I98251732,McMaster University,2018,6622,166
+I55769427,Indiana University – Purdue University Indianapolis,2018,6608,167
+I4210125099,Mayo Clinic in Arizona,2018,6604,168
+I91136226,University of Sheffield,2018,6541,169
+I181547552,Baylor College of Medicine,2018,6539,170
+I135598925,Kyushu University,2018,6478,171
+I7882870,University of Glasgow,2018,6450,172
+I51556381,University of Virginia,2018,6441,173
+I182534213,Universidade do Porto,2018,6407,174
+I20089843,Princeton University,2018,6403,175
+I17145004,Northwestern Polytechnical University,2018,6397,176
+I96673099,Technical University of Denmark,2018,6380,177
+I125749732,Western University,2018,6367,178
+I60134161,Nagoya University,2018,6351,179
+I70931966,Université de Montréal,2018,6313,180
+I98704320,Icahn School of Medicine at Mount Sinai,2018,6298,181
+I891191580,Aalborg University,2018,6252,182
+I70640408,Tehran University of Medical Sciences,2018,6246,183
+I1313323035,Russian Academy of Sciences,2018,6242,184
+I848706,Sungkyunkwan University,2018,6209,185
+I200719446,Vanderbilt University,2018,6203,186
+I123044942,Universitat Autònoma de Barcelona,2018,6165,187
+I19894307,Université de Montpellier,2018,6142,188
+I27357992,Dalian University of Technology,2018,6133,189
+I121748325,Universidad Complutense de Madrid,2018,6065,190
+I149899117,Max Planck Society,2018,6060,191
+I16733864,National Taiwan University,2018,6056,192
+I188538660,University of Colorado Boulder,2018,6033,193
+I5124864,École Polytechnique Fédérale de Lausanne,2018,6006,194
+I7877124,Charité - Universitätsmedizin Berlin,2018,5978,195
+I76134821,Medical University of Vienna,2018,5963,196
+I118564535,University of Bern,2018,5916,197
+I154130895,University of Auckland,2018,5906,198
+I137902535,North Carolina State University,2018,5892,199
+I125839683,Beijing Institute of Technology,2018,5889,200
+I142606810,Pacific Northwest National Laboratory,2020,67019,1
+I1294671590,Centre National de la Recherche Scientifique,2020,66127,2
+I19820366,Chinese Academy of Sciences,2020,58527,3
+I201448701,University of Washington,2020,57728,4
+I2801280572,Environmental Molecular Sciences Laboratory,2020,56342,5
+I136199984,Harvard University,2020,35051,6
+I4210165038,University of Chinese Academy of Sciences,2020,29576,7
+I45129253,University College London,2020,27482,8
+I114027177,University of North Carolina at Chapel Hill,2020,27132,9
+I97018004,Stanford University,2020,25678,10
+I27837315,University of Michigan,2020,25538,11
+I185261750,University of Toronto,2020,25400,12
+I40120149,University of Oxford,2020,24773,13
+I154526488,Inserm,2020,24333,14
+I17974374,Universidade de São Paulo,2020,23577,15
+I141686865,Concern Worldwide US,2020,22359,16
+I145311948,Johns Hopkins University,2020,22172,17
+I183067930,Shanghai Jiao Tong University,2020,21634,18
+I1281735042,Natural Resources Canada,2020,21212,19
+I20231570,Peking University,2020,20733,20
+I32971472,Yale University,2020,19715,21
+I99065089,Tsinghua University,2020,19585,22
+I241749,University of Cambridge,2020,19391,23
+I76130692,Zhejiang University,2020,19324,24
+I2801851002,Harvard University Press,2020,19192,25
+I157773358,Sun Yat-sen University,2020,18916,26
+I205783295,Cornell University,2020,18805,27
+I39804081,Sorbonne Université,2020,18588,28
+I74801974,The University of Tokyo,2020,18266,29
+I165779595,The University of Melbourne,2020,17881,30
+I79576946,University of Pennsylvania,2020,17552,31
+I47508984,Imperial College London,2020,17493,32
+I37461747,Wuhan University,2020,17298,33
+I129604602,The University of Sydney,2020,16892,34
+I78577930,Columbia University,2020,16545,35
+I36258959,University of California San Diego,2020,16185,36
+I161318765,"University of California, Los Angeles",2020,16099,37
+I47720641,Huazhong University of Science and Technology,2020,15960,38
+I95457486,"University of California, Berkeley",2020,15944,39
+I141945490,University of British Columbia,2020,15790,40
+I56590836,Monash University,2020,15489,41
+I204730241,Université Paris Cité,2020,15461,42
+I33213144,University of Florida,2020,15220,43
+I139660479,Central South University,2020,15066,44
+I24185976,Sichuan University,2020,14761,45
+I99464096,KU Leuven,2020,14324,46
+I31746571,UNSW Sydney,2020,14311,47
+I165932596,National University of Singapore,2020,14011,48
+I130769515,Pennsylvania State University,2020,13923,49
+I165143802,The University of Queensland,2020,13923,50
+I1174212,University of Southern California,2020,13829,51
+I170897317,Duke University,2020,13820,52
+I180670191,"University of California, San Francisco",2020,13804,53
+I52357470,The Ohio State University,2020,13757,54
+I183935753,King's College London,2020,13703,55
+I98677209,University of Edinburgh,2020,13562,56
+I24943067,Fudan University,2020,13506,57
+I63966007,Massachusetts Institute of Technology,2020,13349,58
+I4210087915,Massachusetts General Hospital,2020,13325,59
+I135310074,University of Wisconsin–Madison,2020,13213,60
+I124055696,University of Copenhagen,2020,12903,61
+I28407311,University of Manchester,2020,12741,62
+I130238516,University of Minnesota,2020,12738,63
+I223822909,Heidelberg University,2020,12726,64
+I277688954,Université Paris-Saclay,2020,12574,65
+I5023651,McGill University,2020,12527,66
+I57206974,New York University,2020,12455,67
+I35440088,ETH Zurich,2020,12385,68
+I861853513,Sapienza University of Rome,2020,12244,69
+I87445476,Xi'an Jiaotong University,2020,12196,70
+I170201317,University of Pittsburgh,2020,12137,71
+I84218800,"University of California, Davis",2020,12054,72
+I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,2020,12022,73
+I150468666,Emory University,2020,11937,74
+I126520041,University of Science and Technology of China,2020,11904,75
+I22299242,Kyoto University,2020,11863,76
+I111979921,Northwestern University,2020,11779,77
+I154425047,University of Alberta,2020,11756,78
+I1283280774,Brigham and Women's Hospital,2020,11709,79
+I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,2020,11708,80
+I8204097,Ludwig-Maximilians-Universität München,2020,11633,81
+I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2020,11603,82
+I204983213,Harbin Institute of Technology,2020,11479,83
+I219193219,Purdue University West Lafayette,2020,11476,84
+I204465549,Washington University in St. Louis,2020,11354,85
+I157725225,University of Illinois Urbana-Champaign,2020,11264,86
+I139264467,Seoul National University,2020,11246,87
+I4210089966,London School of Hygiene & Tropical Medicine,2020,11156,88
+I86519309,The University of Texas at Austin,2020,11081,89
+I138689650,University of Padua,2020,11059,90
+I40347166,University of Chicago,2020,10999,91
+I879563668,Universidade Estadual Paulista (Unesp),2020,10997,92
+I889458895,University of Hong Kong,2020,10953,93
+I204337017,Aarhus University,2020,10940,94
+I87216513,Michigan State University,2020,10914,95
+I19880235,Lomonosov Moscow State University,2020,10888,96
+I189158943,University of Milan,2020,10854,97
+I91045830,Texas A&M University,2020,10808,98
+I154099455,Shandong University,2020,10788,99
+I159176309,Universität Hamburg,2020,10758,100
+I202697423,University of Zurich,2020,10575,101
+I62916508,Technical University of Munich,2020,10513,102
+I8961855,Universidad Nacional Autónoma de México,2020,10492,103
+I138006243,University of Arizona,2020,10418,104
+I116953780,Tongji University,2020,10393,105
+I887064364,University of Amsterdam,2020,10377,106
+I102322142,"Rutgers, The State University of New Jersey",2020,10339,107
+I28166907,Karolinska Institutet,2020,10312,108
+I172675005,Nanyang Technological University,2020,10287,109
+I162868743,Tianjin University,2020,10273,110
+I194450716,Jilin University,2020,10139,111
+I899635006,Université Grenoble Alpes,2020,10010,112
+I223532165,University of Utah,2020,10003,113
+I100532134,Université Claude Bernard Lyon 1,2020,9881,114
+I881766915,Nanjing University,2020,9849,115
+I9360294,University of Bologna,2020,9843,116
+I133731052,University of Helsinki,2020,9694,117
+I130442723,Universidade Federal do Rio Grande do Sul,2020,9692,118
+I181391015,Universidade Estadual de Campinas (UNICAMP),2020,9648,119
+I193662353,Utrecht University,2020,9582,120
+I122140584,Universidade Federal do Rio de Janeiro,2020,9457,121
+I55732556,Arizona State University,2020,9418,122
+I145872427,Radboud University Nijmegen,2020,9413,123
+I168635309,University of Calgary,2020,9384,124
+I71999127,Universitat de Barcelona,2020,9324,125
+I141596103,University of Lisbon,2020,9307,126
+I2799853436,Johns Hopkins Medicine,2020,9303,127
+I169381384,University of Groningen,2020,9187,128
+I76569877,Southeast University,2020,9170,129
+I1299303238,National Institutes of Health,2020,9163,130
+I146655781,University of Liverpool,2020,9141,131
+I4210097159,Assistance Publique – Hôpitaux de Paris,2020,9072,132
+I193775966,Yonsei University,2020,9068,133
+I16391192,Tel Aviv University,2020,9023,134
+I111088046,Boston University,2020,9004,135
+I98285908,The University of Osaka,2020,8989,136
+I79619799,University of Birmingham,2020,8942,137
+I36234482,University of Bristol,2020,8826,138
+I66946132,"University of Maryland, College Park",2020,8804,139
+I98704320,Icahn School of Medicine at Mount Sinai,2020,8776,140
+I187531555,Lund University,2020,8762,141
+I21491767,Aix-Marseille Université,2020,8750,142
+I184942183,University of Oslo,2020,8710,143
+I28022161,King Saud University,2020,8652,144
+I4210139925,Korea Basic Science Institute,2020,8622,145
+I177725633,Chinese University of Hong Kong,2020,8618,146
+I39422238,University of Illinois Chicago,2020,8611,147
+I110200422,Universidade Federal de Minas Gerais,2020,8580,148
+I29617571,University of Indonesia,2020,8563,149
+I201537933,Tohoku University,2020,8550,150
+I183519381,Capital Medical University,2020,8533,151
+I204250578,"University of California, Irvine",2020,8523,152
+I130701444,Georgia Institute of Technology,2020,8519,153
+I32597200,Ghent University,2020,8517,154
+I142263535,University of Nottingham,2020,8497,155
+I1343551460,The University of Texas MD Anderson Cancer Center,2020,8492,156
+I98251732,McMaster University,2020,8449,157
+I20089843,Princeton University,2020,8417,158
+I150229711,University of Electronic Science and Technology of China,2020,8384,159
+I90610280,South China University of Technology,2020,8377,160
+I70640408,Tehran University of Medical Sciences,2020,8346,161
+I130828816,University of Leeds,2020,8275,162
+I123387679,Uppsala University,2020,8245,163
+I39555362,University of Warwick,2020,8236,164
+I1313323035,Russian Academy of Sciences,2020,8158,165
+I153718931,University of Ottawa,2020,8135,166
+I7882870,University of Glasgow,2020,8119,167
+I23946033,University of Tehran,2020,8103,168
+I51556381,University of Virginia,2020,8086,169
+I82880672,Beihang University,2020,8017,170
+I7877124,Charité - Universitätsmedizin Berlin,2020,8015,171
+I181547552,Baylor College of Medicine,2020,8011,172
+I887968799,RWTH Aachen University,2020,8007,173
+I4210125099,Mayo Clinic in Arizona,2020,7944,174
+I165690674,Oregon Health & Science University,2020,7926,175
+I137902535,North Carolina State University,2020,7925,176
+I182534213,Universidade do Porto,2020,7893,177
+I71267560,University of Naples Federico II,2020,7863,178
+I19894307,Université de Montpellier,2020,7844,179
+I121748325,Universidad Complutense de Madrid,2020,7819,180
+I921990950,University of Colorado Denver,2020,7812,181
+I38877650,Zhengzhou University,2020,7757,182
+I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",2020,7754,183
+I145608581,University of Miami,2020,7752,184
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2020,7731,185
+I118347636,Australian National University,2020,7691,186
+I125749732,Western University,2020,7676,187
+I91136226,University of Sheffield,2020,7655,188
+I125839683,Beijing Institute of Technology,2020,7630,189
+I158842170,Chongqing University,2020,7613,190
+I70931966,Université de Montréal,2020,7588,191
+I98358874,Delft University of Technology,2020,7570,192
+I17145004,Northwestern Polytechnical University,2020,7549,193
+I1316902750,Cleveland Clinic,2020,7505,194
+I123044942,Universitat Autònoma de Barcelona,2020,7499,195
+I188538660,University of Colorado Boulder,2020,7489,196
+I118564535,University of Bern,2020,7454,197
+I43439940,University of Southampton,2020,7420,198
+I14243506,Hong Kong Polytechnic University,2020,7400,199
+I55769427,Indiana University – Purdue University Indianapolis,2020,7400,200
+I27837315,University of Michigan,2022,454943,1
+I142606810,Pacific Northwest National Laboratory,2022,134722,2
+I2801280572,Environmental Molecular Sciences Laboratory,2022,113346,3
+I19820366,Chinese Academy of Sciences,2022,68790,4
+I1294671590,Centre National de la Recherche Scientifique,2022,67598,5
+I4210165038,University of Chinese Academy of Sciences,2022,38745,6
+I136199984,Harvard University,2022,32636,7
+I183067930,Shanghai Jiao Tong University,2022,29366,8
+I76130692,Zhejiang University,2022,27728,9
+I45129253,University College London,2022,27025,10
+I20231570,Peking University,2022,26827,11
+I145311948,Johns Hopkins University,2022,26021,12
+I157773358,Sun Yat-sen University,2022,25059,13
+I154526488,Inserm,2022,24935,14
+I185261750,University of Toronto,2022,24920,15
+I99065089,Tsinghua University,2022,24091,16
+I40120149,University of Oxford,2022,23992,17
+I97018004,Stanford University,2022,23795,18
+I17974374,Universidade de São Paulo,2022,22814,19
+I24185976,Sichuan University,2022,22771,20
+I2801851002,Harvard University Press,2022,22506,21
+I139660479,Central South University,2022,21467,22
+I47720641,Huazhong University of Science and Technology,2022,20607,23
+I24943067,Fudan University,2022,19367,24
+I39804081,Sorbonne Université,2022,19198,25
+I205783295,Cornell University,2022,19049,26
+I201448701,University of Washington,2022,18907,27
+I241749,University of Cambridge,2022,18703,28
+I73236664,Wheaton College - Illinois,2022,18630,29
+I74801974,The University of Tokyo,2022,17733,30
+I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,2022,17604,31
+I165779595,The University of Melbourne,2022,17367,32
+I47508984,Imperial College London,2022,17007,33
+I37461747,Wuhan University,2022,16811,34
+I161318765,"University of California, Los Angeles",2022,16278,35
+I95457486,"University of California, Berkeley",2022,16215,36
+I79576946,University of Pennsylvania,2022,16133,37
+I32971472,Yale University,2022,16096,38
+I129604602,The University of Sydney,2022,15805,39
+I204730241,Université Paris Cité,2022,15794,40
+I126520041,University of Science and Technology of China,2022,15776,41
+I87445476,Xi'an Jiaotong University,2022,15712,42
+I141945490,University of British Columbia,2022,15706,43
+I154099455,Shandong University,2022,15368,44
+I36258959,University of California San Diego,2022,15224,45
+I56590836,Monash University,2022,15219,46
+I204983213,Harbin Institute of Technology,2022,15203,47
+I114027177,University of North Carolina at Chapel Hill,2022,15144,48
+I98704320,Icahn School of Medicine at Mount Sinai,2022,15133,49
+I33213144,University of Florida,2022,14655,50
+I116953780,Tongji University,2022,14610,51
+I78577930,Columbia University,2022,14431,52
+I31746571,UNSW Sydney,2022,14428,53
+I277688954,Université Paris-Saclay,2022,14091,54
+I165143802,The University of Queensland,2022,14019,55
+I165932596,National University of Singapore,2022,13950,56
+I180670191,"University of California, San Francisco",2022,13735,57
+I99464096,KU Leuven,2022,13566,58
+I4210087915,Massachusetts General Hospital,2022,13286,59
+I194450716,Jilin University,2022,13237,60
+I162868743,Tianjin University,2022,12986,61
+I124055696,University of Copenhagen,2022,12937,62
+I223822909,Heidelberg University,2022,12912,63
+I183935753,King's College London,2022,12882,64
+I889458895,University of Hong Kong,2022,12837,65
+I76569877,Southeast University,2022,12740,66
+I52357470,The Ohio State University,2022,12647,67
+I84218800,"University of California, Davis",2022,12470,68
+I135310074,University of Wisconsin–Madison,2022,12366,69
+I861853513,Sapienza University of Rome,2022,12329,70
+I5023651,McGill University,2022,12319,71
+I170897317,Duke University,2022,12306,72
+I28407311,University of Manchester,2022,12289,73
+I183519381,Capital Medical University,2022,12264,74
+I98677209,University of Edinburgh,2022,12262,75
+I204465549,Washington University in St. Louis,2022,12231,76
+I35440088,ETH Zurich,2022,12128,77
+I150468666,Emory University,2022,12090,78
+I40347166,University of Chicago,2022,12021,79
+I38877650,Zhengzhou University,2022,12017,80
+I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,2022,11984,81
+I130769515,Pennsylvania State University,2022,11963,82
+I170201317,University of Pittsburgh,2022,11961,83
+I8204097,Ludwig-Maximilians-Universität München,2022,11793,84
+I130238516,University of Minnesota,2022,11750,85
+I881766915,Nanjing University,2022,11721,86
+I158842170,Chongqing University,2022,11692,87
+I62916508,Technical University of Munich,2022,11606,88
+I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",2022,11588,89
+I154425047,University of Alberta,2022,11470,90
+I150229711,University of Electronic Science and Technology of China,2022,11422,91
+I57206974,New York University,2022,11410,92
+I1283280774,Brigham and Women's Hospital,2022,11348,93
+I111979921,Northwestern University,2022,11313,94
+I139264467,Seoul National University,2022,11066,95
+I19880235,Lomonosov Moscow State University,2022,11062,96
+I90610280,South China University of Technology,2022,11025,97
+I219193219,Purdue University West Lafayette,2022,10945,98
+I1174212,University of Southern California,2022,10873,99
+I138689650,University of Padua,2022,10872,100
+I189158943,University of Milan,2022,10870,101
+I159176309,Universität Hamburg,2022,10844,102
+I204337017,Aarhus University,2022,10829,103
+I125839683,Beijing Institute of Technology,2022,10808,104
+I28166907,Karolinska Institutet,2022,10743,105
+I9360294,University of Bologna,2022,10730,106
+I22299242,Kyoto University,2022,10711,107
+I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2022,10644,108
+I8961855,Universidad Nacional Autónoma de México,2022,10624,109
+I86519309,The University of Texas at Austin,2022,10520,110
+I87216513,Michigan State University,2022,10424,111
+I3923682,Soochow University,2022,10391,112
+I202697423,University of Zurich,2022,10312,113
+I887064364,University of Amsterdam,2022,10309,114
+I63966007,Massachusetts Institute of Technology,2022,10289,115
+I157725225,University of Illinois Urbana-Champaign,2022,10282,116
+I28022161,King Saud University,2022,10224,117
+I133731052,University of Helsinki,2022,10218,118
+I193775966,Yonsei University,2022,10213,119
+I223532165,University of Utah,2022,10162,120
+I83519826,Nanjing Medical University,2022,10073,121
+I102322142,"Rutgers, The State University of New Jersey",2022,10072,122
+I82880672,Beihang University,2022,10044,123
+I100532134,Université Claude Bernard Lyon 1,2022,9956,124
+I17145004,Northwestern Polytechnical University,2022,9941,125
+I177725633,Chinese University of Hong Kong,2022,9831,126
+I899635006,Université Grenoble Alpes,2022,9794,127
+I172675005,Nanyang Technological University,2022,9754,128
+I141596103,University of Lisbon,2022,9744,129
+I91045830,Texas A&M University,2022,9720,130
+I145872427,Radboud University Nijmegen,2022,9660,131
+I71999127,Universitat de Barcelona,2022,9530,132
+I879563668,Universidade Estadual Paulista (Unesp),2022,9447,133
+I138006243,University of Arizona,2022,9401,134
+I193662353,Utrecht University,2022,9394,135
+I4210097159,Assistance Publique – Hôpitaux de Paris,2022,9263,136
+I191208505,Xiamen University,2022,9208,137
+I187531555,Lund University,2022,9159,138
+I168635309,University of Calgary,2022,9153,139
+I27357992,Dalian University of Technology,2022,9102,140
+I145487455,Cairo University,2022,9041,141
+I184942183,University of Oslo,2022,9010,142
+I2799853436,Johns Hopkins Medicine,2022,8997,143
+I204250578,"University of California, Irvine",2022,8992,144
+I146655781,University of Liverpool,2022,8981,145
+I98285908,The University of Osaka,2022,8950,146
+I169381384,University of Groningen,2022,8946,147
+I14243506,Hong Kong Polytechnic University,2022,8936,148
+I180726961,Shenzhen University,2022,8931,149
+I1299303238,National Institutes of Health,2022,8909,150
+I25254941,Beijing Normal University,2022,8835,151
+I181391015,Universidade Estadual de Campinas (UNICAMP),2022,8821,152
+I182534213,Universidade do Porto,2022,8810,153
+I111088046,Boston University,2022,8770,154
+I19894307,Université de Montpellier,2022,8768,155
+I1343551460,The University of Texas MD Anderson Cancer Center,2022,8767,156
+I130701444,Georgia Institute of Technology,2022,8726,157
+I4210148414,Institut Agama Islam Negeri Bengkulu,2022,8625,158
+I36234482,University of Bristol,2022,8611,159
+I122140584,Universidade Federal do Rio de Janeiro,2022,8584,160
+I79619799,University of Birmingham,2022,8579,161
+I118564535,University of Bern,2022,8550,162
+I1313323035,Russian Academy of Sciences,2022,8501,163
+I185163786,King Abdulaziz University,2022,8498,164
+I201537933,Tohoku University,2022,8424,165
+I7882870,University of Glasgow,2022,8380,166
+I16391192,Tel Aviv University,2022,8360,167
+I7877124,Charité - Universitätsmedizin Berlin,2022,8339,168
+I98251732,McMaster University,2022,8333,169
+I123387679,Uppsala University,2022,8305,170
+I32597200,Ghent University,2022,8274,171
+I71267560,University of Naples Federico II,2022,8262,172
+I121748325,Universidad Complutense de Madrid,2022,8247,173
+I98358874,Delft University of Technology,2022,8234,174
+I76214153,Lanzhou University,2022,8210,175
+I66946132,"University of Maryland, College Park",2022,8158,176
+I55732556,Arizona State University,2022,8143,177
+I130442723,Universidade Federal do Rio Grande do Sul,2022,8124,178
+I4210138501,Chinese Academy of Agricultural Sciences,2022,8109,179
+I21491767,Aix-Marseille Université,2022,8073,180
+I110200422,Universidade Federal de Minas Gerais,2022,8033,181
+I887968799,RWTH Aachen University,2022,8017,182
+I4210151833,Amsterdam University Medical Centers,2022,8010,183
+I205237279,Nankai University,2022,8000,184
+I29617571,University of Indonesia,2022,7965,185
+I130828816,University of Leeds,2022,7944,186
+I58200834,Southern Medical University,2022,7936,187
+I115592961,Jiangsu University,2022,7887,188
+I153718931,University of Ottawa,2022,7871,189
+I155093810,University of Idaho,2022,7868,190
+I181547552,Baylor College of Medicine,2022,7787,191
+I52158045,China Agricultural University,2022,7787,192
+I108688024,Qingdao University,2022,7778,193
+I3045169105,Southern University of Science and Technology,2022,7773,194
+I4210166444,Institut de Recherche pour le Développement,2022,7766,195
+I4210128276,Sağlık Bilimleri Üniversitesi,2022,7745,196
+I92403157,University of Science and Technology Beijing,2022,7725,197
+I70640408,Tehran University of Medical Sciences,2022,7692,198
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2022,7665,199
+I4210125099,Mayo Clinic in Arizona,2022,7662,200
+I142606810,Pacific Northwest National Laboratory,2023,94459,1
+I2801280572,Environmental Molecular Sciences Laboratory,2023,91687,2
+I19820366,Chinese Academy of Sciences,2023,69578,3
+I1294671590,Centre National de la Recherche Scientifique,2023,67903,4
+I4210165038,University of Chinese Academy of Sciences,2023,36984,5
+I136199984,Harvard University,2023,34501,6
+I183067930,Shanghai Jiao Tong University,2023,28906,7
+I76130692,Zhejiang University,2023,28740,8
+I45129253,University College London,2023,27845,9
+I20231570,Peking University,2023,26982,10
+I185261750,University of Toronto,2023,26675,11
+I99065089,Tsinghua University,2023,25069,12
+I154526488,Inserm,2023,24790,13
+I157773358,Sun Yat-sen University,2023,24628,14
+I40120149,University of Oxford,2023,24407,15
+I17974374,Universidade de São Paulo,2023,23405,16
+I24185976,Sichuan University,2023,22227,17
+I97018004,Stanford University,2023,22052,18
+I145311948,Johns Hopkins University,2023,21885,19
+I27837315,University of Michigan,2023,21338,20
+I139660479,Central South University,2023,21300,21
+I201448701,University of Washington,2023,20388,22
+I47720641,Huazhong University of Science and Technology,2023,20176,23
+I95457486,"University of California, Berkeley",2023,19504,24
+I39804081,Sorbonne Université,2023,18948,25
+I205783295,Cornell University,2023,18693,26
+I24943067,Fudan University,2023,18678,27
+I241749,University of Cambridge,2023,18269,28
+I47508984,Imperial College London,2023,18245,29
+I74801974,The University of Tokyo,2023,18186,30
+I165779595,The University of Melbourne,2023,17656,31
+I861853513,Sapienza University of Rome,2023,17374,32
+I129604602,The University of Sydney,2023,17041,33
+I161318765,"University of California, Los Angeles",2023,16965,34
+I32971472,Yale University,2023,16944,35
+I204730241,Université Paris Cité,2023,16828,36
+I126520041,University of Science and Technology of China,2023,16756,37
+I79576946,University of Pennsylvania,2023,16755,38
+I37461747,Wuhan University,2023,16674,39
+I200296433,Chinese Academy of Medical Sciences & Peking Union Medical College,2023,16558,40
+I36258959,University of California San Diego,2023,16133,41
+I141945490,University of British Columbia,2023,16131,42
+I204983213,Harbin Institute of Technology,2023,16064,43
+I87445476,Xi'an Jiaotong University,2023,15988,44
+I154099455,Shandong University,2023,15920,45
+I33213144,University of Florida,2023,15520,46
+I114027177,University of North Carolina at Chapel Hill,2023,15458,47
+I56590836,Monash University,2023,15340,48
+I116953780,Tongji University,2023,15183,49
+I277688954,Université Paris-Saclay,2023,15030,50
+I78577930,Columbia University,2023,14823,51
+I28022161,King Saud University,2023,14478,52
+I165932596,National University of Singapore,2023,14341,53
+I183935753,King's College London,2023,14173,54
+I124055696,University of Copenhagen,2023,14060,55
+I180670191,"University of California, San Francisco",2023,14032,56
+I4210087915,Massachusetts General Hospital,2023,14015,57
+I99464096,KU Leuven,2023,13991,58
+I31746571,UNSW Sydney,2023,13980,59
+I165143802,The University of Queensland,2023,13700,60
+I76569877,Southeast University,2023,13665,61
+I135310074,University of Wisconsin–Madison,2023,13593,62
+I889458895,University of Hong Kong,2023,13579,63
+I223822909,Heidelberg University,2023,13342,64
+I162868743,Tianjin University,2023,13272,65
+I52357470,The Ohio State University,2023,13190,66
+I98677209,University of Edinburgh,2023,13150,67
+I170897317,Duke University,2023,12947,68
+I8204097,Ludwig-Maximilians-Universität München,2023,12893,69
+I84218800,"University of California, Davis",2023,12706,70
+I5023651,McGill University,2023,12647,71
+I62916508,Technical University of Munich,2023,12637,72
+I28407311,University of Manchester,2023,12619,73
+I87216513,Michigan State University,2023,12601,74
+I194450716,Jilin University,2023,12599,75
+I35440088,ETH Zurich,2023,12469,76
+I40347166,University of Chicago,2023,12447,77
+I130769515,Pennsylvania State University,2023,12424,78
+I4210153126,Istituti di Ricovero e Cura a Carattere Scientifico,2023,12401,79
+I158842170,Chongqing University,2023,12310,80
+I170201317,University of Pittsburgh,2023,12299,81
+I57206974,New York University,2023,12255,82
+I204465549,Washington University in St. Louis,2023,12254,83
+I150229711,University of Electronic Science and Technology of China,2023,12135,84
+I150468666,Emory University,2023,12096,85
+I881766915,Nanjing University,2023,12096,86
+I138689650,University of Padua,2023,12030,87
+I4210088668,"Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",2023,11940,88
+I130238516,University of Minnesota,2023,11913,89
+I1283280774,Brigham and Women's Hospital,2023,11742,90
+I125839683,Beijing Institute of Technology,2023,11668,91
+I139264467,Seoul National University,2023,11622,92
+I154425047,University of Alberta,2023,11567,93
+I183519381,Capital Medical University,2023,11566,94
+I38877650,Zhengzhou University,2023,11537,95
+I1174212,University of Southern California,2023,11524,96
+I90610280,South China University of Technology,2023,11491,97
+I19880235,Lomonosov Moscow State University,2023,11441,98
+I8961855,Universidad Nacional Autónoma de México,2023,11393,99
+I111979921,Northwestern University,2023,11353,100
+I204337017,Aarhus University,2023,11351,101
+I177725633,Chinese University of Hong Kong,2023,11346,102
+I219193219,Purdue University West Lafayette,2023,11299,103
+I9360294,University of Bologna,2023,11251,104
+I138006243,University of Arizona,2023,11178,105
+I22299242,Kyoto University,2023,11103,106
+I98704320,Icahn School of Medicine at Mount Sinai,2023,11080,107
+I63966007,Massachusetts Institute of Technology,2023,11072,108
+I157725225,University of Illinois Urbana-Champaign,2023,10968,109
+I887064364,University of Amsterdam,2023,10954,110
+I189158943,University of Milan,2023,10858,111
+I193775966,Yonsei University,2023,10804,112
+I159176309,Universität Hamburg,2023,10732,113
+I17145004,Northwestern Polytechnical University,2023,10701,114
+I28166907,Karolinska Institutet,2023,10645,115
+I151201029,Consejo Nacional de Investigaciones Científicas y Técnicas,2023,10590,116
+I82880672,Beihang University,2023,10568,117
+I14243506,Hong Kong Polytechnic University,2023,10468,118
+I86519309,The University of Texas at Austin,2023,10461,119
+I133731052,University of Helsinki,2023,10415,120
+I71999127,Universitat de Barcelona,2023,10359,121
+I172675005,Nanyang Technological University,2023,10351,122
+I100532134,Université Claude Bernard Lyon 1,2023,10292,123
+I3923682,Soochow University,2023,10190,124
+I202697423,University of Zurich,2023,10178,125
+I223532165,University of Utah,2023,10161,126
+I102322142,"Rutgers, The State University of New Jersey",2023,10134,127
+I899635006,Université Grenoble Alpes,2023,10125,128
+I4210148414,Institut Agama Islam Negeri Bengkulu,2023,10060,129
+I91045830,Texas A&M University,2023,10027,130
+I879563668,Universidade Estadual Paulista (Unesp),2023,9996,131
+I83519826,Nanjing Medical University,2023,9984,132
+I193662353,Utrecht University,2023,9974,133
+I141596103,University of Lisbon,2023,9871,134
+I27357992,Dalian University of Technology,2023,9807,135
+I182534213,Universidade do Porto,2023,9778,136
+I180726961,Shenzhen University,2023,9719,137
+I29617571,University of Indonesia,2023,9643,138
+I145872427,Radboud University Nijmegen,2023,9638,139
+I187531555,Lund University,2023,9599,140
+I111088046,Boston University,2023,9557,141
+I168635309,University of Calgary,2023,9534,142
+I1343551460,The University of Texas MD Anderson Cancer Center,2023,9527,143
+I1313323035,Russian Academy of Sciences,2023,9498,144
+I2799853436,Johns Hopkins Medicine,2023,9477,145
+I191208505,Xiamen University,2023,9436,146
+I25254941,Beijing Normal University,2023,9285,147
+I79619799,University of Birmingham,2023,9160,148
+I4210097159,Assistance Publique – Hôpitaux de Paris,2023,9113,149
+I7882870,University of Glasgow,2023,9107,150
+I36234482,University of Bristol,2023,9025,151
+I184942183,University of Oslo,2023,9021,152
+I204250578,"University of California, Irvine",2023,9012,153
+I98285908,The University of Osaka,2023,8997,154
+I169381384,University of Groningen,2023,8996,155
+I121748325,Universidad Complutense de Madrid,2023,8964,156
+I122140584,Universidade Federal do Rio de Janeiro,2023,8914,157
+I19894307,Université de Montpellier,2023,8910,158
+I146655781,University of Liverpool,2023,8833,159
+I201537933,Tohoku University,2023,8800,160
+I887968799,RWTH Aachen University,2023,8749,161
+I123387679,Uppsala University,2023,8642,162
+I118564535,University of Bern,2023,8630,163
+I181391015,Universidade Estadual de Campinas (UNICAMP),2023,8624,164
+I145487455,Cairo University,2023,8603,165
+I130828816,University of Leeds,2023,8571,166
+I71267560,University of Naples Federico II,2023,8495,167
+I98358874,Delft University of Technology,2023,8482,168
+I32597200,Ghent University,2023,8465,169
+I98251732,McMaster University,2023,8434,170
+I2738703131,Commissariat à l'Énergie Atomique et aux Énergies Alternatives,2023,8427,171
+I130442723,Universidade Federal do Rio Grande do Sul,2023,8389,172
+I21491767,Aix-Marseille Université,2023,8335,173
+I16391192,Tel Aviv University,2023,8315,174
+I3045169105,Southern University of Science and Technology,2023,8303,175
+I153718931,University of Ottawa,2023,8277,176
+I285663978,Weatherford College,2023,8274,177
+I66946132,"University of Maryland, College Park",2023,8259,178
+I55732556,Arizona State University,2023,8257,179
+I4210125099,Mayo Clinic in Arizona,2023,8223,180
+I4210151833,Amsterdam University Medical Centers,2023,8205,181
+I4210166444,Institut de Recherche pour le Développement,2023,8186,182
+I1299303238,National Institutes of Health,2023,8181,183
+I7877124,Charité - Universitätsmedizin Berlin,2023,8180,184
+I93860229,Politecnico di Milano,2023,8178,185
+I115592961,Jiangsu University,2023,8163,186
+I110200422,Universidade Federal de Minas Gerais,2023,8125,187
+I848706,Sungkyunkwan University,2023,8118,188
+I876193797,Vellore Institute of Technology University,2023,8096,189
+I92403157,University of Science and Technology Beijing,2023,8063,190
+I181547552,Baylor College of Medicine,2023,8062,191
+I148283060,Lawrence Berkeley National Laboratory,2023,8047,192
+I2279609970,Université de Lille,2023,7990,193
+I75951250,Freie Universität Berlin,2023,7985,194
+I76214153,Lanzhou University,2023,7982,195
+I865915315,Vrije Universiteit Amsterdam,2023,7952,196
+I16609230,Hunan University,2023,7941,197
+I130701444,Georgia Institute of Technology,2023,7917,198
+I168719708,City University of Hong Kong,2023,7914,199
+I142263535,University of Nottingham,2023,7904,200

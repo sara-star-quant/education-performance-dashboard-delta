@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Insights - What correlates with progress</title>
+<meta name="description" content="Controlled, observational study: do program features associate with faster ranking/EPI gains? Association, not causation.">
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#2f6f72">
+<link rel="icon" href="./assets/icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./assets/styles.css">
+<script src="./assets/echarts.min.js"></script>
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">Education Performance Delta <small>insights</small></div>
+    <nav class="nav">
+      <a href="./index.html">Dashboard</a>
+      <a href="./guide/README.md">Docs</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <h1 style="font-size:22px;letter-spacing:-.02em;margin:24px 0 4px">What correlates with progress?</h1>
+  <p class="note" style="max-width:62ch">Each feature tag is tested as a predictor of the 5-year EPI delta, both as a raw correlation and in a regression controlling for GDP per capita, R&amp;D intensity, system size, and base ranking level.</p>
+  <div class="disclaimer" id="disc"></div>
+
+  <div class="grid">
+    <div class="card">
+      <h2>Controlled association by feature</h2>
+      <div class="sub">Regression coefficient (points of 5y EPI delta) with 95% confidence interval. Bars crossing zero are not distinguishable from no effect.</div>
+      <div id="forest" style="width:100%;height:280px"></div>
+    </div>
+
+    <div class="card">
+      <h2>Candidate universal levers</h2>
+      <div class="sub" id="leverSub"></div>
+      <div id="levers"></div>
+    </div>
+
+    <div class="card">
+      <h2>Detail</h2>
+      <table id="tbl">
+        <thead><tr>
+          <th>Feature</th><th class="num">n</th><th class="num">Pearson r</th>
+          <th class="num">Coef</th><th class="num">95% CI</th><th class="num">p</th><th class="num">R&sup2;</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <div class="card">
+      <h2>Robustness</h2>
+      <div id="robust" class="note"></div>
+    </div>
+  </div>
+
+  <p class="foot">
+    Observational study on the snapshot cohort. Correlation is not causation; with few features and a small cohort, treat single p-values cautiously.
+    Method: <a href="./guide/correlation-study.md">correlation study</a>.
+  </p>
+</div>
+
+<script src="./assets/insights.js"></script>
+</body>
+</html>
