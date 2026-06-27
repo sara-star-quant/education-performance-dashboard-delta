@@ -18,7 +18,11 @@ import os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
-SNAP = os.path.join(ROOT, "docs", "data", "snapshots", "2026Q3.json")
+PUB = os.path.join(ROOT, "docs", "data")
+# Resolve the latest snapshot from the manifest so the version is not hardcoded.
+with open(os.path.join(PUB, "manifest.json")) as _f:
+    _man = json.load(_f)
+SNAP = os.path.join(PUB, next(s["path"] for s in _man["snapshots"] if s["version"] == _man["latest"]))
 OUTCOME_WINDOW = "5"
 
 

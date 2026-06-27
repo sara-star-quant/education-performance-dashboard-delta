@@ -1,7 +1,7 @@
 # Sources
 
 All quantitative figures derive from these public APIs. Snapshot generated for
-reference year 2023 (version 2026Q3). Raw extracts are the CSVs in this folder;
+reference year 2023 (version 2026-Q3). Raw extracts are the CSVs in this folder;
 `build/fetch_sources.py` reproduces them.
 
 ## Quantitative (automated, exact)

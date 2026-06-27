@@ -34,7 +34,7 @@ published.
 
 ## Refresh
 
-Snapshots are versioned per quarter (e.g. `2026Q3`) and refreshed ~2-3x/quarter.
+Snapshots are versioned per quarter (e.g. `2026-Q3`) and refreshed ~2-3x/quarter.
 
 ```sh
 cp .env.example .env     # add OPENALEX_API_KEY (optional) + OPENALEX_MAILTO
@@ -43,8 +43,14 @@ build/refresh.sh         # fetch -> build -> correlate   (or --no-fetch to rebui
 
 Secrets are read from the gitignored `.env` or prompted by the script; for the
 scheduled GitHub Action set them as repository secrets (`OPENALEX_API_KEY`,
-`OPENALEX_MAILTO`). To bump the version, edit `VERSION`/`GENERATED` in
-`build/build_snapshot.py` and re-run.
+`OPENALEX_MAILTO`).
+
+**Advancing the reference year.** `REF_YEAR`, `VERSION`, `GENERATED`, and
+`year_range`/`key_years` are pinned constants in `build/build_snapshot.py`, so
+the scheduled refresh re-runs the *same* window rather than rolling forward.
+Moving to a new period is a deliberate edit: bump `VERSION` (e.g. `2026-Q4`),
+set the new `REF_YEAR`/`GENERATED`, extend the year lists, then re-run. This
+keeps published snapshots stable and reproducible between intentional bumps.
 
 ## Frontend & PWA
 
