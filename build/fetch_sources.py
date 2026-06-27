@@ -39,6 +39,13 @@ WB_INDICATORS = {
 LEADERBOARD_YEARS = [2013, 2018, 2020, 2022, 2023]
 
 
+def _redact(url):
+    """Strip the api_key so it never reaches logs or tracebacks."""
+    if OPENALEX_API_KEY:
+        url = url.replace(OPENALEX_API_KEY, "***")
+    return url
+
+
 def get_json(url, tries=6):
     last = None
     if OPENALEX_API_KEY and "openalex.org" in url:
@@ -54,7 +61,7 @@ def get_json(url, tries=6):
         except Exception as e:  # noqa: BLE001 - network retry
             last = e
             time.sleep(2 * (i + 1))
-    raise RuntimeError(f"failed: {url}\n{last}")
+    raise RuntimeError(f"failed: {_redact(url)}\n{last}")
 
 
 def load_cfg():

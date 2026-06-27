@@ -404,12 +404,6 @@ universal = {
 }
 
 # ---------- sensitivity check (min-max vs z-score top lists) ----------
-z_epi = {}
-for c in out_countries:
-    e, _ = epi_from({p: {y: zscore_year(p, y) for y in KEY_YEARS} for p in PILLARS},
-                    c["iso2"], REF_YEAR)
-    if e is not None:
-        z_epi[c["iso2"]] = e
 z_delta = {}
 zfns = {p: {y: zscore_year(p, y) for y in KEY_YEARS} for p in PILLARS}
 for c in out_countries:
