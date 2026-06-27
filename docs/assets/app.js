@@ -14,11 +14,18 @@ const TAG_LABEL = {
 };
 const FILTERABLE = ["ai_using", "quantum_programs", "delivery_remote", "funding_government"];
 
-const S = { snap: null, window: "5", weights: { R: 25, P: 25, A: 25, O: 25 }, filters: new Set(), map: null, byIso: {} };
+const PALETTES = {
+  default: ["#c0504d", "#f3f0ea", "#2e8b57"],   // red -> green
+  cb: ["#c25a00", "#f4f1ea", "#1f6fb2"],         // orange -> blue (color-blind friendly)
+};
+const S = { snap: null, window: "5", weights: { R: 25, P: 25, A: 25, O: 25 }, filters: new Set(), map: null, byIso: {}, palette: "default", lastTrigger: null };
 
 const $ = (s) => document.querySelector(s);
 const fmtDelta = (v) => (v == null ? "n/a" : (v >= 0 ? "+" : "") + v.toFixed(1));
 const cls = (v) => (v == null ? "" : v >= 0 ? "pos" : "neg");
+const arrow = (v) => (v == null ? "" : v >= 0 ? "▲" : "▼"); // up/down triangle, CVD-safe
+// delta rendered with an arrow glyph so it never relies on color alone
+const deltaSpan = (v) => `<span class="delta ${cls(v)}"><span class="arw" aria-hidden="true">${arrow(v)}</span> ${fmtDelta(v)}</span>`;
 
 async function boot() {
   const man = await fetch("./data/manifest.json").then((r) => r.json());
@@ -81,18 +88,21 @@ function renderMap() {
   const vals = data.map((d) => d.value).filter((v) => v != null);
   const max = Math.max(3, ...vals.map(Math.abs));
   S.map.setOption({
+    aria: { enabled: true, description: `World map of ${S.window}-year education performance change by country.` },
     tooltip: {
       trigger: "item",
       formatter: (p) => p.value == null || isNaN(p.value) ? `${p.name}: n/a`
-        : `<b>${p.name}</b><br>${S.window}y EPI delta: ${fmtDelta(p.value)}`,
+        : `<b>${p.name}</b><br>${S.window}y EPI delta: ${arrow(p.value)} ${fmtDelta(p.value)}`,
     },
     visualMap: {
       min: -max, max: max, left: 14, bottom: 14, calculable: true,
-      inRange: { color: ["#c0504d", "#f3f0ea", "#2e8b57"] },
+      inRange: { color: PALETTES[S.palette] },
       text: ["improving", "declining"], textStyle: { fontSize: 11, color: "#6b7177" },
     },
     series: [{
       type: "map", map: "world", roam: true, data,
+      // stop runaway zoom-out when the whole map already fits
+      zoom: 1, scaleLimit: { min: 1, max: 8 },
       itemStyle: { areaColor: "#f0f1f2", borderColor: "#dfe1e3" },
       emphasis: { itemStyle: { areaColor: "#cfe3e1" }, label: { show: false } },
       select: { itemStyle: { areaColor: "#9fc7c4" } },
@@ -111,7 +121,7 @@ function renderRegions() {
     <div class="card region-card">
       <div class="rank">#${i + 1} improving region</div>
       <div class="name">${x.r.name}</div>
-      <div class="delta ${cls(x.d)}">${fmtDelta(x.d)}</div>
+      <div>${deltaSpan(x.d)}</div>
       <div class="note">${x.r.members.length} countries - mean EPI ${x.r.epi_mean_ref}</div>
     </div>`).join("");
 }
@@ -129,16 +139,19 @@ function renderTop30() {
     const c = x.c;
     const tg = Object.entries(c.tags).filter(([, v]) => v.value).slice(0, 3)
       .map(([k]) => `<span class="tag">${TAG_LABEL[k] || k}</span>`).join("");
-    return `<tr data-iso="${c.iso2}">
+    return `<tr data-iso="${c.iso2}" tabindex="0" role="button" aria-label="${c.name}, ${S.window} year delta ${fmtDelta(x.delta)}, open details">
       <td class="rankcol">${i + 1}</td>
       <td>${c.name} ${tg}</td>
-      <td>${S.snap.meta.pillars ? "" : ""}<span class="conf ${c.confidence}">${c.confidence}</span></td>
-      <td class="num delta ${cls(x.delta)}">${fmtDelta(x.delta)}</td>
+      <td><span class="conf ${c.confidence}">${c.confidence}</span></td>
+      <td class="num">${deltaSpan(x.delta)}</td>
       <td class="num">${x.epi != null ? x.epi.toFixed(1) : "n/a"}</td>
     </tr>`;
   }).join("");
-  $("#top30 tbody").querySelectorAll("tr").forEach((tr) =>
-    tr.onclick = () => openDetail(tr.dataset.iso));
+  $("#top30 tbody").querySelectorAll("tr").forEach((tr) => {
+    const open = () => openDetail(tr.dataset.iso);
+    tr.onclick = open;
+    tr.onkeydown = (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(); } };
+  });
 }
 
 function renderDeveloping() {
@@ -159,7 +172,7 @@ function renderDeveloping() {
       `<li>${m.text} ${m.citation ? `<a href="${m.citation}" target="_blank" rel="noopener">[src]</a>` : ""}</li>`).join("");
     return `<div class="card">
       <h2>${d.name} <span class="conf low">${d.flag_reason.join(", ")}</span></h2>
-      <div class="sub">EPI ${d.epi_ref} - 5y delta ${fmtDelta(d.delta["5"])}</div>
+      <div class="sub">EPI ${d.epi_ref} - 5y delta ${deltaSpan(d.delta["5"])}</div>
       <div class="bench">${benches}</div>
       ${mot ? `<div class="label" style="margin-top:12px">Youth motivators</div><ul class="note">${mot}</ul>` : ""}
     </div>`;
@@ -169,6 +182,7 @@ function renderDeveloping() {
 /* ---- detail drawer ---- */
 function openDetail(iso) {
   const c = S.byIso[iso]; if (!c) return;
+  S.lastTrigger = document.activeElement;
   const ref = S.snap.meta.reference_year;
   $("#dName").textContent = c.name;
   const inst = c.top_institution;
@@ -180,7 +194,7 @@ function openDetail(iso) {
     <div class="kv">
       <span class="k">Region</span><span>${regionName(c.region)}</span>
       <span class="k">EPI (${ref})</span><span>${(epiAt(c, ref) ?? 0).toFixed(1)} <span class="conf ${c.confidence}">${c.confidence}</span></span>
-      <span class="k">Delta</span><span>${["1", "3", "5", "10"].map((w) => `${w}y <b class="delta ${cls(deltaAt(c, w))}">${fmtDelta(deltaAt(c, w))}</b>`).join(" &nbsp; ")}</span>
+      <span class="k">Delta</span><span>${["1", "3", "5", "10"].map((w) => `${w}y ${deltaSpan(deltaAt(c, w))}`).join(" &nbsp; ")}</span>
       <span class="k">GDP/capita</span><span>${cf || c.confounders.gdp_per_capita_usd ? "$" + Math.round(c.confounders.gdp_per_capita_usd || 0).toLocaleString() : "n/a"} &nbsp; R&D ${c.confounders.rd_pct_gdp ?? "n/a"}%</span>
     </div>
     <div id="trend"></div>
@@ -231,40 +245,70 @@ function drawPillars(c) {
 function regionName(id) { return (S.snap.regions.find((r) => r.id === id) || {}).name || id; }
 
 function drawer(open) {
-  $("#drawer").classList.toggle("open", open);
+  const d = $("#drawer");
+  d.classList.toggle("open", open);
   $("#drawerBg").classList.toggle("open", open);
+  d.setAttribute("aria-hidden", open ? "false" : "true");
+  if (open) {
+    $("#dClose").focus();
+  } else if (S.lastTrigger && S.lastTrigger.focus) {
+    S.lastTrigger.focus();
+  }
 }
 
 /* ---- controls ---- */
+const debounce = (fn, ms) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); }; };
+const renderAllDebounced = debounce(() => renderAll(), 90);
+
 function wireControls() {
   document.querySelectorAll("#winSeg button").forEach((b) =>
     b.onclick = () => {
       S.window = b.dataset.w;
-      document.querySelectorAll("#winSeg button").forEach((x) => x.classList.toggle("on", x === b));
+      document.querySelectorAll("#winSeg button").forEach((x) => {
+        const on = x === b; x.classList.toggle("on", on); x.setAttribute("aria-pressed", on);
+      });
       renderAll();
     });
+
+  // color-blind palette toggle
+  document.querySelectorAll("#palSeg button").forEach((b) =>
+    b.onclick = () => {
+      S.palette = b.dataset.p;
+      document.body.classList.toggle("cb", S.palette === "cb");
+      document.querySelectorAll("#palSeg button").forEach((x) => {
+        const on = x === b; x.classList.toggle("on", on); x.setAttribute("aria-pressed", on);
+      });
+      renderAll();
+    });
+
   const chips = $("#tagChips");
-  chips.innerHTML = FILTERABLE.map((t) => `<span class="chip" data-t="${t}">${TAG_LABEL[t]}</span>`).join("");
+  chips.innerHTML = FILTERABLE.map((t) =>
+    `<button type="button" class="chip" data-t="${t}" aria-pressed="false">${TAG_LABEL[t]}</button>`).join("");
   chips.querySelectorAll(".chip").forEach((ch) =>
     ch.onclick = () => {
       const t = ch.dataset.t;
-      S.filters.has(t) ? S.filters.delete(t) : S.filters.add(t);
-      ch.classList.toggle("on");
+      const on = !S.filters.has(t);
+      on ? S.filters.add(t) : S.filters.delete(t);
+      ch.classList.toggle("on", on); ch.setAttribute("aria-pressed", on);
       renderAll();
     });
+
   PILLARS.forEach((p) => {
     const el = document.querySelector(`#w_${p}`);
-    el.oninput = () => { S.weights[p] = +el.value; document.querySelector(`#wv_${p}`).textContent = el.value; renderAll(); };
+    el.oninput = () => { S.weights[p] = +el.value; document.querySelector(`#wv_${p}`).textContent = el.value; renderAllDebounced(); };
   });
+
   $("#top30 thead").querySelectorAll("th[data-k]").forEach((th) =>
     th.onclick = () => {
       const k = th.dataset.k;
       if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = -1; }
       renderTop30();
     });
+
   $("#drawerBg").onclick = () => drawer(false);
   $("#dClose").onclick = () => drawer(false);
-  window.addEventListener("resize", () => { S.map && S.map.resize(); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") drawer(false); });
+  window.addEventListener("resize", debounce(() => { S.map && S.map.resize(); }, 120));
 }
 
 boot();

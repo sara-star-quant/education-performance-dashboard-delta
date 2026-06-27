@@ -110,3 +110,19 @@ td.num { text-align: right; font-variant-numeric: tabular-nums; }
   .sliders { grid-template-columns: repeat(2,1fr); }
   #map { height: 340px; }
 }
+
+/* accessibility */
+:focus-visible { outline: 3px solid #1b6ef3; outline-offset: 2px; border-radius: 4px; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.chip[aria-pressed="true"] { background: var(--accent); color: #fff; border-color: var(--accent); }
+tbody tr:focus-visible { background: var(--accent-soft); }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+.delta .arw { font-size: .85em; }
+
+/* color-blind friendly palette: orange (decline) <-> blue (improve) replaces red/green */
+body.cb { --pos: #1f6fb2; --neg: #c25a00; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+  .drawer { transition: none !important; }
+}
