@@ -2,12 +2,9 @@
 
 ## Pipeline
 
-```
-build/fetch_sources.py   World Bank + OpenAlex  -> data/sources/*.csv (cited)
-build/build_snapshot.py  CSV + overlay.json     -> docs/data/snapshots/<ver>.json + manifest
-build/correlate.py       snapshot               -> snapshot.correlation + ranked levers
-docs/ (static, ECharts)  fetch snapshot         -> dashboard + insights
-```
+![Data pipeline from World Bank and OpenAlex through fetch_sources.py, build_snapshot.py and correlate.py to versioned snapshot JSON served by the static PWA on GitHub Pages.](../diagrams/pipeline.svg)
+
+*`fetch_sources.py` (World Bank + OpenAlex) -> cited CSVs + `overlay.json` -> `build_snapshot.py` -> `correlate.py` -> `docs/data/snapshots/<ver>.json` + manifest -> static site -> GitHub Pages.*
 
 Python is **standard library only** (no numpy/pandas) for zero-friction
 reproducibility. The build normalizes pillars, computes the EPI and deltas,
@@ -16,6 +13,10 @@ developing-segment and sub-national blocks, runs a normalization sensitivity
 check, and validates the output against the schema before writing.
 
 ## Snapshot schema (per file)
+
+![Snapshot JSON data model: a snapshot.json container holding meta, regions[], countries[] (with pillars, deltas, coverage, confounders, tags, top_institution, reason, cost_funding), top3_regions/top30_countries, correlation, developing[], subnational, sensitivity, and universal_approach.](../diagrams/data-model.svg)
+
+*Composition of one snapshot file. The rich `countries[]` entity carries the per-country pillars, deltas, tags, attribution, and reason.*
 
 - `meta`: version, generated date, reference year, windows, key years, weights,
   normalization, pillar names, sources.

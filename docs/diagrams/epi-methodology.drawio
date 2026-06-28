@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="epi" name="EPI methodology">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="780" pageHeight="560" math="0" shadow="0" background="#fbfbfa">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="" style="rounded=0;fillColor=#fbfbfa;strokeColor=none;container=1;collapsible=0;movable=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="780" height="545" as="geometry" />
+        </mxCell>
+
+        <mxCell id="pR" value="Rankings (R)&#10;OpenAlex top-200 leaderboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="20" y="40" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pP" value="Research (P)&#10;OpenAlex works / year" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="210" y="40" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pA" value="Attainment (A)&#10;World Bank enrollment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="400" y="40" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="pO" value="Outcomes (O)&#10;WB adv-ed (un)employment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="590" y="40" width="160" height="56" as="geometry" />
+        </mxCell>
+
+        <mxCell id="norm" value="Per-year min-max normalize to 0-100  (z-score variant for the sensitivity check)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f0f0;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="20" y="160" width="730" height="46" as="geometry" />
+        </mxCell>
+
+        <mxCell id="epi" value="Education Performance Index (EPI)&#10;weighted mean of present pillars; default 25/25/25/25, live sliders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f0f0;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="235" y="250" width="300" height="58" as="geometry" />
+        </mxCell>
+
+        <mxCell id="tags" value="Feature tags&#10;AI / quantum (cohort-relative)&#10;feed the correlation study" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;dashed=1;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="575" y="246" width="180" height="66" as="geometry" />
+        </mxCell>
+
+        <mxCell id="delta" value="Deltas: 1 / 3 / 5 / 10 years  (+ per-pillar)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="235" y="360" width="300" height="46" as="geometry" />
+        </mxCell>
+
+        <mxCell id="reg" value="Top-3 improving regions&#10;(enrollment-weighted mean delta)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="70" y="455" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ctry" value="Top-30 improving countries&#10;+ institution that contributed most" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="410" y="455" width="290" height="60" as="geometry" />
+        </mxCell>
+
+        <mxCell id="er" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.11;entryY=0;" edge="1" parent="bg" source="pR" target="norm"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ep" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.37;entryY=0;" edge="1" parent="bg" source="pP" target="norm"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ea" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.63;entryY=0;" edge="1" parent="bg" source="pA" target="norm"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="eo" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.89;entryY=0;" edge="1" parent="bg" source="pO" target="norm"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <mxCell id="ne" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="norm" target="epi"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="nt" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#9aa0a6;strokeWidth=1.5;endArrow=block;endFill=1;dashed=1;exitX=0.9;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="norm" target="tags"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="ed" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="epi" target="delta"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="edr" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.25;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="delta" target="reg"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="edc" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.75;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="delta" target="ctry"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

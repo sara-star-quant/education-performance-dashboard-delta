@@ -12,3 +12,6 @@ venv/
 # os / editor
 .DS_Store
 *.swp
+
+# diagram review renders (sources .drawio + .svg exports are tracked)
+docs/diagrams/*.png

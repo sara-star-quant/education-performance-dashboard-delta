@@ -30,17 +30,9 @@ Full cross-linked guide in **[docs/guide](docs/guide/README.md)**:
 
 ## How it works
 
-```
-data/sources/*.csv        raw, cited extracts from public sources (World Bank, OpenAlex)
-        |  build/build_snapshot.py   normalize -> EPI -> deltas -> rankings -> tags
-        |  build/correlate.py        feature x outcome, controlled regression
-        v
-docs/data/snapshots/<ver>.json   self-contained snapshot (history + analysis)
-docs/data/manifest.json          list of snapshots + "latest" pointer
-        |  docs/  (static site, ECharts bundled locally, PWA)
-        v
-GitHub Pages (served from /docs)
-```
+![Data pipeline: World Bank and OpenAlex sources feed fetch_sources.py, which writes cited CSVs and overlay.json; build_snapshot.py normalizes pillars into the EPI and deltas; correlate.py adds the correlation study; the result is versioned snapshot JSON plus a manifest, served by the static PWA on GitHub Pages.](docs/diagrams/pipeline.svg)
+
+*Public sources -> `fetch_sources.py` -> cited CSVs + overlay -> `build_snapshot.py` -> `correlate.py` -> versioned snapshot JSON + manifest -> static PWA -> GitHub Pages.*
 
 ## Data integrity
 

@@ -15,6 +15,10 @@ pages render best on GitHub; the live dashboard is the static site in `docs/`.
 - [Licensing & use](licensing.md) - the open-core model and commercial options.
 - [Disclaimer](disclaimer.md) - no advice, no warranty, no liability.
 
+**Diagrams** (editable sources + SVGs in [`../diagrams/`](../diagrams/)): the
+[pipeline](../diagrams/pipeline.svg), [EPI methodology](../diagrams/epi-methodology.svg),
+and [snapshot data model](../diagrams/data-model.svg).
+
 ## At a glance
 
 - **What it measures:** change in higher-education performance (bachelors, masters, PhD) per region and per country over 1/3/5/10 years.
