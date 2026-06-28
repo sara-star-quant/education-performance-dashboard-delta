@@ -22,6 +22,10 @@ year.
 | Attainment (A) | UNESCO UIS, World Bank | tertiary gross enrollment ratio + completion |
 | Outcomes (O) | OECD, QS Employability | employment rate of tertiary graduates / employability |
 
+![EPI methodology: the four pillars are min-max normalized per year, combined into a weighted EPI (adjustable sliders), turned into 1/3/5/10-year deltas, and ranked into top-3 regions and top-30 countries with institution attribution; feature tags feed the correlation study.](../diagrams/epi-methodology.svg)
+
+*Flow as implemented in the seed (OpenAlex output-based Rankings proxy, OpenAlex works, World Bank attainment/outcomes). The table above lists the conceptual pillar sources; see [data sources](data-sources.md) for what the seed actually uses.*
+
 ### Rank-decay score (Rankings pillar)
 
 A country gets credit for every institution it has in a published global list,

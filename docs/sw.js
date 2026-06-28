@@ -1,12 +1,13 @@
 /* Offline-first service worker. Cache-first for app shell, network-first for
    data (so a fresh snapshot wins when online, last snapshot serves offline). */
-const CACHE = "edu-delta-v4";
+const CACHE = "edu-delta-v5";
 const SHELL = [
   "./index.html", "./insights.html",
   "./assets/styles.css", "./assets/app.js", "./assets/insights.js",
   "./assets/echarts.min.js", "./assets/world.json", "./assets/icon.svg",
   "./manifest.webmanifest",
   "./data/manifest.json",
+  "./diagrams/pipeline.svg", "./diagrams/epi-methodology.svg", "./diagrams/data-model.svg",
 ];
 
 self.addEventListener("install", (e) => {

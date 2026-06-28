@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="datamodel" name="Snapshot data model">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="920" pageHeight="450" math="0" shadow="0" background="#fbfbfa">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="snapshot.json  (one file per version)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbfbfa;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=14;fontStyle=1;verticalAlign=top;align=left;spacingLeft=14;spacingTop=10;container=1;collapsible=0;movable=0;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="900" height="430" as="geometry" />
+        </mxCell>
+
+        <mxCell id="meta" value="meta&#10;version, generated, reference_year,&#10;windows, weights, normalization, sources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="20" y="50" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="regions" value="regions[]&#10;id, name, members,&#10;per-window delta, mean EPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="310" y="50" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tops" value="top3_regions / top30_countries&#10;ordered id lists per window" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="600" y="50" width="280" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="countries" value="countries[]&#10;&#10;iso2 / iso3, name, region&#10;epi{} per year,  pillars{} normalized&#10;deltas{} + pillar_deltas{}&#10;coverage / confidence&#10;confounders{ gdp, rd, size, base_rank }&#10;tags{ value, evidence, confidence }&#10;top_institution,  reason{+citations},  cost_funding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f0f0;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;fontStyle=0;align=left;spacingLeft=12;verticalAlign=top;spacingTop=8;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="20" y="150" width="560" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="corr" value="correlation&#10;per-feature coef, ci, p, n, r2;&#10;controls; disclaimer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="600" y="150" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dev" value="developing[]&#10;flag_reason, benchmarks{ neighbor, peer },&#10;gaps, youth_motivators" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="600" y="250" width="280" height="80" as="geometry" />
+        </mxCell>
+
+        <mxCell id="subn" value="subnational{ iso3: states[] }&#10;standout institutions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="20" y="350" width="270" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sens" value="sensitivity&#10;min-max vs z-score stability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="310" y="350" width="270" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="univ" value="universal_approach&#10;candidate + ranked levers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=11;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="600" y="350" width="280" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

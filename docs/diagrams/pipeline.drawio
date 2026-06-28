@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="pipeline" name="Pipeline">
+    <mxGraphModel dx="900" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="540" pageHeight="850" math="0" shadow="0" background="#fbfbfa">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg" value="" style="rounded=0;fillColor=#fbfbfa;strokeColor=none;container=1;collapsible=0;movable=0;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="0" y="0" width="540" height="838" as="geometry" />
+        </mxCell>
+
+        <mxCell id="src_wb" value="World Bank Indicators&#10;(CC BY 4.0)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;align=center;verticalAlign=middle;" vertex="1" parent="bg">
+          <mxGeometry x="40" y="40" width="200" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="src_oa" value="OpenAlex&#10;(CC0)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;align=center;verticalAlign=middle;" vertex="1" parent="bg">
+          <mxGeometry x="300" y="40" width="200" height="54" as="geometry" />
+        </mxCell>
+
+        <mxCell id="fetch" value="fetch_sources.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f0f0;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="170" y="150" width="200" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="raw" value="data/sources/*.csv  +  overlay.json&#10;(cited raw extracts)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="150" y="250" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="build" value="build_snapshot.py&#10;normalize -&gt; EPI -&gt; deltas -&gt; tags" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f0f0;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="150" y="350" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="corr" value="correlate.py&#10;controlled correlation study" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f0f0;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="150" y="450" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="snap" value="docs/data/snapshots/*.json&#10;+ manifest.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="150" y="550" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="site" value="Static PWA (docs/)&#10;ECharts, offline-capable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#2f6f72;fontColor=#1a1c1e;fontSize=12;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="150" y="650" width="240" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="pages" value="GitHub Pages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2f6f72;strokeColor=#2f6f72;fontColor=#ffffff;fontSize=12;fontStyle=1;strokeWidth=1.5;" vertex="1" parent="bg">
+          <mxGeometry x="170" y="750" width="200" height="48" as="geometry" />
+        </mxCell>
+
+        <mxCell id="e_wb" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.35;entryY=0;" edge="1" parent="bg" source="src_wb" target="fetch"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e_oa" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.65;entryY=0;" edge="1" parent="bg" source="src_oa" target="fetch"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="fetch" target="raw"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="raw" target="build"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="build" target="corr"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="corr" target="snap"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="snap" target="site"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#6b7177;strokeWidth=1.5;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="bg" source="site" target="pages"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
