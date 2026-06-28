@@ -2,6 +2,10 @@
   "_comment": "Curated qualitative layer the APIs cannot provide. Every entry is cited. Missing entries render as 'not available' on the dashboard - never fabricated. Expanded each refresh.",
 
   "country_tags": {
+    "AU": {
+      "quantum_programs": {"value": true, "evidence": "Recognized world leader in quantum computing (UNSW silicon qubits, University of Sydney, University of Melbourne), backed by the National Quantum Strategy. Leadership is impact-driven and not visible in publication-share proxies.", "confidence": "high", "citation": "https://www.industry.gov.au/publications/national-quantum-strategy"},
+      "quantum_phd": {"value": true, "evidence": "PhD pathways in quantum science/technology at UNSW Sydney, University of Sydney, and University of Melbourne.", "confidence": "high", "citation": "https://www.industry.gov.au/publications/national-quantum-strategy"}
+    },
     "MT": {
       "delivery_remote": {"value": true, "evidence": "University of Malta offers online/blended degree programmes via its eLearning provision.", "confidence": "med", "citation": "https://www.um.edu.mt/"},
       "funding_government": {"value": true, "evidence": "University of Malta is primarily state-funded.", "confidence": "high", "citation": "https://eurydice.eacea.ec.europa.eu/eurypedia/malta/types-higher-education-institutions"}

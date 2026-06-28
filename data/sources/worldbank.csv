@@ -1,4 +1,5 @@
 indicator,iso2,iso3,year,value
+tertiary_enrollment_gross_pct,AE,ARE,2024,63.7384451086316
 tertiary_enrollment_gross_pct,AE,ARE,2023,61.3456114422447
 tertiary_enrollment_gross_pct,AE,ARE,2022,60.4188226013954
 tertiary_enrollment_gross_pct,AE,ARE,2021,56.4520334436146
@@ -16,6 +17,7 @@ tertiary_enrollment_gross_pct,AR,ARG,2016,86.6743832906399
 tertiary_enrollment_gross_pct,AR,ARG,2015,83.75569332589
 tertiary_enrollment_gross_pct,AR,ARG,2014,81.072589697739
 tertiary_enrollment_gross_pct,AR,ARG,2013,78.5681646081939
+tertiary_enrollment_gross_pct,AU,AUS,2024,108.421989440918
 tertiary_enrollment_gross_pct,AU,AUS,2023,104.64835357666
 tertiary_enrollment_gross_pct,AU,AUS,2022,106.240760803223
 tertiary_enrollment_gross_pct,AU,AUS,2021,112.688293457031
@@ -25,6 +27,7 @@ tertiary_enrollment_gross_pct,AU,AUS,2018,103.322090148926
 tertiary_enrollment_gross_pct,AU,AUS,2017,109.993309020996
 tertiary_enrollment_gross_pct,AU,AUS,2016,119.682777404785
 tertiary_enrollment_gross_pct,AU,AUS,2015,119.679389953613
+tertiary_enrollment_gross_pct,AT,AUT,2024,92.6126708984375
 tertiary_enrollment_gross_pct,AT,AUT,2023,91.6818237304688
 tertiary_enrollment_gross_pct,AT,AUT,2022,94.5116882324219
 tertiary_enrollment_gross_pct,AT,AUT,2021,93.940071105957
@@ -47,6 +50,7 @@ tertiary_enrollment_gross_pct,BE,BEL,2016,77.2435073852539
 tertiary_enrollment_gross_pct,BE,BEL,2015,76.423942565918
 tertiary_enrollment_gross_pct,BE,BEL,2014,74.0397262573242
 tertiary_enrollment_gross_pct,BE,BEL,2013,71.7841110229492
+tertiary_enrollment_gross_pct,BD,BGD,2024,23.7295608009814
 tertiary_enrollment_gross_pct,BD,BGD,2023,24.2003442708621
 tertiary_enrollment_gross_pct,BD,BGD,2022,23.5005059888653
 tertiary_enrollment_gross_pct,BD,BGD,2021,23.9006822335243
@@ -58,6 +62,7 @@ tertiary_enrollment_gross_pct,BD,BGD,2016,17.3985207411042
 tertiary_enrollment_gross_pct,BD,BGD,2015,15.5739926180902
 tertiary_enrollment_gross_pct,BD,BGD,2014,13.5777392703559
 tertiary_enrollment_gross_pct,BD,BGD,2013,13.4900578063704
+tertiary_enrollment_gross_pct,BR,BRA,2024,69.7317733764648
 tertiary_enrollment_gross_pct,BR,BRA,2022,61.0000915527344
 tertiary_enrollment_gross_pct,BR,BRA,2021,57.6311988830566
 tertiary_enrollment_gross_pct,BR,BRA,2020,55.529109954834
@@ -79,6 +84,7 @@ tertiary_enrollment_gross_pct,CA,CAN,2016,69.2459411621094
 tertiary_enrollment_gross_pct,CA,CAN,2015,67.2690963745117
 tertiary_enrollment_gross_pct,CA,CAN,2014,67.1677017211914
 tertiary_enrollment_gross_pct,CA,CAN,2013,65.7477188110352
+tertiary_enrollment_gross_pct,CH,CHE,2024,73.5430526733398
 tertiary_enrollment_gross_pct,CH,CHE,2023,74.0060882568359
 tertiary_enrollment_gross_pct,CH,CHE,2022,74.1526794433594
 tertiary_enrollment_gross_pct,CH,CHE,2021,71.893928527832
@@ -90,6 +96,7 @@ tertiary_enrollment_gross_pct,CH,CHE,2016,61.1939888000488
 tertiary_enrollment_gross_pct,CH,CHE,2015,60.8185615539551
 tertiary_enrollment_gross_pct,CH,CHE,2014,58.0650596618652
 tertiary_enrollment_gross_pct,CH,CHE,2013,56.1812400817871
+tertiary_enrollment_gross_pct,CL,CHL,2024,110.176902770996
 tertiary_enrollment_gross_pct,CL,CHL,2023,104.734062194824
 tertiary_enrollment_gross_pct,CL,CHL,2022,99.3372802734375
 tertiary_enrollment_gross_pct,CL,CHL,2021,96.2227935791016
@@ -101,6 +108,7 @@ tertiary_enrollment_gross_pct,CL,CHL,2016,88.8458862304688
 tertiary_enrollment_gross_pct,CL,CHL,2015,86.4181137084961
 tertiary_enrollment_gross_pct,CL,CHL,2014,83.6629791259766
 tertiary_enrollment_gross_pct,CL,CHL,2013,79.8703384399414
+tertiary_enrollment_gross_pct,CN,CHN,2024,76.8757843123403
 tertiary_enrollment_gross_pct,CN,CHN,2023,74.5933014618366
 tertiary_enrollment_gross_pct,CN,CHN,2022,71.5799465086024
 tertiary_enrollment_gross_pct,CN,CHN,2021,66.8186077597542
@@ -133,6 +141,7 @@ tertiary_enrollment_gross_pct,CZ,CZE,2016,67.5056381225586
 tertiary_enrollment_gross_pct,CZ,CZE,2015,67.2303619384766
 tertiary_enrollment_gross_pct,CZ,CZE,2014,67.3959732055664
 tertiary_enrollment_gross_pct,CZ,CZE,2013,66.3243179321289
+tertiary_enrollment_gross_pct,DE,DEU,2024,76.7096862792969
 tertiary_enrollment_gross_pct,DE,DEU,2023,78.5947494506836
 tertiary_enrollment_gross_pct,DE,DEU,2022,77.3656997680664
 tertiary_enrollment_gross_pct,DE,DEU,2021,75.6655426025391
@@ -144,6 +153,7 @@ tertiary_enrollment_gross_pct,DE,DEU,2016,67.9464111328125
 tertiary_enrollment_gross_pct,DE,DEU,2015,68.23291015625
 tertiary_enrollment_gross_pct,DE,DEU,2014,65.1844787597656
 tertiary_enrollment_gross_pct,DE,DEU,2013,60.8984489440918
+tertiary_enrollment_gross_pct,DK,DNK,2024,78.9604110717773
 tertiary_enrollment_gross_pct,DK,DNK,2023,81.2308197021484
 tertiary_enrollment_gross_pct,DK,DNK,2022,84.5866088867188
 tertiary_enrollment_gross_pct,DK,DNK,2021,83.982292175293
@@ -155,6 +165,7 @@ tertiary_enrollment_gross_pct,DK,DNK,2016,82.1714935302734
 tertiary_enrollment_gross_pct,DK,DNK,2015,83.300407409668
 tertiary_enrollment_gross_pct,DK,DNK,2014,81.3143615722656
 tertiary_enrollment_gross_pct,DK,DNK,2013,80.4186782836914
+tertiary_enrollment_gross_pct,EG,EGY,2024,37.5781274463676
 tertiary_enrollment_gross_pct,EG,EGY,2023,37.9005584716797
 tertiary_enrollment_gross_pct,EG,EGY,2022,36.462230682373
 tertiary_enrollment_gross_pct,EG,EGY,2021,35.1185317783157
@@ -166,6 +177,7 @@ tertiary_enrollment_gross_pct,EG,EGY,2016,31.8731307983398
 tertiary_enrollment_gross_pct,EG,EGY,2015,32.8848991394043
 tertiary_enrollment_gross_pct,EG,EGY,2014,29.1134325604942
 tertiary_enrollment_gross_pct,EG,EGY,2013,28.3479816954113
+tertiary_enrollment_gross_pct,ES,ESP,2024,93.7689666748047
 tertiary_enrollment_gross_pct,ES,ESP,2023,93.7303466796875
 tertiary_enrollment_gross_pct,ES,ESP,2022,95.0271606445312
 tertiary_enrollment_gross_pct,ES,ESP,2021,95.3768997192383
@@ -177,6 +189,7 @@ tertiary_enrollment_gross_pct,ES,ESP,2016,89.810791015625
 tertiary_enrollment_gross_pct,ES,ESP,2015,88.5305328369141
 tertiary_enrollment_gross_pct,ES,ESP,2014,87.9358520507812
 tertiary_enrollment_gross_pct,ES,ESP,2013,85.1826324462891
+tertiary_enrollment_gross_pct,EE,EST,2024,65.6692276000977
 tertiary_enrollment_gross_pct,EE,EST,2023,67.6179275512695
 tertiary_enrollment_gross_pct,EE,EST,2022,71.4251937866211
 tertiary_enrollment_gross_pct,EE,EST,2021,73.1502075195312
@@ -188,6 +201,7 @@ tertiary_enrollment_gross_pct,EE,EST,2016,73.0334320068359
 tertiary_enrollment_gross_pct,EE,EST,2015,74.5832824707031
 tertiary_enrollment_gross_pct,EE,EST,2014,76.2024536132812
 tertiary_enrollment_gross_pct,EE,EST,2013,75.4523162841797
+tertiary_enrollment_gross_pct,FI,FIN,2024,110.304496765137
 tertiary_enrollment_gross_pct,FI,FIN,2023,108.130409240723
 tertiary_enrollment_gross_pct,FI,FIN,2022,104.944221496582
 tertiary_enrollment_gross_pct,FI,FIN,2021,100.868072509766
@@ -199,6 +213,7 @@ tertiary_enrollment_gross_pct,FI,FIN,2016,89.3280029296875
 tertiary_enrollment_gross_pct,FI,FIN,2015,89.6573791503906
 tertiary_enrollment_gross_pct,FI,FIN,2014,89.9938812255859
 tertiary_enrollment_gross_pct,FI,FIN,2013,91.2365264892578
+tertiary_enrollment_gross_pct,FR,FRA,2024,71.5346908569336
 tertiary_enrollment_gross_pct,FR,FRA,2023,70.4536437988281
 tertiary_enrollment_gross_pct,FR,FRA,2022,71.5107269287109
 tertiary_enrollment_gross_pct,FR,FRA,2021,69.9397888183594
@@ -243,6 +258,7 @@ tertiary_enrollment_gross_pct,ID,IDN,2016,34.8307173410877
 tertiary_enrollment_gross_pct,ID,IDN,2015,32.4590200433758
 tertiary_enrollment_gross_pct,ID,IDN,2014,29.9904910473273
 tertiary_enrollment_gross_pct,ID,IDN,2013,29.894529174265
+tertiary_enrollment_gross_pct,IN,IND,2024,34.4184659748952
 tertiary_enrollment_gross_pct,IN,IND,2023,34.2394344991225
 tertiary_enrollment_gross_pct,IN,IND,2022,32.6703053423023
 tertiary_enrollment_gross_pct,IN,IND,2021,31.5741765984501
@@ -274,6 +290,7 @@ tertiary_enrollment_gross_pct,IR,IRN,2016,67.9112319946289
 tertiary_enrollment_gross_pct,IR,IRN,2015,70.6858520507812
 tertiary_enrollment_gross_pct,IR,IRN,2014,64.4999084472656
 tertiary_enrollment_gross_pct,IR,IRN,2013,56.4632682800293
+tertiary_enrollment_gross_pct,IL,ISR,2024,56.2561111450195
 tertiary_enrollment_gross_pct,IL,ISR,2023,57.143440246582
 tertiary_enrollment_gross_pct,IL,ISR,2022,58.9500617980957
 tertiary_enrollment_gross_pct,IL,ISR,2021,60.2585487365723
@@ -307,11 +324,13 @@ tertiary_enrollment_gross_pct,JP,JPN,2016,62.4975395202637
 tertiary_enrollment_gross_pct,JP,JPN,2015,62.4498481750488
 tertiary_enrollment_gross_pct,JP,JPN,2014,62.8334884643555
 tertiary_enrollment_gross_pct,JP,JPN,2013,62.6422691345215
+tertiary_enrollment_gross_pct,KE,KEN,2024,10.4185962462804
 tertiary_enrollment_gross_pct,KE,KEN,2023,8.67676730066979
 tertiary_enrollment_gross_pct,KE,KEN,2019,10.4975595474243
 tertiary_enrollment_gross_pct,KE,KEN,2017,11.8049232142021
 tertiary_enrollment_gross_pct,KE,KEN,2016,11.6347883294504
 tertiary_enrollment_gross_pct,KE,KEN,2015,9.25319496188721
+tertiary_enrollment_gross_pct,KR,KOR,2024,111.853302001953
 tertiary_enrollment_gross_pct,KR,KOR,2023,106.709167480469
 tertiary_enrollment_gross_pct,KR,KOR,2022,102.813056945801
 tertiary_enrollment_gross_pct,KR,KOR,2021,100.359878540039
@@ -323,6 +342,7 @@ tertiary_enrollment_gross_pct,KR,KOR,2016,93.6577224731445
 tertiary_enrollment_gross_pct,KR,KOR,2015,93.9676513671875
 tertiary_enrollment_gross_pct,KR,KOR,2014,94.4421691894531
 tertiary_enrollment_gross_pct,KR,KOR,2013,96.3375015258789
+tertiary_enrollment_gross_pct,MX,MEX,2024,48.203441619873
 tertiary_enrollment_gross_pct,MX,MEX,2023,47.474681854248
 tertiary_enrollment_gross_pct,MX,MEX,2022,46.4061317443848
 tertiary_enrollment_gross_pct,MX,MEX,2021,45.6506195068359
@@ -345,6 +365,7 @@ tertiary_enrollment_gross_pct,MT,MLT,2016,49.2171897888184
 tertiary_enrollment_gross_pct,MT,MLT,2015,48.0389709472656
 tertiary_enrollment_gross_pct,MT,MLT,2014,45.4103507995605
 tertiary_enrollment_gross_pct,MT,MLT,2013,44.4813919067383
+tertiary_enrollment_gross_pct,MY,MYS,2024,38.5013945445142
 tertiary_enrollment_gross_pct,MY,MYS,2023,37.2745812491757
 tertiary_enrollment_gross_pct,MY,MYS,2022,36.9853099297291
 tertiary_enrollment_gross_pct,MY,MYS,2021,38.1899993008367
@@ -363,6 +384,7 @@ tertiary_enrollment_gross_pct,NL,NLD,2018,83.652473449707
 tertiary_enrollment_gross_pct,NL,NLD,2017,83.2009887695312
 tertiary_enrollment_gross_pct,NL,NLD,2016,79.8454895019531
 tertiary_enrollment_gross_pct,NL,NLD,2015,80.1601486206055
+tertiary_enrollment_gross_pct,NO,NOR,2024,95.4987564086914
 tertiary_enrollment_gross_pct,NO,NOR,2023,95.0573806762695
 tertiary_enrollment_gross_pct,NO,NOR,2022,97.6419830322266
 tertiary_enrollment_gross_pct,NO,NOR,2021,93.9243011474609
@@ -374,6 +396,7 @@ tertiary_enrollment_gross_pct,NO,NOR,2016,81.8827285766602
 tertiary_enrollment_gross_pct,NO,NOR,2015,79.206428527832
 tertiary_enrollment_gross_pct,NO,NOR,2014,78.109977722168
 tertiary_enrollment_gross_pct,NO,NOR,2013,75.8635787963867
+tertiary_enrollment_gross_pct,NZ,NZL,2024,77.2406463623047
 tertiary_enrollment_gross_pct,NZ,NZL,2023,76.3811416625977
 tertiary_enrollment_gross_pct,NZ,NZL,2022,77.0104675292969
 tertiary_enrollment_gross_pct,NZ,NZL,2021,79.4128875732422
@@ -385,6 +408,7 @@ tertiary_enrollment_gross_pct,NZ,NZL,2016,81.8633575439453
 tertiary_enrollment_gross_pct,NZ,NZL,2015,82.1818466186523
 tertiary_enrollment_gross_pct,NZ,NZL,2014,80.7100067138672
 tertiary_enrollment_gross_pct,NZ,NZL,2013,80.388542175293
+tertiary_enrollment_gross_pct,PK,PAK,2024,10.8564126844434
 tertiary_enrollment_gross_pct,PK,PAK,2023,10.4770304814137
 tertiary_enrollment_gross_pct,PK,PAK,2022,10.5057175294292
 tertiary_enrollment_gross_pct,PK,PAK,2021,12.3810012807012
@@ -396,6 +420,7 @@ tertiary_enrollment_gross_pct,PK,PAK,2016,8.31973903550878
 tertiary_enrollment_gross_pct,PK,PAK,2015,8.43556648904153
 tertiary_enrollment_gross_pct,PK,PAK,2014,8.74569228544475
 tertiary_enrollment_gross_pct,PK,PAK,2013,8.71835995772812
+tertiary_enrollment_gross_pct,PL,POL,2024,80.9149627685547
 tertiary_enrollment_gross_pct,PL,POL,2023,76.8794097900391
 tertiary_enrollment_gross_pct,PL,POL,2022,75.2911071777344
 tertiary_enrollment_gross_pct,PL,POL,2021,72.2060623168945
@@ -416,6 +441,7 @@ tertiary_enrollment_gross_pct,PT,PRT,2018,65.1127395629883
 tertiary_enrollment_gross_pct,PT,PRT,2017,64.2040176391602
 tertiary_enrollment_gross_pct,PT,PRT,2016,63.2387504577637
 tertiary_enrollment_gross_pct,PT,PRT,2015,61.7960205078125
+tertiary_enrollment_gross_pct,RU,RUS,2024,60.3891235376867
 tertiary_enrollment_gross_pct,RU,RUS,2023,93.7277679443359
 tertiary_enrollment_gross_pct,RU,RUS,2022,53.9151941239211
 tertiary_enrollment_gross_pct,RU,RUS,2021,54.9542479280814
@@ -427,6 +453,7 @@ tertiary_enrollment_gross_pct,RU,RUS,2016,83.860044350614
 tertiary_enrollment_gross_pct,RU,RUS,2015,84.2355651240256
 tertiary_enrollment_gross_pct,RU,RUS,2014,84.5181387513356
 tertiary_enrollment_gross_pct,RU,RUS,2013,82.8009567260742
+tertiary_enrollment_gross_pct,SA,SAU,2024,83.884129573915
 tertiary_enrollment_gross_pct,SA,SAU,2022,73.7492065429688
 tertiary_enrollment_gross_pct,SA,SAU,2021,74.3924865722656
 tertiary_enrollment_gross_pct,SA,SAU,2020,73.7510866368859
@@ -445,6 +472,7 @@ tertiary_enrollment_gross_pct,SG,SGP,2019,91.0889904414776
 tertiary_enrollment_gross_pct,SG,SGP,2018,88.8864453410769
 tertiary_enrollment_gross_pct,SG,SGP,2017,84.7929138455372
 tertiary_enrollment_gross_pct,SG,SGP,2016,83.9409778236648
+tertiary_enrollment_gross_pct,SE,SWE,2024,83.9988098144531
 tertiary_enrollment_gross_pct,SE,SWE,2023,81.3998184204102
 tertiary_enrollment_gross_pct,SE,SWE,2022,83.8976135253906
 tertiary_enrollment_gross_pct,SE,SWE,2021,85.9426193237305
@@ -456,6 +484,7 @@ tertiary_enrollment_gross_pct,SE,SWE,2016,68.306037902832
 tertiary_enrollment_gross_pct,SE,SWE,2015,66.4283218383789
 tertiary_enrollment_gross_pct,SE,SWE,2014,64.9541931152344
 tertiary_enrollment_gross_pct,SE,SWE,2013,65.7820892333984
+tertiary_enrollment_gross_pct,TH,THA,2024,44.9845744019321
 tertiary_enrollment_gross_pct,TH,THA,2023,45.4407811172674
 tertiary_enrollment_gross_pct,TH,THA,2022,43.29484965617
 tertiary_enrollment_gross_pct,TH,THA,2021,43.4690405127808
@@ -488,6 +517,7 @@ tertiary_enrollment_gross_pct,US,USA,2016,88.8350524902344
 tertiary_enrollment_gross_pct,US,USA,2015,88.8894119262695
 tertiary_enrollment_gross_pct,US,USA,2014,88.6268692016602
 tertiary_enrollment_gross_pct,US,USA,2013,88.7264175415039
+tertiary_enrollment_gross_pct,VN,VNM,2024,37.5923642016718
 tertiary_enrollment_gross_pct,VN,VNM,2023,32.8415128147815
 tertiary_enrollment_gross_pct,VN,VNM,2022,44.7536854027422
 tertiary_enrollment_gross_pct,VN,VNM,2021,41.9554971195048
@@ -508,6 +538,7 @@ tertiary_enrollment_gross_pct,ZA,ZAF,2016,18.9292980324153
 tertiary_enrollment_gross_pct,ZA,ZAF,2015,19.0332949537661
 tertiary_enrollment_gross_pct,ZA,ZAF,2014,18.4813356370067
 tertiary_enrollment_gross_pct,ZA,ZAF,2013,18.6088225305342
+attainment_bachelors_pct,AE,ARE,2024,52.6613883972168
 attainment_bachelors_pct,AE,ARE,2023,52.7169189453125
 attainment_bachelors_pct,AE,ARE,2022,51.0654792785645
 attainment_bachelors_pct,AE,ARE,2021,47.1825294494629
@@ -516,6 +547,7 @@ attainment_bachelors_pct,AE,ARE,2018,47.2930297851562
 attainment_bachelors_pct,AE,ARE,2017,46.56201171875
 attainment_bachelors_pct,AE,ARE,2016,31.6904792785644
 attainment_bachelors_pct,AR,ARG,2022,10.8555898666382
+attainment_bachelors_pct,AU,AUS,2024,36.7831484305008
 attainment_bachelors_pct,AU,AUS,2023,35.7648347818291
 attainment_bachelors_pct,AU,AUS,2022,36.8401489257812
 attainment_bachelors_pct,AU,AUS,2021,35.9570999145508
@@ -556,9 +588,11 @@ attainment_bachelors_pct,BD,BGD,2016,8.50959968566895
 attainment_bachelors_pct,BD,BGD,2015,8.23713970184326
 attainment_bachelors_pct,BD,BGD,2014,5.85213994979858
 attainment_bachelors_pct,BD,BGD,2013,5.50231981277466
+attainment_bachelors_pct,BR,BRA,2024,17.1936798095703
 attainment_bachelors_pct,BR,BRA,2018,16.5433902740479
 attainment_bachelors_pct,BR,BRA,2017,15.734580039978
 attainment_bachelors_pct,BR,BRA,2016,15.3451795578003
+attainment_bachelors_pct,CA,CAN,2024,34.6594141975685
 attainment_bachelors_pct,CA,CAN,2023,32.8881839878328
 attainment_bachelors_pct,CA,CAN,2022,32.3500860763309
 attainment_bachelors_pct,CA,CAN,2021,29.3322296142578
@@ -570,6 +604,7 @@ attainment_bachelors_pct,CA,CAN,2016,25.7544403076172
 attainment_bachelors_pct,CA,CAN,2015,26.577805675299
 attainment_bachelors_pct,CA,CAN,2014,25.6870322073392
 attainment_bachelors_pct,CA,CAN,2013,25.3839152221772
+attainment_bachelors_pct,CH,CHE,2024,41.6142824106006
 attainment_bachelors_pct,CH,CHE,2023,41.2647756874978
 attainment_bachelors_pct,CH,CHE,2022,39.9547282957949
 attainment_bachelors_pct,CH,CHE,2021,39.9859430595539
@@ -580,6 +615,7 @@ attainment_bachelors_pct,CH,CHE,2017,37.864109457113
 attainment_bachelors_pct,CH,CHE,2016,36.6043286063333
 attainment_bachelors_pct,CH,CHE,2015,35.4597988324787
 attainment_bachelors_pct,CH,CHE,2014,34.0826565106592
+attainment_bachelors_pct,CL,CHL,2024,22.2672369170038
 attainment_bachelors_pct,CL,CHL,2023,21.5449905281817
 attainment_bachelors_pct,CL,CHL,2022,20.2839308500317
 attainment_bachelors_pct,CL,CHL,2021,19.6066035468373
@@ -592,6 +628,7 @@ attainment_bachelors_pct,CL,CHL,2015,13.1031398773193
 attainment_bachelors_pct,CL,CHL,2014,15.2283789799715
 attainment_bachelors_pct,CL,CHL,2013,11.7153797149658
 attainment_bachelors_pct,CN,CHN,2020,7.67750978469849
+attainment_bachelors_pct,CO,COL,2024,17.6755294799805
 attainment_bachelors_pct,CO,COL,2023,16.4727370334322
 attainment_bachelors_pct,CO,COL,2022,16.2004612243704
 attainment_bachelors_pct,CO,COL,2020,12.846360206604
@@ -673,6 +710,7 @@ attainment_bachelors_pct,GB,GBR,2020,37.2764701843262
 attainment_bachelors_pct,GB,GBR,2017,33.9221305847168
 attainment_bachelors_pct,GB,GBR,2014,29.3326206207275
 attainment_bachelors_pct,GB,GBR,2013,28.3882904052734
+attainment_bachelors_pct,GE,GEO,2024,33.6922988891602
 attainment_bachelors_pct,GE,GEO,2023,34.1964912414551
 attainment_bachelors_pct,GE,GEO,2022,34.0162506103516
 attainment_bachelors_pct,GE,GEO,2021,33.5340058252349
@@ -740,10 +778,12 @@ attainment_bachelors_pct,IT,ITA,2016,14.6699393451451
 attainment_bachelors_pct,IT,ITA,2015,14.4994360454762
 attainment_bachelors_pct,IT,ITA,2014,13.9849236207505
 attainment_bachelors_pct,JP,JPN,2020,25.5403995513916
+attainment_bachelors_pct,KE,KEN,2024,6.75540018081665
 attainment_bachelors_pct,KE,KEN,2022,5.47591018676758
 attainment_bachelors_pct,KE,KEN,2021,5.68705987930298
 attainment_bachelors_pct,KE,KEN,2020,3.74181008338928
 attainment_bachelors_pct,KE,KEN,2019,5.19180011749268
+attainment_bachelors_pct,KR,KOR,2024,36.4573720087806
 attainment_bachelors_pct,KR,KOR,2023,35.6374378641889
 attainment_bachelors_pct,KR,KOR,2022,34.5359726980996
 attainment_bachelors_pct,KR,KOR,2021,34.2422507220894
@@ -755,6 +795,7 @@ attainment_bachelors_pct,KR,KOR,2016,31.7693627138952
 attainment_bachelors_pct,KR,KOR,2015,28.6821708679199
 attainment_bachelors_pct,KR,KOR,2014,30.086553387602
 attainment_bachelors_pct,KR,KOR,2013,28.7843093426531
+attainment_bachelors_pct,MX,MEX,2024,18.3770809173584
 attainment_bachelors_pct,MX,MEX,2022,16.9853992462158
 attainment_bachelors_pct,MX,MEX,2020,17.1284694671631
 attainment_bachelors_pct,MX,MEX,2018,16.0160598754883
@@ -777,6 +818,7 @@ attainment_bachelors_pct,MT,MLT,2013,13.0880699157715
 attainment_bachelors_pct,MY,MYS,2022,14.5619602203369
 attainment_bachelors_pct,MY,MYS,2019,12.3861103057861
 attainment_bachelors_pct,MY,MYS,2016,11.3065395355225
+attainment_bachelors_pct,NG,NGA,2024,10.5669097900391
 attainment_bachelors_pct,NG,NGA,2023,3.80241384950738
 attainment_bachelors_pct,NG,NGA,2022,3.47736860285226
 attainment_bachelors_pct,NG,NGA,2021,10.9653997421265
@@ -824,6 +866,7 @@ attainment_bachelors_pct,PL,POL,2016,24.9462203979492
 attainment_bachelors_pct,PL,POL,2015,24.3093259638662
 attainment_bachelors_pct,PL,POL,2014,23.7001991271973
 attainment_bachelors_pct,PL,POL,2013,22.6315097808838
+attainment_bachelors_pct,PT,PRT,2024,24.9081630188819
 attainment_bachelors_pct,PT,PRT,2023,23.5028353899237
 attainment_bachelors_pct,PT,PRT,2022,23.1223938479372
 attainment_bachelors_pct,PT,PRT,2021,20.642879486084
@@ -836,6 +879,7 @@ attainment_bachelors_pct,PT,PRT,2015,18.1825294494629
 attainment_bachelors_pct,PT,PRT,2014,17.4849891662598
 attainment_bachelors_pct,PT,PRT,2013,15.8727903366089
 attainment_bachelors_pct,RU,RUS,2021,41.2176399230957
+attainment_bachelors_pct,SA,SAU,2024,36.039421081543
 attainment_bachelors_pct,SA,SAU,2023,30.8887484783962
 attainment_bachelors_pct,SA,SAU,2022,31.3336488869736
 attainment_bachelors_pct,SA,SAU,2021,31.1062124280316
@@ -873,6 +917,7 @@ attainment_bachelors_pct,TH,THA,2013,13.1254596710205
 attainment_bachelors_pct,TR,TUR,2023,21.8643391177776
 attainment_bachelors_pct,TR,TUR,2022,20.9415740107689
 attainment_bachelors_pct,TR,TUR,2021,20.4976116552789
+attainment_bachelors_pct,US,USA,2024,39.0593910217285
 attainment_bachelors_pct,US,USA,2023,38.601131439209
 attainment_bachelors_pct,US,USA,2022,37.6611289978027
 attainment_bachelors_pct,US,USA,2021,35.0492286682129
@@ -889,6 +934,7 @@ attainment_bachelors_pct,VN,VNM,2022,11.524169921875
 attainment_bachelors_pct,VN,VNM,2021,10.2704172552929
 attainment_bachelors_pct,VN,VNM,2020,10.3575068448987
 attainment_bachelors_pct,VN,VNM,2019,10.2479000091553
+attainment_bachelors_pct,ZA,ZAF,2024,14.3510103225708
 attainment_bachelors_pct,ZA,ZAF,2023,7.01721000671387
 attainment_bachelors_pct,ZA,ZAF,2022,6.08822011947632
 attainment_bachelors_pct,ZA,ZAF,2021,12.9641399383545
@@ -905,6 +951,7 @@ unemployment_advanced_pct,AE,ARE,2022,4.117
 unemployment_advanced_pct,AE,ARE,2021,4.214
 unemployment_advanced_pct,AE,ARE,2018,3.33
 unemployment_advanced_pct,AE,ARE,2017,3.818
+unemployment_advanced_pct,AR,ARG,2024,0.708
 unemployment_advanced_pct,AR,ARG,2023,2.494
 unemployment_advanced_pct,AR,ARG,2022,2.898
 unemployment_advanced_pct,AR,ARG,2021,3.426
@@ -914,6 +961,7 @@ unemployment_advanced_pct,AR,ARG,2018,3.64
 unemployment_advanced_pct,AR,ARG,2017,3.268
 unemployment_advanced_pct,AR,ARG,2014,3.249
 unemployment_advanced_pct,AR,ARG,2013,3.243
+unemployment_advanced_pct,AU,AUS,2024,2.468
 unemployment_advanced_pct,AU,AUS,2023,2.372
 unemployment_advanced_pct,AU,AUS,2022,2.278
 unemployment_advanced_pct,AU,AUS,2021,3.324
@@ -925,6 +973,7 @@ unemployment_advanced_pct,AU,AUS,2016,3.457
 unemployment_advanced_pct,AU,AUS,2015,3.55
 unemployment_advanced_pct,AU,AUS,2014,3.728
 unemployment_advanced_pct,AU,AUS,2013,3.415
+unemployment_advanced_pct,AT,AUT,2024,3.917
 unemployment_advanced_pct,AT,AUT,2023,3.6
 unemployment_advanced_pct,AT,AUT,2022,3.49
 unemployment_advanced_pct,AT,AUT,2021,4.138
@@ -936,6 +985,7 @@ unemployment_advanced_pct,AT,AUT,2016,3.614
 unemployment_advanced_pct,AT,AUT,2015,3.953
 unemployment_advanced_pct,AT,AUT,2014,4.012
 unemployment_advanced_pct,AT,AUT,2013,3.352
+unemployment_advanced_pct,BE,BEL,2024,3.246
 unemployment_advanced_pct,BE,BEL,2023,2.858
 unemployment_advanced_pct,BE,BEL,2022,3.025
 unemployment_advanced_pct,BE,BEL,2021,3.309
@@ -947,11 +997,13 @@ unemployment_advanced_pct,BE,BEL,2016,4.204
 unemployment_advanced_pct,BE,BEL,2015,4.592
 unemployment_advanced_pct,BE,BEL,2014,4.67
 unemployment_advanced_pct,BE,BEL,2013,4.921
+unemployment_advanced_pct,BD,BGD,2024,10.853
 unemployment_advanced_pct,BD,BGD,2023,10.798
 unemployment_advanced_pct,BD,BGD,2022,11.777
 unemployment_advanced_pct,BD,BGD,2017,10.736
 unemployment_advanced_pct,BD,BGD,2016,9.031
 unemployment_advanced_pct,BD,BGD,2013,7.005
+unemployment_advanced_pct,BR,BRA,2024,3.596
 unemployment_advanced_pct,BR,BRA,2023,3.924
 unemployment_advanced_pct,BR,BRA,2022,4.659
 unemployment_advanced_pct,BR,BRA,2021,6.95
@@ -963,6 +1015,7 @@ unemployment_advanced_pct,BR,BRA,2016,5.912
 unemployment_advanced_pct,BR,BRA,2015,4.725
 unemployment_advanced_pct,BR,BRA,2014,1.297
 unemployment_advanced_pct,BR,BRA,2013,1.392
+unemployment_advanced_pct,CA,CAN,2024,4.933
 unemployment_advanced_pct,CA,CAN,2023,4.236
 unemployment_advanced_pct,CA,CAN,2022,4.12
 unemployment_advanced_pct,CA,CAN,2021,5.944
@@ -974,6 +1027,7 @@ unemployment_advanced_pct,CA,CAN,2016,5.512
 unemployment_advanced_pct,CA,CAN,2015,5.321
 unemployment_advanced_pct,CA,CAN,2014,5.369
 unemployment_advanced_pct,CA,CAN,2013,5.357
+unemployment_advanced_pct,CH,CHE,2024,3.414
 unemployment_advanced_pct,CH,CHE,2023,3.07
 unemployment_advanced_pct,CH,CHE,2022,3.01
 unemployment_advanced_pct,CH,CHE,2021,3.334
@@ -985,6 +1039,7 @@ unemployment_advanced_pct,CH,CHE,2016,3.251
 unemployment_advanced_pct,CH,CHE,2015,3.68
 unemployment_advanced_pct,CH,CHE,2014,3.507
 unemployment_advanced_pct,CH,CHE,2013,3.308
+unemployment_advanced_pct,CL,CHL,2024,7.128
 unemployment_advanced_pct,CL,CHL,2023,7.189
 unemployment_advanced_pct,CL,CHL,2022,6.926
 unemployment_advanced_pct,CL,CHL,2021,8.132
@@ -996,6 +1051,7 @@ unemployment_advanced_pct,CL,CHL,2016,6.195
 unemployment_advanced_pct,CL,CHL,2015,5.054
 unemployment_advanced_pct,CL,CHL,2014,5.322
 unemployment_advanced_pct,CL,CHL,2013,5
+unemployment_advanced_pct,CO,COL,2024,9.779
 unemployment_advanced_pct,CO,COL,2023,9.287
 unemployment_advanced_pct,CO,COL,2022,9.732
 unemployment_advanced_pct,CO,COL,2021,15.31
@@ -1006,6 +1062,7 @@ unemployment_advanced_pct,CO,COL,2016,11.634
 unemployment_advanced_pct,CO,COL,2015,10.61
 unemployment_advanced_pct,CO,COL,2014,10.645
 unemployment_advanced_pct,CO,COL,2013,11.09
+unemployment_advanced_pct,CZ,CZE,2024,1.22
 unemployment_advanced_pct,CZ,CZE,2023,1.302
 unemployment_advanced_pct,CZ,CZE,2022,0.794
 unemployment_advanced_pct,CZ,CZE,2021,1.359
@@ -1017,6 +1074,7 @@ unemployment_advanced_pct,CZ,CZE,2016,1.871
 unemployment_advanced_pct,CZ,CZE,2015,2.381
 unemployment_advanced_pct,CZ,CZE,2014,2.836
 unemployment_advanced_pct,CZ,CZE,2013,4.103
+unemployment_advanced_pct,DE,DEU,2024,2.528
 unemployment_advanced_pct,DE,DEU,2023,2.004
 unemployment_advanced_pct,DE,DEU,2022,1.956
 unemployment_advanced_pct,DE,DEU,2021,2.349
@@ -1028,6 +1086,7 @@ unemployment_advanced_pct,DE,DEU,2016,2.179
 unemployment_advanced_pct,DE,DEU,2015,2.263
 unemployment_advanced_pct,DE,DEU,2014,2.471
 unemployment_advanced_pct,DE,DEU,2013,2.408
+unemployment_advanced_pct,DK,DNK,2024,4.683
 unemployment_advanced_pct,DK,DNK,2023,3.855
 unemployment_advanced_pct,DK,DNK,2022,3.551
 unemployment_advanced_pct,DK,DNK,2021,4.044
@@ -1039,6 +1098,7 @@ unemployment_advanced_pct,DK,DNK,2016,4.648
 unemployment_advanced_pct,DK,DNK,2015,4.617
 unemployment_advanced_pct,DK,DNK,2014,4.778
 unemployment_advanced_pct,DK,DNK,2013,4.744
+unemployment_advanced_pct,EG,EGY,2024,13.248
 unemployment_advanced_pct,EG,EGY,2023,14.175
 unemployment_advanced_pct,EG,EGY,2022,15.183
 unemployment_advanced_pct,EG,EGY,2021,15.277
@@ -1049,6 +1109,7 @@ unemployment_advanced_pct,EG,EGY,2016,20.73
 unemployment_advanced_pct,EG,EGY,2015,21.639
 unemployment_advanced_pct,EG,EGY,2014,19.936
 unemployment_advanced_pct,EG,EGY,2013,21.969
+unemployment_advanced_pct,ES,ESP,2024,6.92
 unemployment_advanced_pct,ES,ESP,2023,7.287
 unemployment_advanced_pct,ES,ESP,2022,8.011
 unemployment_advanced_pct,ES,ESP,2021,9.482
@@ -1060,6 +1121,7 @@ unemployment_advanced_pct,ES,ESP,2016,11.703
 unemployment_advanced_pct,ES,ESP,2015,13.374
 unemployment_advanced_pct,ES,ESP,2014,14.774
 unemployment_advanced_pct,ES,ESP,2013,16.566
+unemployment_advanced_pct,EE,EST,2024,4.658
 unemployment_advanced_pct,EE,EST,2023,3.564
 unemployment_advanced_pct,EE,EST,2022,3.654
 unemployment_advanced_pct,EE,EST,2021,3.445
@@ -1071,6 +1133,7 @@ unemployment_advanced_pct,EE,EST,2016,3.899
 unemployment_advanced_pct,EE,EST,2015,3.969
 unemployment_advanced_pct,EE,EST,2014,4.757
 unemployment_advanced_pct,EE,EST,2013,5.796
+unemployment_advanced_pct,FI,FIN,2024,5.056
 unemployment_advanced_pct,FI,FIN,2023,4.537
 unemployment_advanced_pct,FI,FIN,2022,3.915
 unemployment_advanced_pct,FI,FIN,2021,4.598
@@ -1082,6 +1145,7 @@ unemployment_advanced_pct,FI,FIN,2016,5.804
 unemployment_advanced_pct,FI,FIN,2015,6.395
 unemployment_advanced_pct,FI,FIN,2014,5.016
 unemployment_advanced_pct,FI,FIN,2013,4.402
+unemployment_advanced_pct,FR,FRA,2024,5.016
 unemployment_advanced_pct,FR,FRA,2023,4.956
 unemployment_advanced_pct,FR,FRA,2022,4.733
 unemployment_advanced_pct,FR,FRA,2021,5.321
@@ -1093,6 +1157,7 @@ unemployment_advanced_pct,FR,FRA,2016,5.696
 unemployment_advanced_pct,FR,FRA,2015,6.3
 unemployment_advanced_pct,FR,FRA,2014,6.314
 unemployment_advanced_pct,FR,FRA,2013,6.255
+unemployment_advanced_pct,GB,GBR,2024,2.733
 unemployment_advanced_pct,GB,GBR,2023,2.598
 unemployment_advanced_pct,GB,GBR,2022,2.346
 unemployment_advanced_pct,GB,GBR,2021,3.278
@@ -1104,6 +1169,7 @@ unemployment_advanced_pct,GB,GBR,2016,2.76
 unemployment_advanced_pct,GB,GBR,2015,2.906
 unemployment_advanced_pct,GB,GBR,2014,3.148
 unemployment_advanced_pct,GB,GBR,2013,3.789
+unemployment_advanced_pct,GE,GEO,2024,8.494
 unemployment_advanced_pct,GE,GEO,2023,10.281
 unemployment_advanced_pct,GE,GEO,2022,10.161
 unemployment_advanced_pct,GE,GEO,2021,12.108
@@ -1126,12 +1192,14 @@ unemployment_advanced_pct,ID,IDN,2016,4.947
 unemployment_advanced_pct,ID,IDN,2015,5.444
 unemployment_advanced_pct,ID,IDN,2014,4.956
 unemployment_advanced_pct,ID,IDN,2013,5.209
+unemployment_advanced_pct,IN,IND,2024,13.47
 unemployment_advanced_pct,IN,IND,2023,13.316
 unemployment_advanced_pct,IN,IND,2022,14.3
 unemployment_advanced_pct,IN,IND,2021,15.78
 unemployment_advanced_pct,IN,IND,2020,17.905
 unemployment_advanced_pct,IN,IND,2019,15.73
 unemployment_advanced_pct,IN,IND,2018,16.507
+unemployment_advanced_pct,IE,IRL,2024,3.295
 unemployment_advanced_pct,IE,IRL,2023,2.855
 unemployment_advanced_pct,IE,IRL,2022,3.298
 unemployment_advanced_pct,IE,IRL,2021,4.169
@@ -1143,6 +1211,7 @@ unemployment_advanced_pct,IE,IRL,2016,5.026
 unemployment_advanced_pct,IE,IRL,2015,5.636
 unemployment_advanced_pct,IE,IRL,2014,6.902
 unemployment_advanced_pct,IE,IRL,2013,7.499
+unemployment_advanced_pct,IR,IRN,2024,11.258
 unemployment_advanced_pct,IR,IRN,2023,11.868
 unemployment_advanced_pct,IR,IRN,2022,12.95
 unemployment_advanced_pct,IR,IRN,2021,13.772
@@ -1154,6 +1223,7 @@ unemployment_advanced_pct,IR,IRN,2016,13.687
 unemployment_advanced_pct,IR,IRN,2015,11.719
 unemployment_advanced_pct,IR,IRN,2014,12.259
 unemployment_advanced_pct,IR,IRN,2013,11.689
+unemployment_advanced_pct,IL,ISR,2024,2.363
 unemployment_advanced_pct,IL,ISR,2023,2.399
 unemployment_advanced_pct,IL,ISR,2022,2.448
 unemployment_advanced_pct,IL,ISR,2021,3.457
@@ -1165,6 +1235,7 @@ unemployment_advanced_pct,IL,ISR,2016,2.924
 unemployment_advanced_pct,IL,ISR,2015,3.352
 unemployment_advanced_pct,IL,ISR,2014,3.646
 unemployment_advanced_pct,IL,ISR,2013,3.851
+unemployment_advanced_pct,IT,ITA,2024,3.366
 unemployment_advanced_pct,IT,ITA,2023,3.82
 unemployment_advanced_pct,IT,ITA,2022,4.087
 unemployment_advanced_pct,IT,ITA,2021,5.048
@@ -1187,6 +1258,7 @@ unemployment_advanced_pct,KE,KEN,2022,7.675
 unemployment_advanced_pct,KE,KEN,2021,8.484
 unemployment_advanced_pct,KE,KEN,2019,12.332
 unemployment_advanced_pct,KE,KEN,2016,7.819
+unemployment_advanced_pct,KR,KOR,2024,2.748
 unemployment_advanced_pct,KR,KOR,2023,2.745
 unemployment_advanced_pct,KR,KOR,2022,2.87
 unemployment_advanced_pct,KR,KOR,2021,3.627
@@ -1198,6 +1270,7 @@ unemployment_advanced_pct,KR,KOR,2016,4.211
 unemployment_advanced_pct,KR,KOR,2015,4.074
 unemployment_advanced_pct,KR,KOR,2014,3.578
 unemployment_advanced_pct,KR,KOR,2013,3.652
+unemployment_advanced_pct,MX,MEX,2024,3.21
 unemployment_advanced_pct,MX,MEX,2023,3.375
 unemployment_advanced_pct,MX,MEX,2022,4
 unemployment_advanced_pct,MX,MEX,2021,4.638
@@ -1209,6 +1282,7 @@ unemployment_advanced_pct,MX,MEX,2016,4.929
 unemployment_advanced_pct,MX,MEX,2015,4.929
 unemployment_advanced_pct,MX,MEX,2014,5.372
 unemployment_advanced_pct,MX,MEX,2013,5.125
+unemployment_advanced_pct,MT,MLT,2024,2.344
 unemployment_advanced_pct,MT,MLT,2023,2.282
 unemployment_advanced_pct,MT,MLT,2022,2.681
 unemployment_advanced_pct,MT,MLT,2021,2.047
@@ -1228,10 +1302,12 @@ unemployment_advanced_pct,MY,MYS,2016,4.052
 unemployment_advanced_pct,MY,MYS,2015,3.581
 unemployment_advanced_pct,MY,MYS,2014,3.832
 unemployment_advanced_pct,MY,MYS,2013,3.935
+unemployment_advanced_pct,NG,NGA,2024,9.197
 unemployment_advanced_pct,NG,NGA,2023,6.168
 unemployment_advanced_pct,NG,NGA,2022,6.722
 unemployment_advanced_pct,NG,NGA,2019,11.165
 unemployment_advanced_pct,NG,NGA,2016,14.514
+unemployment_advanced_pct,NL,NLD,2024,2.543
 unemployment_advanced_pct,NL,NLD,2023,2.472
 unemployment_advanced_pct,NL,NLD,2022,2.547
 unemployment_advanced_pct,NL,NLD,2021,2.812
@@ -1243,6 +1319,7 @@ unemployment_advanced_pct,NL,NLD,2016,3.268
 unemployment_advanced_pct,NL,NLD,2015,3.92
 unemployment_advanced_pct,NL,NLD,2014,4.075
 unemployment_advanced_pct,NL,NLD,2013,4.242
+unemployment_advanced_pct,NO,NOR,2024,2.693
 unemployment_advanced_pct,NO,NOR,2023,2.264
 unemployment_advanced_pct,NO,NOR,2022,1.871
 unemployment_advanced_pct,NO,NOR,2021,2.635
@@ -1270,6 +1347,7 @@ unemployment_advanced_pct,PK,PAK,2016,3.876
 unemployment_advanced_pct,PK,PAK,2015,16.786
 unemployment_advanced_pct,PK,PAK,2014,7.007
 unemployment_advanced_pct,PK,PAK,2013,8.609
+unemployment_advanced_pct,PL,POL,2024,1.35
 unemployment_advanced_pct,PL,POL,2023,1.28
 unemployment_advanced_pct,PL,POL,2022,1.306
 unemployment_advanced_pct,PL,POL,2021,1.745
@@ -1281,6 +1359,7 @@ unemployment_advanced_pct,PL,POL,2016,3.241
 unemployment_advanced_pct,PL,POL,2015,3.933
 unemployment_advanced_pct,PL,POL,2014,4.651
 unemployment_advanced_pct,PL,POL,2013,5.635
+unemployment_advanced_pct,PT,PRT,2024,4.651
 unemployment_advanced_pct,PT,PRT,2023,4.795
 unemployment_advanced_pct,PT,PRT,2022,4.482
 unemployment_advanced_pct,PT,PRT,2021,4.958
@@ -1292,6 +1371,7 @@ unemployment_advanced_pct,PT,PRT,2016,8.346
 unemployment_advanced_pct,PT,PRT,2015,9.147
 unemployment_advanced_pct,PT,PRT,2014,9.932
 unemployment_advanced_pct,PT,PRT,2013,12.857
+unemployment_advanced_pct,RU,RUS,2024,1.467
 unemployment_advanced_pct,RU,RUS,2023,1.877
 unemployment_advanced_pct,RU,RUS,2022,2.597
 unemployment_advanced_pct,RU,RUS,2021,4.686
@@ -1303,6 +1383,7 @@ unemployment_advanced_pct,RU,RUS,2016,5.459
 unemployment_advanced_pct,RU,RUS,2015,5.387
 unemployment_advanced_pct,RU,RUS,2014,5.061
 unemployment_advanced_pct,RU,RUS,2013,5.425
+unemployment_advanced_pct,SA,SAU,2024,5.108
 unemployment_advanced_pct,SA,SAU,2023,5.87
 unemployment_advanced_pct,SA,SAU,2022,7.999
 unemployment_advanced_pct,SA,SAU,2021,8.798
@@ -1310,6 +1391,7 @@ unemployment_advanced_pct,SA,SAU,2020,12.014
 unemployment_advanced_pct,SA,SAU,2019,10.92
 unemployment_advanced_pct,SA,SAU,2018,10.718
 unemployment_advanced_pct,SA,SAU,2017,10.426
+unemployment_advanced_pct,SG,SGP,2024,3.312
 unemployment_advanced_pct,SG,SGP,2023,3.446
 unemployment_advanced_pct,SG,SGP,2022,3.384
 unemployment_advanced_pct,SG,SGP,2021,4.527
@@ -1318,6 +1400,7 @@ unemployment_advanced_pct,SG,SGP,2017,4.122
 unemployment_advanced_pct,SG,SGP,2015,3.72
 unemployment_advanced_pct,SG,SGP,2014,3.769
 unemployment_advanced_pct,SG,SGP,2013,2.745
+unemployment_advanced_pct,SE,SWE,2024,4.766
 unemployment_advanced_pct,SE,SWE,2023,3.906
 unemployment_advanced_pct,SE,SWE,2022,3.382
 unemployment_advanced_pct,SE,SWE,2021,4.355
@@ -1329,6 +1412,7 @@ unemployment_advanced_pct,SE,SWE,2016,4.035
 unemployment_advanced_pct,SE,SWE,2015,4.264
 unemployment_advanced_pct,SE,SWE,2014,4.368
 unemployment_advanced_pct,SE,SWE,2013,4.438
+unemployment_advanced_pct,TH,THA,2024,1.707
 unemployment_advanced_pct,TH,THA,2023,1.712
 unemployment_advanced_pct,TH,THA,2022,2.116
 unemployment_advanced_pct,TH,THA,2021,2.527
@@ -1340,6 +1424,7 @@ unemployment_advanced_pct,TH,THA,2016,1.544
 unemployment_advanced_pct,TH,THA,2015,1.357
 unemployment_advanced_pct,TH,THA,2014,1.335
 unemployment_advanced_pct,TH,THA,2013,0.661
+unemployment_advanced_pct,TR,TUR,2024,9.129
 unemployment_advanced_pct,TR,TUR,2023,9.809
 unemployment_advanced_pct,TR,TUR,2022,11.278
 unemployment_advanced_pct,TR,TUR,2021,12.448
@@ -1351,6 +1436,7 @@ unemployment_advanced_pct,TR,TUR,2016,12.014
 unemployment_advanced_pct,TR,TUR,2015,11.004
 unemployment_advanced_pct,TR,TUR,2014,10.649
 unemployment_advanced_pct,TR,TUR,2013,10.34
+unemployment_advanced_pct,US,USA,2024,2.608
 unemployment_advanced_pct,US,USA,2023,2.373
 unemployment_advanced_pct,US,USA,2022,2.321
 unemployment_advanced_pct,US,USA,2021,3.576
@@ -1362,6 +1448,7 @@ unemployment_advanced_pct,US,USA,2016,2.908
 unemployment_advanced_pct,US,USA,2015,3.032
 unemployment_advanced_pct,US,USA,2014,3.691
 unemployment_advanced_pct,US,USA,2013,4.322
+unemployment_advanced_pct,VN,VNM,2024,2.297
 unemployment_advanced_pct,VN,VNM,2023,2.688
 unemployment_advanced_pct,VN,VNM,2022,3.014
 unemployment_advanced_pct,VN,VNM,2021,3.406
@@ -1373,6 +1460,7 @@ unemployment_advanced_pct,VN,VNM,2016,4.626
 unemployment_advanced_pct,VN,VNM,2015,4.588
 unemployment_advanced_pct,VN,VNM,2014,3.966
 unemployment_advanced_pct,VN,VNM,2013,3.892
+unemployment_advanced_pct,ZA,ZAF,2024,12.771
 unemployment_advanced_pct,ZA,ZAF,2023,13.079
 unemployment_advanced_pct,ZA,ZAF,2022,14.233
 unemployment_advanced_pct,ZA,ZAF,2021,14.783
@@ -1384,6 +1472,7 @@ unemployment_advanced_pct,ZA,ZAF,2016,10.203
 unemployment_advanced_pct,ZA,ZAF,2015,8.88
 unemployment_advanced_pct,ZA,ZAF,2014,8.249
 unemployment_advanced_pct,ZA,ZAF,2013,7.431
+gdp_per_capita_usd,AE,ARE,2024,50273.5060469837
 gdp_per_capita_usd,AE,ARE,2023,49850.6872175164
 gdp_per_capita_usd,AE,ARE,2022,50759.7589231191
 gdp_per_capita_usd,AE,ARE,2021,44118.5047192771
@@ -1395,6 +1484,7 @@ gdp_per_capita_usd,AE,ARE,2016,42721.0999383185
 gdp_per_capita_usd,AE,ARE,2015,44910.334995523
 gdp_per_capita_usd,AE,ARE,2014,52725.2358407934
 gdp_per_capita_usd,AE,ARE,2013,53247.2409495441
+gdp_per_capita_usd,AR,ARG,2024,13969.7836603737
 gdp_per_capita_usd,AR,ARG,2023,14261.8465667948
 gdp_per_capita_usd,AR,ARG,2022,13962.1894087223
 gdp_per_capita_usd,AR,ARG,2021,10738.0179223384
@@ -1406,6 +1496,7 @@ gdp_per_capita_usd,AR,ARG,2016,12699.9623137756
 gdp_per_capita_usd,AR,ARG,2015,13679.6264980954
 gdp_per_capita_usd,AR,ARG,2014,12233.1444119186
 gdp_per_capita_usd,AR,ARG,2013,12963.675773326
+gdp_per_capita_usd,AU,AUS,2024,64603.9856308464
 gdp_per_capita_usd,AU,AUS,2023,65058.3773146674
 gdp_per_capita_usd,AU,AUS,2022,65169.5191118657
 gdp_per_capita_usd,AU,AUS,2021,60758.9044397144
@@ -1417,6 +1508,7 @@ gdp_per_capita_usd,AU,AUS,2016,50084.4440606385
 gdp_per_capita_usd,AU,AUS,2015,56970.3613028094
 gdp_per_capita_usd,AU,AUS,2014,62817.2061751737
 gdp_per_capita_usd,AU,AUS,2013,68476.6788496118
+gdp_per_capita_usd,AT,AUT,2024,58268.8787651601
 gdp_per_capita_usd,AT,AUT,2023,56579.504175468
 gdp_per_capita_usd,AT,AUT,2022,52336.7725223758
 gdp_per_capita_usd,AT,AUT,2021,53648.6437976214
@@ -1428,6 +1520,7 @@ gdp_per_capita_usd,AT,AUT,2016,45061.4993920192
 gdp_per_capita_usd,AT,AUT,2015,43915.228020857
 gdp_per_capita_usd,AT,AUT,2014,51314.9722616322
 gdp_per_capita_usd,AT,AUT,2013,50305.3545774973
+gdp_per_capita_usd,BE,BEL,2024,56614.5679499036
 gdp_per_capita_usd,BE,BEL,2023,55291.4754541329
 gdp_per_capita_usd,BE,BEL,2022,50605.7496677086
 gdp_per_capita_usd,BE,BEL,2021,51658.238294958
@@ -1439,6 +1532,7 @@ gdp_per_capita_usd,BE,BEL,2016,41854.5498296444
 gdp_per_capita_usd,BE,BEL,2015,40893.804537772
 gdp_per_capita_usd,BE,BEL,2014,47995.7786961339
 gdp_per_capita_usd,BE,BEL,2013,46964.5946777056
+gdp_per_capita_usd,BD,BGD,2024,2593.41611680774
 gdp_per_capita_usd,BD,BGD,2023,2551.01773827307
 gdp_per_capita_usd,BD,BGD,2022,2716.48592780431
 gdp_per_capita_usd,BD,BGD,2021,2482.84917843357
@@ -1450,6 +1544,7 @@ gdp_per_capita_usd,BD,BGD,2016,1649.28380858601
 gdp_per_capita_usd,BD,BGD,2015,1224.38647668165
 gdp_per_capita_usd,BD,BGD,2014,1094.46199702838
 gdp_per_capita_usd,BD,BGD,2013,958.262989798283
+gdp_per_capita_usd,BR,BRA,2024,10310.5488778166
 gdp_per_capita_usd,BR,BRA,2023,10377.5897719195
 gdp_per_capita_usd,BR,BRA,2022,9281.33282136864
 gdp_per_capita_usd,BR,BRA,2021,7972.53696080695
@@ -1461,6 +1556,7 @@ gdp_per_capita_usd,BR,BRA,2016,8836.28546025694
 gdp_per_capita_usd,BR,BRA,2015,8936.1955889444
 gdp_per_capita_usd,BR,BRA,2014,12274.9941630213
 gdp_per_capita_usd,BR,BRA,2013,12458.8903396625
+gdp_per_capita_usd,CA,CAN,2024,54340.3477224733
 gdp_per_capita_usd,CA,CAN,2023,54220.3285039875
 gdp_per_capita_usd,CA,CAN,2022,56256.8007264015
 gdp_per_capita_usd,CA,CAN,2021,52886.6616372703
@@ -1472,6 +1568,7 @@ gdp_per_capita_usd,CA,CAN,2016,42314.0615817218
 gdp_per_capita_usd,CA,CAN,2015,43594.1941045394
 gdp_per_capita_usd,CA,CAN,2014,50960.8431174661
 gdp_per_capita_usd,CA,CAN,2013,52638.1187235237
+gdp_per_capita_usd,CH,CHE,2024,103998.186685604
 gdp_per_capita_usd,CH,CHE,2023,100623.549627296
 gdp_per_capita_usd,CH,CHE,2022,94394.5106803525
 gdp_per_capita_usd,CH,CHE,2021,93664.7736696111
@@ -1483,6 +1580,7 @@ gdp_per_capita_usd,CH,CHE,2016,82153.0745447889
 gdp_per_capita_usd,CH,CHE,2015,83806.4476003837
 gdp_per_capita_usd,CH,CHE,2014,88724.9909402638
 gdp_per_capita_usd,CH,CHE,2013,87304.3305813557
+gdp_per_capita_usd,CL,CHL,2024,16709.8893972307
 gdp_per_capita_usd,CL,CHL,2023,17067.0364799154
 gdp_per_capita_usd,CL,CHL,2022,15405.6165774073
 gdp_per_capita_usd,CL,CHL,2021,16206.8325493421
@@ -1494,6 +1592,7 @@ gdp_per_capita_usd,CL,CHL,2016,13649.8520452803
 gdp_per_capita_usd,CL,CHL,2015,13433.9202987032
 gdp_per_capita_usd,CL,CHL,2014,14529.6767206336
 gdp_per_capita_usd,CL,CHL,2013,15683.5486369155
+gdp_per_capita_usd,CN,CHN,2024,13303.1481543868
 gdp_per_capita_usd,CN,CHN,2023,12951.1782397043
 gdp_per_capita_usd,CN,CHN,2022,12970.6056414327
 gdp_per_capita_usd,CN,CHN,2021,12887.4357242941
@@ -1505,6 +1604,7 @@ gdp_per_capita_usd,CN,CHN,2016,8254.86859320357
 gdp_per_capita_usd,CN,CHN,2015,8175.33285077393
 gdp_per_capita_usd,CN,CHN,2014,7781.06597484974
 gdp_per_capita_usd,CN,CHN,2013,7147.03518622344
+gdp_per_capita_usd,CO,COL,2024,7919.20886825345
 gdp_per_capita_usd,CO,COL,2023,7000.83660501046
 gdp_per_capita_usd,CO,COL,2022,6680.44506854481
 gdp_per_capita_usd,CO,COL,2021,6222.62164397614
@@ -1516,6 +1616,7 @@ gdp_per_capita_usd,CO,COL,2016,5959.84250367574
 gdp_per_capita_usd,CO,COL,2015,6248.51490534512
 gdp_per_capita_usd,CO,COL,2014,8187.20824890084
 gdp_per_capita_usd,CO,COL,2013,8279.10255642981
+gdp_per_capita_usd,CZ,CZE,2024,31823.3078290564
 gdp_per_capita_usd,CZ,CZE,2023,31761.5944102491
 gdp_per_capita_usd,CZ,CZE,2022,28282.2236715857
 gdp_per_capita_usd,CZ,CZE,2021,27696.4619527544
@@ -1527,6 +1628,7 @@ gdp_per_capita_usd,CZ,CZE,2016,18753.9686718096
 gdp_per_capita_usd,CZ,CZE,2015,17931.5987670768
 gdp_per_capita_usd,CZ,CZE,2014,20038.4163180257
 gdp_per_capita_usd,CZ,CZE,2013,20260.4954999375
+gdp_per_capita_usd,DE,DEU,2024,56103.7323182554
 gdp_per_capita_usd,DE,DEU,2023,54776.7668235491
 gdp_per_capita_usd,DE,DEU,2022,50506.5179638543
 gdp_per_capita_usd,DE,DEU,2021,52349.2459994422
@@ -1538,6 +1640,7 @@ gdp_per_capita_usd,DE,DEU,2016,42948.9381932694
 gdp_per_capita_usd,DE,DEU,2015,41929.7549110722
 gdp_per_capita_usd,DE,DEU,2014,48959.5991203133
 gdp_per_capita_usd,DE,DEU,2013,47206.8353514242
+gdp_per_capita_usd,DK,DNK,2024,71026.4832271897
 gdp_per_capita_usd,DK,DNK,2023,68043.5466971243
 gdp_per_capita_usd,DK,DNK,2022,67781.0940939514
 gdp_per_capita_usd,DK,DNK,2021,69340.7334922138
@@ -1549,6 +1652,7 @@ gdp_per_capita_usd,DK,DNK,2016,54500.9260410217
 gdp_per_capita_usd,DK,DNK,2015,53094.0133607574
 gdp_per_capita_usd,DK,DNK,2014,62520.4509747011
 gdp_per_capita_usd,DK,DNK,2013,61377.5940590412
+gdp_per_capita_usd,EG,EGY,2024,3338.47371395895
 gdp_per_capita_usd,EG,EGY,2023,3456.78968456253
 gdp_per_capita_usd,EG,EGY,2022,4233.30783744856
 gdp_per_capita_usd,EG,EGY,2021,3827.35415374308
@@ -1560,6 +1664,7 @@ gdp_per_capita_usd,EG,EGY,2016,3270.6287768197
 gdp_per_capita_usd,EG,EGY,2015,3306.98159414141
 gdp_per_capita_usd,EG,EGY,2014,3133.39102265541
 gdp_per_capita_usd,EG,EGY,2013,3025.52563552448
+gdp_per_capita_usd,ES,ESP,2024,35326.7683069278
 gdp_per_capita_usd,ES,ESP,2023,33493.2225409111
 gdp_per_capita_usd,ES,ESP,2022,30319.4987196616
 gdp_per_capita_usd,ES,ESP,2021,30799.4775937775
@@ -1571,6 +1676,7 @@ gdp_per_capita_usd,ES,ESP,2016,26755.6061149398
 gdp_per_capita_usd,ES,ESP,2015,25982.4416197775
 gdp_per_capita_usd,ES,ESP,2014,29707.765509467
 gdp_per_capita_usd,ES,ESP,2013,29228.846559842
+gdp_per_capita_usd,EE,EST,2024,31428.3547816104
 gdp_per_capita_usd,EE,EST,2023,30264.0064885057
 gdp_per_capita_usd,EE,EST,2022,28340.3826549406
 gdp_per_capita_usd,EE,EST,2021,27951.1659277744
@@ -1582,6 +1688,7 @@ gdp_per_capita_usd,EE,EST,2016,18666.3736521706
 gdp_per_capita_usd,EE,EST,2015,17722.1557669523
 gdp_per_capita_usd,EE,EST,2014,20581.7898991695
 gdp_per_capita_usd,EE,EST,2013,19310.3874900757
+gdp_per_capita_usd,FI,FIN,2024,53149.7671934051
 gdp_per_capita_usd,FI,FIN,2023,52834.2916752703
 gdp_per_capita_usd,FI,FIN,2022,50440.560224974
 gdp_per_capita_usd,FI,FIN,2021,53099.1351400148
@@ -1593,6 +1700,7 @@ gdp_per_capita_usd,FI,FIN,2016,43451.2562442158
 gdp_per_capita_usd,FI,FIN,2015,42560.3456767103
 gdp_per_capita_usd,FI,FIN,2014,50073.7760815871
 gdp_per_capita_usd,FI,FIN,2013,49691.0145200739
+gdp_per_capita_usd,FR,FRA,2024,46103.0840855884
 gdp_per_capita_usd,FR,FRA,2023,44700.1384177544
 gdp_per_capita_usd,FR,FRA,2022,40988.6396406579
 gdp_per_capita_usd,FR,FRA,2021,43725.0999521245
@@ -1604,6 +1712,7 @@ gdp_per_capita_usd,FR,FRA,2016,37024.2157133669
 gdp_per_capita_usd,FR,FRA,2015,36702.4323733379
 gdp_per_capita_usd,FR,FRA,2014,43148.0459288416
 gdp_per_capita_usd,FR,FRA,2013,42669.1795111893
+gdp_per_capita_usd,GB,GBR,2024,53246.3676145108
 gdp_per_capita_usd,GB,GBR,2023,49944.4702124201
 gdp_per_capita_usd,GB,GBR,2022,47057.043229179
 gdp_per_capita_usd,GB,GBR,2021,47691.3768799404
@@ -1615,6 +1724,7 @@ gdp_per_capita_usd,GB,GBR,2016,41257.9085545556
 gdp_per_capita_usd,GB,GBR,2015,45255.3449216209
 gdp_per_capita_usd,GB,GBR,2014,47746.2421759562
 gdp_per_capita_usd,GB,GBR,2013,43606.9837896348
+gdp_per_capita_usd,GE,GEO,2024,9241.49122313713
 gdp_per_capita_usd,GE,GEO,2023,8283.66960652261
 gdp_per_capita_usd,GE,GEO,2022,6729.84659930283
 gdp_per_capita_usd,GE,GEO,2021,5083.60695484577
@@ -1626,6 +1736,7 @@ gdp_per_capita_usd,GE,GEO,2016,4143.40125686315
 gdp_per_capita_usd,GE,GEO,2015,4086.6223465965
 gdp_per_capita_usd,GE,GEO,2014,4830.33486170249
 gdp_per_capita_usd,GE,GEO,2013,4712.00229382665
+gdp_per_capita_usd,ID,IDN,2024,4925.43048751861
 gdp_per_capita_usd,ID,IDN,2023,4876.30774512252
 gdp_per_capita_usd,ID,IDN,2022,4730.83484836107
 gdp_per_capita_usd,ID,IDN,2021,4287.17313995098
@@ -1637,6 +1748,7 @@ gdp_per_capita_usd,ID,IDN,2016,3521.46943457574
 gdp_per_capita_usd,ID,IDN,2015,3288.22269725538
 gdp_per_capita_usd,ID,IDN,2014,3441.06808464008
 gdp_per_capita_usd,ID,IDN,2013,3566.60284506078
+gdp_per_capita_usd,IN,IND,2024,2694.73780859961
 gdp_per_capita_usd,IN,IND,2023,2530.12031278204
 gdp_per_capita_usd,IN,IND,2022,2347.44829434623
 gdp_per_capita_usd,IN,IND,2021,2239.61384367482
@@ -1648,6 +1760,7 @@ gdp_per_capita_usd,IN,IND,2016,1707.50892912243
 gdp_per_capita_usd,IN,IND,2015,1583.99815907985
 gdp_per_capita_usd,IN,IND,2014,1553.88396075118
 gdp_per_capita_usd,IN,IND,2013,1432.84397512195
+gdp_per_capita_usd,IE,IRL,2024,112894.953240805
 gdp_per_capita_usd,IE,IRL,2023,106818.917130804
 gdp_per_capita_usd,IE,IRL,2022,105190.685952731
 gdp_per_capita_usd,IE,IRL,2021,103783.446284479
@@ -1659,6 +1772,7 @@ gdp_per_capita_usd,IE,IRL,2016,64129.5571542383
 gdp_per_capita_usd,IE,IRL,2015,64250.1385181257
 gdp_per_capita_usd,IE,IRL,2014,57214.5379785709
 gdp_per_capita_usd,IE,IRL,2013,52537.6108648692
+gdp_per_capita_usd,IR,IRN,2024,5190.16959024821
 gdp_per_capita_usd,IR,IRN,2023,5049.29931642754
 gdp_per_capita_usd,IR,IRN,2022,4721.20437099984
 gdp_per_capita_usd,IR,IRN,2021,4605.14881318992
@@ -1670,6 +1784,7 @@ gdp_per_capita_usd,IR,IRN,2016,5710.59947089104
 gdp_per_capita_usd,IR,IRN,2015,4952.73355532178
 gdp_per_capita_usd,IR,IRN,2014,5672.06372896319
 gdp_per_capita_usd,IR,IRN,2013,6222.74194840326
+gdp_per_capita_usd,IL,ISR,2024,54176.6844383302
 gdp_per_capita_usd,IL,ISR,2023,52003.7200729997
 gdp_per_capita_usd,IL,ISR,2022,54949.621556429
 gdp_per_capita_usd,IL,ISR,2021,52270.9040241956
@@ -1681,6 +1796,7 @@ gdp_per_capita_usd,IL,ISR,2016,37671.5389138798
 gdp_per_capita_usd,IL,ISR,2015,36213.1041481958
 gdp_per_capita_usd,IL,ISR,2014,38343.3046626235
 gdp_per_capita_usd,IL,ISR,2013,37034.3161080785
+gdp_per_capita_usd,IT,ITA,2024,40385.3413957669
 gdp_per_capita_usd,IT,ITA,2023,39277.0838783918
 gdp_per_capita_usd,IT,ITA,2022,35653.9042103495
 gdp_per_capita_usd,IT,ITA,2021,36852.5425414951
@@ -1692,6 +1808,7 @@ gdp_per_capita_usd,IT,ITA,2016,31391.5692898108
 gdp_per_capita_usd,IT,ITA,2015,30639.8829751432
 gdp_per_capita_usd,IT,ITA,2014,36028.3494022349
 gdp_per_capita_usd,IT,ITA,2013,35701.6746002376
+gdp_per_capita_usd,JP,JPN,2024,32487.0778047567
 gdp_per_capita_usd,JP,JPN,2023,33836.1756271617
 gdp_per_capita_usd,JP,JPN,2022,34065.6438962526
 gdp_per_capita_usd,JP,JPN,2021,40094.5599795288
@@ -1703,6 +1820,7 @@ gdp_per_capita_usd,JP,JPN,2016,39375.4731620781
 gdp_per_capita_usd,JP,JPN,2015,34960.6393843385
 gdp_per_capita_usd,JP,JPN,2014,38475.3952461838
 gdp_per_capita_usd,JP,JPN,2013,40898.6478964744
+gdp_per_capita_usd,KE,KEN,2024,2132.43452097647
 gdp_per_capita_usd,KE,KEN,2023,1942.58802756191
 gdp_per_capita_usd,KE,KEN,2022,2109.56288513137
 gdp_per_capita_usd,KE,KEN,2021,2061.35622089594
@@ -1714,6 +1832,7 @@ gdp_per_capita_usd,KE,KEN,2016,1554.12610314423
 gdp_per_capita_usd,KE,KEN,2015,1489.11959777284
 gdp_per_capita_usd,KE,KEN,2014,1482.81566253497
 gdp_per_capita_usd,KE,KEN,2013,1370.87885214659
+gdp_per_capita_usd,KR,KOR,2024,36238.639908315
 gdp_per_capita_usd,KR,KOR,2023,35674.095995632
 gdp_per_capita_usd,KR,KOR,2022,34822.4048404971
 gdp_per_capita_usd,KR,KOR,2021,37518.4635305697
@@ -1725,6 +1844,7 @@ gdp_per_capita_usd,KR,KOR,2016,30832.0628072516
 gdp_per_capita_usd,KR,KOR,2015,30171.7906545222
 gdp_per_capita_usd,KR,KOR,2014,30667.0912467447
 gdp_per_capita_usd,KR,KOR,2013,28449.3591104972
+gdp_per_capita_usd,MX,MEX,2024,14185.7812248529
 gdp_per_capita_usd,MX,MEX,2023,13860.9597809326
 gdp_per_capita_usd,MX,MEX,2022,11405.7940473759
 gdp_per_capita_usd,MX,MEX,2021,10314.0506722115
@@ -1736,6 +1856,7 @@ gdp_per_capita_usd,MX,MEX,2016,9097.92397674769
 gdp_per_capita_usd,MX,MEX,2015,10021.2386118827
 gdp_per_capita_usd,MX,MEX,2014,11391.3773497683
 gdp_per_capita_usd,MX,MEX,2013,11216.8008505428
+gdp_per_capita_usd,MT,MLT,2024,43898.5781808597
 gdp_per_capita_usd,MT,MLT,2023,40905.8059585057
 gdp_per_capita_usd,MT,MLT,2022,35638.8869457406
 gdp_per_capita_usd,MT,MLT,2021,38096.8360735119
@@ -1747,6 +1868,7 @@ gdp_per_capita_usd,MT,MLT,2016,26459.0770929988
 gdp_per_capita_usd,MT,MLT,2015,25529.6813337717
 gdp_per_capita_usd,MT,MLT,2014,27424.5765646694
 gdp_per_capita_usd,MT,MLT,2013,25415.5566867731
+gdp_per_capita_usd,MY,MYS,2024,11874.4273684245
 gdp_per_capita_usd,MY,MYS,2023,11386.0395636528
 gdp_per_capita_usd,MY,MYS,2022,11754.5678336248
 gdp_per_capita_usd,MY,MYS,2021,10903.1037480772
@@ -1758,6 +1880,7 @@ gdp_per_capita_usd,MY,MYS,2016,9476.53409809923
 gdp_per_capita_usd,MY,MYS,2015,9648.6797937523
 gdp_per_capita_usd,MY,MYS,2014,11013.3107334403
 gdp_per_capita_usd,MY,MYS,2013,10713.6407638899
+gdp_per_capita_usd,NG,NGA,2024,1084.16041805436
 gdp_per_capita_usd,NG,NGA,2023,2138.76383719983
 gdp_per_capita_usd,NG,NGA,2022,2899.16047470324
 gdp_per_capita_usd,NG,NGA,2021,2787.48779224428
@@ -1769,6 +1892,7 @@ gdp_per_capita_usd,NG,NGA,2016,2070.4127339595
 gdp_per_capita_usd,NG,NGA,2015,2585.73360671797
 gdp_per_capita_usd,NG,NGA,2014,3088.72131316169
 gdp_per_capita_usd,NG,NGA,2013,2872.79083379398
+gdp_per_capita_usd,NL,NLD,2024,67520.4218956281
 gdp_per_capita_usd,NL,NLD,2023,63515.6030780019
 gdp_per_capita_usd,NL,NLD,2022,59123.318556487
 gdp_per_capita_usd,NL,NLD,2021,60141.9880911492
@@ -1780,6 +1904,7 @@ gdp_per_capita_usd,NL,NLD,2016,46808.5291492503
 gdp_per_capita_usd,NL,NLD,2015,45793.8135434697
 gdp_per_capita_usd,NL,NLD,2014,53457.2234864322
 gdp_per_capita_usd,NL,NLD,2013,52602.2860520766
+gdp_per_capita_usd,NO,NOR,2024,86785.4334489176
 gdp_per_capita_usd,NO,NOR,2023,87497.2179649556
 gdp_per_capita_usd,NO,NOR,2022,109269.520580298
 gdp_per_capita_usd,NO,NOR,2021,93072.8925119571
@@ -1791,6 +1916,7 @@ gdp_per_capita_usd,NO,NOR,2016,70867.3609970749
 gdp_per_capita_usd,NO,NOR,2015,74809.9658049898
 gdp_per_capita_usd,NO,NOR,2014,97666.6951838749
 gdp_per_capita_usd,NO,NOR,2013,103553.840134417
+gdp_per_capita_usd,NZ,NZL,2024,49205.1792146792
 gdp_per_capita_usd,NZ,NZL,2023,49075.9562832927
 gdp_per_capita_usd,NZ,NZL,2022,49099.7090423358
 gdp_per_capita_usd,NZ,NZL,2021,49950.4251691316
@@ -1802,6 +1928,7 @@ gdp_per_capita_usd,NZ,NZL,2016,40113.7195382428
 gdp_per_capita_usd,NZ,NZL,2015,38665.3723018158
 gdp_per_capita_usd,NZ,NZL,2014,44618.266973847
 gdp_per_capita_usd,NZ,NZL,2013,43000.4646849189
+gdp_per_capita_usd,PK,PAK,2024,1478.77277977996
 gdp_per_capita_usd,PK,PAK,2023,1360.32417758419
 gdp_per_capita_usd,PK,PAK,2022,1538.3228133171
 gdp_per_capita_usd,PK,PAK,2021,1455.31922370186
@@ -1813,6 +1940,7 @@ gdp_per_capita_usd,PK,PAK,2016,1424.69161195897
 gdp_per_capita_usd,PK,PAK,2015,1380.47020838317
 gdp_per_capita_usd,PK,PAK,2014,1266.61340849959
 gdp_per_capita_usd,PK,PAK,2013,1225.4340119198
+gdp_per_capita_usd,PL,POL,2024,25103.565661423
 gdp_per_capita_usd,PL,POL,2023,22145.2660647429
 gdp_per_capita_usd,PL,POL,2022,18891.2121169279
 gdp_per_capita_usd,PL,POL,2021,18635.5104895754
@@ -1824,6 +1952,7 @@ gdp_per_capita_usd,PL,POL,2016,12464.0110508476
 gdp_per_capita_usd,PL,POL,2015,12637.5220324406
 gdp_per_capita_usd,PL,POL,2014,14262.2841914116
 gdp_per_capita_usd,PL,POL,2013,13621.9023794031
+gdp_per_capita_usd,PT,PRT,2024,29292.242104753
 gdp_per_capita_usd,PT,PRT,2023,27634.6183139773
 gdp_per_capita_usd,PT,PRT,2022,24620.5197587181
 gdp_per_capita_usd,PT,PRT,2021,24711.4510062111
@@ -1835,6 +1964,7 @@ gdp_per_capita_usd,PT,PRT,2016,19980.2808866516
 gdp_per_capita_usd,PT,PRT,2015,19215.7813014347
 gdp_per_capita_usd,PT,PRT,2014,22120.6850127107
 gdp_per_capita_usd,PT,PRT,2013,21676.4859642714
+gdp_per_capita_usd,RU,RUS,2024,14889.0185546875
 gdp_per_capita_usd,RU,RUS,2023,14159.3876953125
 gdp_per_capita_usd,RU,RUS,2022,15619.6142578125
 gdp_per_capita_usd,RU,RUS,2021,12425.029296875
@@ -1846,6 +1976,7 @@ gdp_per_capita_usd,RU,RUS,2016,8663.158203125
 gdp_per_capita_usd,RU,RUS,2015,9277.7138671875
 gdp_per_capita_usd,RU,RUS,2014,14055.47265625
 gdp_per_capita_usd,RU,RUS,2013,15941.4482421875
+gdp_per_capita_usd,SA,SAU,2024,35121.6628687742
 gdp_per_capita_usd,SA,SAU,2023,36156.848337701
 gdp_per_capita_usd,SA,SAU,2022,38510.2276211037
 gdp_per_capita_usd,SA,SAU,2021,31920.7653655643
@@ -1857,6 +1988,7 @@ gdp_per_capita_usd,SA,SAU,2016,22267.7217050387
 gdp_per_capita_usd,SA,SAU,2015,23256.1549553531
 gdp_per_capita_usd,SA,SAU,2014,27805.4850319422
 gdp_per_capita_usd,SA,SAU,2013,27865.465604962
+gdp_per_capita_usd,SG,SGP,2024,90674.066632628
 gdp_per_capita_usd,SG,SGP,2023,85412.230345235
 gdp_per_capita_usd,SG,SGP,2022,90299.0694637269
 gdp_per_capita_usd,SG,SGP,2021,80056.1288247844
@@ -1868,6 +2000,7 @@ gdp_per_capita_usd,SG,SGP,2016,57005.5887176547
 gdp_per_capita_usd,SG,SGP,2015,55645.6068614606
 gdp_per_capita_usd,SG,SGP,2014,57564.8023114977
 gdp_per_capita_usd,SG,SGP,2013,56967.4257940383
+gdp_per_capita_usd,SE,SWE,2024,57117.4877440616
 gdp_per_capita_usd,SE,SWE,2023,54950.2834725622
 gdp_per_capita_usd,SE,SWE,2022,54836.8907235124
 gdp_per_capita_usd,SE,SWE,2021,60647.5416365347
@@ -1879,6 +2012,7 @@ gdp_per_capita_usd,SE,SWE,2016,51703.5088332851
 gdp_per_capita_usd,SE,SWE,2015,51188.1652120493
 gdp_per_capita_usd,SE,SWE,2014,59583.4584491714
 gdp_per_capita_usd,SE,SWE,2013,60843.9888799369
+gdp_per_capita_usd,TH,THA,2024,7346.62022142185
 gdp_per_capita_usd,TH,THA,2023,7195.10130919449
 gdp_per_capita_usd,TH,THA,2022,6909.35281815827
 gdp_per_capita_usd,TH,THA,2021,7057.20754802279
@@ -1890,6 +2024,7 @@ gdp_per_capita_usd,TH,THA,2016,5833.57715617098
 gdp_per_capita_usd,TH,THA,2015,5688.85335397884
 gdp_per_capita_usd,TH,THA,2014,5801.1978916205
 gdp_per_capita_usd,TH,THA,2013,6018.08244729255
+gdp_per_capita_usd,TR,TUR,2024,15892.7157287241
 gdp_per_capita_usd,TR,TUR,2023,13375.0947282864
 gdp_per_capita_usd,TR,TUR,2022,10897.8397861365
 gdp_per_capita_usd,TR,TUR,2021,9981.76398411336
@@ -1901,6 +2036,7 @@ gdp_per_capita_usd,TR,TUR,2016,10984.3643169061
 gdp_per_capita_usd,TR,TUR,2015,11064.6494504662
 gdp_per_capita_usd,TR,TUR,2014,12209.3862327674
 gdp_per_capita_usd,TR,TUR,2013,12635.5570016068
+gdp_per_capita_usd,US,USA,2024,84534.0407841548
 gdp_per_capita_usd,US,USA,2023,81032.262117545
 gdp_per_capita_usd,US,USA,2022,76657.2488844403
 gdp_per_capita_usd,US,USA,2021,70205.050916026
@@ -1912,6 +2048,7 @@ gdp_per_capita_usd,US,USA,2016,57638.1018367192
 gdp_per_capita_usd,US,USA,2015,56572.9188996063
 gdp_per_capita_usd,US,USA,2014,54973.4207515712
 gdp_per_capita_usd,US,USA,2013,53179.0127634561
+gdp_per_capita_usd,VN,VNM,2024,4717.29028732449
 gdp_per_capita_usd,VN,VNM,2023,4323.35031982451
 gdp_per_capita_usd,VN,VNM,2022,4147.69777213621
 gdp_per_capita_usd,VN,VNM,2021,3704.1935590038
@@ -1923,6 +2060,7 @@ gdp_per_capita_usd,VN,VNM,2016,2735.0604380416
 gdp_per_capita_usd,VN,VNM,2015,2577.56885340113
 gdp_per_capita_usd,VN,VNM,2014,2546.38464459903
 gdp_per_capita_usd,VN,VNM,2013,2359.51736472828
+gdp_per_capita_usd,ZA,ZAF,2024,6267.186814093
 gdp_per_capita_usd,ZA,ZAF,2023,6034.27208964673
 gdp_per_capita_usd,ZA,ZAF,2022,6534.24867783397
 gdp_per_capita_usd,ZA,ZAF,2021,6828.75624590017
@@ -1990,6 +2128,7 @@ rd_pct_gdp,BR,BRA,2016,1.19584
 rd_pct_gdp,BR,BRA,2015,1.28464
 rd_pct_gdp,BR,BRA,2014,1.26971
 rd_pct_gdp,BR,BRA,2013,1.19567
+rd_pct_gdp,CA,CAN,2024,1.7908
 rd_pct_gdp,CA,CAN,2023,1.81048
 rd_pct_gdp,CA,CAN,2022,1.81291
 rd_pct_gdp,CA,CAN,2021,1.87064
@@ -2068,6 +2207,7 @@ rd_pct_gdp,DK,DNK,2016,3.10209
 rd_pct_gdp,DK,DNK,2015,3.06422
 rd_pct_gdp,DK,DNK,2014,2.91543
 rd_pct_gdp,DK,DNK,2013,2.96145
+rd_pct_gdp,EG,EGY,2024,1.01757
 rd_pct_gdp,EG,EGY,2023,1.03356
 rd_pct_gdp,EG,EGY,2022,1.01968
 rd_pct_gdp,EG,EGY,2021,0.91175
@@ -2134,6 +2274,7 @@ rd_pct_gdp,GB,GBR,2016,2.32051
 rd_pct_gdp,GB,GBR,2015,2.27566
 rd_pct_gdp,GB,GBR,2014,2.26488
 rd_pct_gdp,GB,GBR,2013,1.62096
+rd_pct_gdp,GE,GEO,2024,0.26435
 rd_pct_gdp,GE,GEO,2023,0.25084
 rd_pct_gdp,GE,GEO,2022,0.2347
 rd_pct_gdp,GE,GEO,2021,0.24875
@@ -2208,6 +2349,7 @@ rd_pct_gdp,JP,JPN,2016,3.10665
 rd_pct_gdp,JP,JPN,2015,3.24071
 rd_pct_gdp,JP,JPN,2014,3.36788
 rd_pct_gdp,JP,JPN,2013,3.27895
+rd_pct_gdp,KE,KEN,2024,0.81069
 rd_pct_gdp,KE,KEN,2023,0.80427
 rd_pct_gdp,KE,KEN,2022,0.40651
 rd_pct_gdp,KR,KOR,2023,4.94352
@@ -2221,6 +2363,7 @@ rd_pct_gdp,KR,KOR,2016,3.78638
 rd_pct_gdp,KR,KOR,2015,3.78907
 rd_pct_gdp,KR,KOR,2014,3.88983
 rd_pct_gdp,KR,KOR,2013,3.77487
+rd_pct_gdp,MX,MEX,2024,0.25372
 rd_pct_gdp,MX,MEX,2023,0.26746
 rd_pct_gdp,MX,MEX,2022,0.25727
 rd_pct_gdp,MX,MEX,2021,0.27305
@@ -2306,6 +2449,7 @@ rd_pct_gdp,PT,PRT,2016,1.2815
 rd_pct_gdp,PT,PRT,2015,1.24552
 rd_pct_gdp,PT,PRT,2014,1.28892
 rd_pct_gdp,PT,PRT,2013,1.32325
+rd_pct_gdp,RU,RUS,2024,0.93706
 rd_pct_gdp,RU,RUS,2023,0.93518
 rd_pct_gdp,RU,RUS,2022,0.91494
 rd_pct_gdp,RU,RUS,2021,0.96602
@@ -2317,6 +2461,7 @@ rd_pct_gdp,RU,RUS,2016,1.10238
 rd_pct_gdp,RU,RUS,2015,1.10085
 rd_pct_gdp,RU,RUS,2014,1.07241
 rd_pct_gdp,RU,RUS,2013,1.02732
+rd_pct_gdp,SA,SAU,2024,0.63522
 rd_pct_gdp,SA,SAU,2023,0.49487
 rd_pct_gdp,SA,SAU,2022,0.41439
 rd_pct_gdp,SA,SAU,2021,0.39379
@@ -2392,6 +2537,7 @@ rd_pct_gdp,ZA,ZAF,2016,0.74992
 rd_pct_gdp,ZA,ZAF,2015,0.73147
 rd_pct_gdp,ZA,ZAF,2014,0.70987
 rd_pct_gdp,ZA,ZAF,2013,0.6633
+population,AE,ARE,2024,10986400
 population,AE,ARE,2023,10483751
 population,AE,ARE,2022,10074977
 population,AE,ARE,2021,9575152
@@ -2403,6 +2549,7 @@ population,AE,ARE,2016,8935095
 population,AE,ARE,2015,8505237
 population,AE,ARE,2014,8059440
 population,AE,ARE,2013,7693031
+population,AR,ARG,2024,45696159
 population,AR,ARG,2023,45538401
 population,AR,ARG,2022,45407904
 population,AR,ARG,2021,45312281
@@ -2414,6 +2561,7 @@ population,AR,ARG,2016,43900313
 population,AR,ARG,2015,43477012
 population,AR,ARG,2014,43024071
 population,AR,ARG,2013,42582455
+population,AU,AUS,2024,27196812
 population,AU,AUS,2023,26659922
 population,AU,AUS,2022,26018721
 population,AU,AUS,2021,25685412
@@ -2425,6 +2573,7 @@ population,AU,AUS,2016,24190907
 population,AU,AUS,2015,23815995
 population,AU,AUS,2014,23475686
 population,AU,AUS,2013,23128129
+population,AT,AUT,2024,9177982
 population,AT,AUT,2023,9131761
 population,AT,AUT,2022,9041851
 population,AT,AUT,2021,8955797
@@ -2436,6 +2585,7 @@ population,AT,AUT,2016,8736668
 population,AT,AUT,2015,8642699
 population,AT,AUT,2014,8546356
 population,AT,AUT,2013,8479823
+population,BE,BEL,2024,11858610
 population,BE,BEL,2023,11779946
 population,BE,BEL,2022,11680210
 population,BE,BEL,2021,11586195
@@ -2447,6 +2597,7 @@ population,BE,BEL,2016,11331422
 population,BE,BEL,2015,11274196
 population,BE,BEL,2014,11209057
 population,BE,BEL,2013,11159407
+population,BD,BGD,2024,173562364
 population,BD,BGD,2023,171466990
 population,BD,BGD,2022,169384897
 population,BD,BGD,2021,167658854
@@ -2458,6 +2609,7 @@ population,BD,BGD,2016,160811932
 population,BD,BGD,2015,159383179
 population,BD,BGD,2014,157964929
 population,BD,BGD,2013,156532141
+population,BR,BRA,2024,211998573
 population,BR,BRA,2023,211140729
 population,BR,BRA,2022,210306415
 population,BR,BRA,2021,209550294
@@ -2469,6 +2621,7 @@ population,BR,BRA,2016,203218114
 population,BR,BRA,2015,201675532
 population,BR,BRA,2014,200085127
 population,BR,BRA,2013,198478299
+population,CA,CAN,2024,41288599
 population,CA,CAN,2023,40083484
 population,CA,CAN,2022,38935934
 population,CA,CAN,2021,38239864
@@ -2480,6 +2633,7 @@ population,CA,CAN,2016,36110803
 population,CA,CAN,2015,35704498
 population,CA,CAN,2014,35434066
 population,CA,CAN,2013,35080992
+population,CH,CHE,2024,9005582
 population,CH,CHE,2023,8888822
 population,CH,CHE,2022,8777088
 population,CH,CHE,2021,8704546
@@ -2491,6 +2645,7 @@ population,CH,CHE,2016,8373338
 population,CH,CHE,2015,8282396
 population,CH,CHE,2014,8188649
 population,CH,CHE,2013,8089346
+population,CL,CHL,2024,19764771
 population,CL,CHL,2023,19658835
 population,CL,CHL,2022,19553036
 population,CL,CHL,2021,19456334
@@ -2502,6 +2657,7 @@ population,CL,CHL,2016,18267221
 population,CL,CHL,2015,18047625
 population,CL,CHL,2014,17864195
 population,CL,CHL,2013,17687006
+population,CN,CHN,2024,1408975000
 population,CN,CHN,2023,1410710000
 population,CN,CHN,2022,1412175000
 population,CN,CHN,2021,1412360000
@@ -2513,6 +2669,7 @@ population,CN,CHN,2016,1387790000
 population,CN,CHN,2015,1379860000
 population,CN,CHN,2014,1371860000
 population,CN,CHN,2013,1363240000
+population,CO,COL,2024,52886363
 population,CO,COL,2023,52321152
 population,CO,COL,2022,51737944
 population,CO,COL,2021,51188173
@@ -2524,6 +2681,7 @@ population,CO,COL,2016,47437512
 population,CO,COL,2015,46969940
 population,CO,COL,2014,46565429
 population,CO,COL,2013,46151584
+population,CZ,CZE,2024,10905028
 population,CZ,CZE,2023,10864042
 population,CZ,CZE,2022,10672118
 population,CZ,CZE,2021,10505772
@@ -2535,6 +2693,7 @@ population,CZ,CZE,2016,10566332
 population,CZ,CZE,2015,10546059
 population,CZ,CZE,2014,10525347
 population,CZ,CZE,2013,10514272
+population,DE,DEU,2024,83516593
 population,DE,DEU,2023,83287273
 population,DE,DEU,2022,83177813
 population,DE,DEU,2021,83196078
@@ -2546,6 +2705,7 @@ population,DE,DEU,2016,82348669
 population,DE,DEU,2015,81686611
 population,DE,DEU,2014,80982500
 population,DE,DEU,2013,80645605
+population,DK,DNK,2024,5976992
 population,DK,DNK,2023,5946952
 population,DK,DNK,2022,5903037
 population,DK,DNK,2021,5856733
@@ -2557,6 +2717,7 @@ population,DK,DNK,2016,5728010
 population,DK,DNK,2015,5683483
 population,DK,DNK,2014,5643475
 population,DK,DNK,2013,5614932
+population,EG,EGY,2024,116538258
 population,EG,EGY,2023,114535772
 population,EG,EGY,2022,112618250
 population,EG,EGY,2021,110957008
@@ -2568,6 +2729,7 @@ population,EG,EGY,2016,101644589
 population,EG,EGY,2015,99597342
 population,EG,EGY,2014,97528654
 population,EG,EGY,2013,95333553
+population,ES,ESP,2024,48848840
 population,ES,ESP,2023,48352528
 population,ES,ESP,2022,47786102
 population,ES,ESP,2021,47443821
@@ -2579,6 +2741,7 @@ population,ES,ESP,2016,46458139
 population,ES,ESP,2015,46422303
 population,ES,ESP,2014,46460733
 population,ES,ESP,2013,46604197
+population,EE,EST,2024,1372341
 population,EE,EST,2023,1370286
 population,EE,EST,2022,1348840
 population,EE,EST,2021,1330932
@@ -2590,6 +2753,7 @@ population,EE,EST,2016,1315790
 population,EE,EST,2015,1315407
 population,EE,EST,2014,1314545
 population,EE,EST,2013,1317997
+population,FI,FIN,2024,5619911
 population,FI,FIN,2023,5583911
 population,FI,FIN,2022,5556106
 population,FI,FIN,2021,5541017
@@ -2601,6 +2765,7 @@ population,FI,FIN,2016,5495303
 population,FI,FIN,2015,5479531
 population,FI,FIN,2014,5461512
 population,FI,FIN,2013,5438972
+population,FR,FRA,2024,68551653
 population,FR,FRA,2023,68372286
 population,FR,FRA,2022,68184457
 population,FR,FRA,2021,67842811
@@ -2612,6 +2777,7 @@ population,FR,FRA,2016,66724104
 population,FR,FRA,2015,66548272
 population,FR,FRA,2014,66312067
 population,FR,FRA,2013,65997932
+population,GB,GBR,2024,69226000
 population,GB,GBR,2023,68492000
 population,GB,GBR,2022,67604000
 population,GB,GBR,2021,66984000
@@ -2623,6 +2789,7 @@ population,GB,GBR,2016,65607000
 population,GB,GBR,2015,65088000
 population,GB,GBR,2014,64620000
 population,GB,GBR,2013,64139000
+population,GE,GEO,2024,3699557
 population,GE,GEO,2023,3715483
 population,GE,GEO,2022,3712502
 population,GE,GEO,2021,3708610
@@ -2634,6 +2801,7 @@ population,GE,GEO,2016,3727505
 population,GE,GEO,2015,3725276
 population,GE,GEO,2014,3719414
 population,GE,GEO,2013,3717668
+population,ID,IDN,2024,283487931
 population,ID,IDN,2023,281190067
 population,ID,IDN,2022,278830529
 population,ID,IDN,2021,276758053
@@ -2645,6 +2813,7 @@ population,ID,IDN,2016,264627418
 population,ID,IDN,2015,261799249
 population,ID,IDN,2014,258877399
 population,ID,IDN,2013,255852467
+population,IN,IND,2024,1450935791
 population,IN,IND,2023,1438069596
 population,IN,IND,2022,1425423212
 population,IN,IND,2021,1414203896
@@ -2656,6 +2825,7 @@ population,IN,IND,2016,1343944296
 population,IN,IND,2015,1328024498
 population,IN,IND,2014,1312277191
 population,IN,IND,2013,1295829511
+population,IE,IRL,2024,5395790
 population,IE,IRL,2023,5311538
 population,IE,IRL,2022,5212836
 population,IE,IRL,2021,5110585
@@ -2667,6 +2837,7 @@ population,IE,IRL,2016,4762722
 population,IE,IRL,2015,4701957
 population,IE,IRL,2014,4657740
 population,IE,IRL,2013,4623816
+population,IR,IRN,2024,91567738
 population,IR,IRN,2023,90608707
 population,IR,IRN,2022,89524246
 population,IR,IRN,2021,88455488
@@ -2678,6 +2849,7 @@ population,IR,IRN,2016,83812228
 population,IR,IRN,2015,82619362
 population,IR,IRN,2014,81502045
 population,IR,IRN,2013,80414686
+population,IL,ISR,2024,9974400
 population,IL,ISR,2023,9849000
 population,IL,ISR,2022,9557500
 population,IL,ISR,2021,9371400
@@ -2689,6 +2861,7 @@ population,IL,ISR,2016,8546000
 population,IL,ISR,2015,8380100
 population,IL,ISR,2014,8215700
 population,IL,ISR,2013,8059500
+population,IT,ITA,2024,58952704
 population,IT,ITA,2023,58984216
 population,IT,ITA,2022,59013667
 population,IT,ITA,2021,59133173
@@ -2700,6 +2873,7 @@ population,IT,ITA,2016,60115223
 population,IT,ITA,2015,60229605
 population,IT,ITA,2014,60320707
 population,IT,ITA,2013,60311613
+population,JP,JPN,2024,123975371
 population,JP,JPN,2023,124516650
 population,JP,JPN,2022,125124989
 population,JP,JPN,2021,125681593
@@ -2711,6 +2885,7 @@ population,JP,JPN,2016,127076000
 population,JP,JPN,2015,127141000
 population,JP,JPN,2014,127276000
 population,JP,JPN,2013,127445000
+population,KE,KEN,2024,56432944
 population,KE,KEN,2023,55339003
 population,KE,KEN,2022,54252461
 population,KE,KEN,2021,53219166
@@ -2722,6 +2897,7 @@ population,KE,KEN,2016,48139687
 population,KE,KEN,2015,47088526
 population,KE,KEN,2014,46051440
 population,KE,KEN,2013,44986791
+population,KR,KOR,2024,51751065
 population,KR,KOR,2023,51712619
 population,KR,KOR,2022,51672569
 population,KR,KOR,2021,51769539
@@ -2733,6 +2909,7 @@ population,KR,KOR,2016,51217803
 population,KR,KOR,2015,51014947
 population,KR,KOR,2014,50746659
 population,KR,KOR,2013,50428893
+population,MX,MEX,2024,130861007
 population,MX,MEX,2023,129739759
 population,MX,MEX,2022,128613117
 population,MX,MEX,2021,127648148
@@ -2744,6 +2921,7 @@ population,MX,MEX,2016,122251351
 population,MX,MEX,2015,121072306
 population,MX,MEX,2014,119784261
 population,MX,MEX,2013,118343573
+population,MT,MLT,2024,568847
 population,MT,MLT,2023,552747
 population,MT,MLT,2022,531113
 population,MT,MLT,2021,518150
@@ -2755,6 +2933,7 @@ population,MT,MLT,2016,454505
 population,MT,MLT,2015,444220
 population,MT,MLT,2014,433481
 population,MT,MLT,2013,424810
+population,MY,MYS,2024,35557673
 population,MY,MYS,2023,35126298
 population,MY,MYS,2022,34695493
 population,MY,MYS,2021,34282399
@@ -2766,6 +2945,7 @@ population,MY,MYS,2016,31789685
 population,MY,MYS,2015,31232798
 population,MY,MYS,2014,30696137
 population,MY,MYS,2013,30174265
+population,NG,NGA,2024,232679478
 population,NG,NGA,2023,227882945
 population,NG,NGA,2022,223150896
 population,NG,NGA,2021,218529286
@@ -2777,6 +2957,7 @@ population,NG,NGA,2016,195443700
 population,NG,NGA,2015,190671878
 population,NG,NGA,2014,185896915
 population,NG,NGA,2013,181049443
+population,NL,NLD,2024,17993485
 population,NL,NLD,2023,17877117
 population,NL,NLD,2022,17700982
 population,NL,NLD,2021,17533044
@@ -2788,6 +2969,7 @@ population,NL,NLD,2016,17030314
 population,NL,NLD,2015,16939923
 population,NL,NLD,2014,16865008
 population,NL,NLD,2013,16804432
+population,NO,NOR,2024,5572279
 population,NO,NOR,2023,5519601
 population,NO,NOR,2022,5457127
 population,NO,NOR,2021,5408320
@@ -2799,6 +2981,7 @@ population,NO,NOR,2016,5234519
 population,NO,NOR,2015,5188607
 population,NO,NOR,2014,5137232
 population,NO,NOR,2013,5079623
+population,NZ,NZL,2024,5287500
 population,NZ,NZL,2023,5200000
 population,NZ,NZL,2022,5081700
 population,NZ,NZL,2021,5084600
@@ -2810,6 +2993,7 @@ population,NZ,NZL,2016,4714100
 population,NZ,NZL,2015,4609400
 population,NZ,NZL,2014,4516500
 population,NZ,NZL,2013,4442100
+population,PK,PAK,2024,251269164
 population,PK,PAK,2023,247504495
 population,PK,PAK,2022,243700667
 population,PK,PAK,2021,239477801
@@ -2821,6 +3005,7 @@ population,PK,PAK,2016,220138869
 population,PK,PAK,2015,217290883
 population,PK,PAK,2014,214264647
 population,PK,PAK,2013,211073978
+population,PL,POL,2024,36559233
 population,PL,POL,2023,36687353
 population,PL,POL,2022,36821749
 population,PL,POL,2021,36981559
@@ -2832,6 +3017,7 @@ population,PL,POL,2016,37970087
 population,PL,POL,2015,37986412
 population,PL,POL,2014,38011735
 population,PL,POL,2013,38040196
+population,PT,PRT,2024,10694681
 population,PT,PRT,2023,10578174
 population,PT,PRT,2022,10434332
 population,PT,PRT,2021,10361831
@@ -2843,6 +3029,7 @@ population,PT,PRT,2016,10325452
 population,PT,PRT,2015,10358076
 population,PT,PRT,2014,10401062
 population,PT,PRT,2013,10457295
+population,RU,RUS,2024,143533851
 population,RU,RUS,2023,143826130
 population,RU,RUS,2022,144236933
 population,RU,RUS,2021,144746762
@@ -2854,6 +3041,7 @@ population,RU,RUS,2016,145015460
 population,RU,RUS,2015,144640716
 population,RU,RUS,2014,144237223
 population,RU,RUS,2013,143805638
+population,SA,SAU,2024,35300280
 population,SA,SAU,2023,33702731
 population,SA,SAU,2022,32175224
 population,SA,SAU,2021,30784383
@@ -2865,6 +3053,7 @@ population,SA,SAU,2016,30954198
 population,SA,SAU,2015,29816382
 population,SA,SAU,2014,28309273
 population,SA,SAU,2013,27624004
+population,SG,SGP,2024,6036860
 population,SG,SGP,2023,5917648
 population,SG,SGP,2022,5637022
 population,SG,SGP,2021,5453566
@@ -2876,6 +3065,7 @@ population,SG,SGP,2016,5607283
 population,SG,SGP,2015,5535002
 population,SG,SGP,2014,5469724
 population,SG,SGP,2013,5399162
+population,SE,SWE,2024,10569709
 population,SE,SWE,2023,10536632
 population,SE,SWE,2022,10486941
 population,SE,SWE,2021,10415811
@@ -2887,6 +3077,7 @@ population,SE,SWE,2016,9923085
 population,SE,SWE,2015,9799186
 population,SE,SWE,2014,9696110
 population,SE,SWE,2013,9600379
+population,TH,THA,2024,71668011
 population,TH,THA,2023,71702435
 population,TH,THA,2022,71735329
 population,TH,THA,2021,71727332
@@ -2898,6 +3089,7 @@ population,TH,THA,2016,70859841
 population,TH,THA,2015,70540795
 population,TH,THA,2014,70216367
 population,TH,THA,2013,69845114
+population,TR,TUR,2024,85518661
 population,TR,TUR,2023,85325965
 population,TR,TUR,2022,84979913
 population,TR,TUR,2021,84147318
@@ -2909,6 +3101,7 @@ population,TR,TUR,2016,79277962
 population,TR,TUR,2015,78218479
 population,TR,TUR,2014,77181884
 population,TR,TUR,2013,76147624
+population,US,USA,2024,340110988
 population,US,USA,2023,336806231
 population,US,USA,2022,334017321
 population,US,USA,2021,332099760
@@ -2920,6 +3113,7 @@ population,US,USA,2016,324353340
 population,US,USA,2015,321815121
 population,US,USA,2014,319257560
 population,US,USA,2013,316726282
+population,VN,VNM,2024,100987686
 population,VN,VNM,2023,100352192
 population,VN,VNM,2022,99680655
 population,VN,VNM,2021,98935098
@@ -2931,6 +3125,7 @@ population,VN,VNM,2016,94000117
 population,VN,VNM,2015,92823254
 population,VN,VNM,2014,91679578
 population,VN,VNM,2013,90573104
+population,ZA,ZAF,2024,64007187
 population,ZA,ZAF,2023,63212384
 population,ZA,ZAF,2022,62378410
 population,ZA,ZAF,2021,61502603

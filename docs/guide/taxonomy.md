@@ -70,6 +70,22 @@ Both can be true (mixed funding).
 - `med`: reputable secondary source (national press, established education media).
 - `low`: inference, older source, or absence-of-evidence default.
 
+## How the AI/quantum tags are derived
+
+`ai_using` and `quantum_programs` are derived automatically from each country's
+**aggregate** OpenAlex output (all institutions, recent window): the share of
+works mentioning AI/ML or quantum. A country is tagged when its share is **at or
+above the cohort median** (a relative threshold, so the tag discriminates rather
+than flagging everyone). The evidence string records both the country's share and
+the cohort median.
+
+Bibliometric share has limits: it measures research *volume intensity*, not
+impact-driven leadership. Where a country leads through a few elite groups rather
+than publication volume (e.g. Australia in quantum computing), the **overlay sets
+an authoritative, cited tag** that overrides the derived value. That is the
+intended division of labor: derive what is measurable, curate what is not. See
+[data sources](data-sources.md).
+
 ## Use in the correlation study
 
 Each tag becomes a binary predictor of ranking/EPI delta, at both institution

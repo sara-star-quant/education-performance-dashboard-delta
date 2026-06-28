@@ -23,10 +23,10 @@ PUBDIR = os.path.join(ROOT, "docs", "data")
 SNAPDIR = os.path.join(PUBDIR, "snapshots")
 
 VERSION = "2026-Q3"
-GENERATED = "2026-06-27"          # passed in, not Date.now (reproducible)
-REF_YEAR = 2023
+GENERATED = "2026-06-28"          # passed in, not Date.now (reproducible)
+REF_YEAR = 2024
 WINDOWS = [1, 3, 5, 10]
-KEY_YEARS = [2013, 2018, 2020, 2022, 2023]
+KEY_YEARS = [2014, 2019, 2021, 2023, 2024]  # windows 1/3/5/10 from 2024
 PILLARS = ["R", "P", "A", "O"]
 PILLAR_NAMES = {
     "R": "Rankings / elite institutions",
@@ -35,8 +35,11 @@ PILLAR_NAMES = {
     "O": "Graduate outcomes",
 }
 DEFAULT_WEIGHTS = {"R": 0.25, "P": 0.25, "A": 0.25, "O": 0.25}
-AI_TAG_THRESHOLD = 0.012          # >=1.2% of works mention AI/ML -> "actively using AI"
-QUANTUM_TAG_THRESHOLD = 0.006     # >=0.6% mention quantum -> "quantum programs active"
+# AI/quantum tags use a COHORT-RELATIVE threshold (>= cohort median research
+# intensity) so they discriminate instead of flagging everyone. A flat absolute
+# threshold tagged 41/50 once aggregated to country level. The overlay can still
+# set authoritative tags (e.g. Australia's quantum strength, which is impact- not
+# volume-driven and so is invisible to a publication-share proxy).
 
 
 def load_json(p):
@@ -90,6 +93,12 @@ for r in read_csv("openalex_country_institutions.csv"):
 tag_signals = {}
 for r in read_csv("openalex_tags.csv"):
     tag_signals[r["iso2"]] = r
+
+# cohort-median research intensity (thresholds for the derived AI/quantum tags)
+_ai = sorted(float(r["ai_share"]) for r in tag_signals.values() if r.get("ai_share") not in (None, ""))
+_q = sorted(float(r["quantum_share"]) for r in tag_signals.values() if r.get("quantum_share") not in (None, ""))
+AI_MED = _ai[len(_ai) // 2] if _ai else 0.0
+Q_MED = _q[len(_q) // 2] if _q else 0.0
 
 
 def wb_val(indicator, iso2, year, tol=2):
@@ -215,41 +224,41 @@ for c in countries:
         size, _ = wb_val("population", iso, REF_YEAR)
     base_rank = raw["R"][iso].get(REF_YEAR - 5, (0.0,))[0]
 
-    # attribution: institution with biggest works growth 2018->2023
+    # attribution: institution with biggest works growth over the 5y window
     top_inst = None
     best = -1
     for iid, yrs in country_insts.get(iso, {}).items():
-        if 2023 in yrs:
-            w23 = yrs[2023]["works"]
-            w18 = yrs.get(2018, {}).get("works", 0)
-            growth = w23 - w18
+        if 2024 in yrs:
+            w_end = yrs[2024]["works"]
+            w_start = yrs.get(2019, {}).get("works", 0)
+            growth = w_end - w_start
             if growth > best:
                 best = growth
                 top_inst = {
-                    "name": yrs[2023]["name"],
+                    "name": yrs[2024]["name"],
                     "openalex_id": iid,
-                    "works_2018": w18,
-                    "works_2023": w23,
+                    "works_2019": w_start,
+                    "works_2024": w_end,
                     "works_growth": growth,
                     "metric_climbed": "research output (OpenAlex works)",
-                    "evidence": f"Annual works rose from {w18:,} (2018) to {w23:,} (2023).",
+                    "evidence": f"Annual works rose from {w_start:,} (2019) to {w_end:,} (2024).",
                 }
 
-    # tags (country level): AI/quantum derived + overlay
+    # tags (country level): AI/quantum derived from national output + overlay
     tags = {}
     ts = tag_signals.get(iso)
     if ts and ts.get("ai_share") not in (None, ""):
         share = float(ts["ai_share"])
         tags["ai_using"] = {
-            "value": share >= AI_TAG_THRESHOLD,
-            "evidence": f"{ts['display_name']}: {float(share)*100:.2f}% of 2020-2023 works mention AI/ML (OpenAlex).",
+            "value": share >= AI_MED,
+            "evidence": f"{c['name']}: {share*100:.2f}% of 2021-2024 works mention AI/ML (OpenAlex, all institutions); cohort median {AI_MED*100:.2f}%.",
             "confidence": "med",
         }
     if ts and ts.get("quantum_share") not in (None, ""):
         share = float(ts["quantum_share"])
         tags["quantum_programs"] = {
-            "value": share >= QUANTUM_TAG_THRESHOLD,
-            "evidence": f"{ts['display_name']}: {float(share)*100:.2f}% of 2020-2023 works mention quantum (OpenAlex).",
+            "value": share >= Q_MED,
+            "evidence": f"{c['name']}: {share*100:.2f}% of 2021-2024 works mention quantum (OpenAlex, all institutions); cohort median {Q_MED*100:.2f}%.",
             "confidence": "med",
         }
     # overlay tags (delivery, funding, quantum_phd, ...) override/extend
@@ -265,9 +274,9 @@ for c in countries:
         if d5 is not None:
             rtxt.append(f"EPI {'rose' if d5 >= 0 else 'fell'} {abs(d5):.1f} points over 5y")
         pw = research.get(iso, {})
-        if 2018 in pw and 2023 in pw and pw[2018]:
-            g = 100.0 * (pw[2023] - pw[2018]) / pw[2018]
-            rtxt.append(f"research output {'+' if g>=0 else ''}{g:.0f}% (2018-2023)")
+        if 2019 in pw and 2024 in pw and pw[2019]:
+            g = 100.0 * (pw[2024] - pw[2019]) / pw[2019]
+            rtxt.append(f"research output {'+' if g>=0 else ''}{g:.0f}% (2019-2024)")
         if rd is not None:
             rtxt.append(f"R&D {rd:.2f}% of GDP")
         reason = {
@@ -402,6 +411,12 @@ universal = {
         key=lambda x: x["count_in_top30"], reverse=True,
     ),
 }
+
+# Note: a recent-research "momentum" panel was evaluated and dropped. OpenAlex
+# 2025 counts are corrupted by indexing artifacts (e.g. Japan 2025 ~3x its
+# normal annual output), so any 2024->2025 momentum metric is noise. The
+# reference year advances to 2024, whose counts show only mild recent-year lag
+# that cross-country normalization absorbs. Revisit when 2025 fully indexes.
 
 # ---------- sensitivity check (min-max vs z-score top lists) ----------
 z_delta = {}
