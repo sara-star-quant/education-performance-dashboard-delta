@@ -27,6 +27,16 @@ score over OpenAlex's per-year global top-200 institutions. To use licensed data
 instead, replace `data/sources/openalex_inst_leaderboard.csv` with an equivalent
 ranked list - the rest of the pipeline is unchanged. See [methodology](methodology.md).
 
+## Recent-year indexing lag (why the reference year is 2024)
+
+OpenAlex keeps indexing recent years for months after they end. In mid-2026 the
+2024 counts show only a mild, roughly proportional undercount that cross-country
+normalization absorbs, so 2024 is the reference year. **2025 is not yet usable**:
+its counts are inflated by indexing artifacts (e.g. one large country shows ~3x
+its normal annual output for 2025), so the build excludes 2025 and later. A
+recent-research "momentum" panel was evaluated and dropped for the same reason;
+it will return once 2025 indexes fully.
+
 ## Qualitative overlay
 
 `data/sources/overlay.json` holds what APIs cannot provide - delivery/funding

@@ -1,6 +1,6 @@
 /* Offline-first service worker. Cache-first for app shell, network-first for
    data (so a fresh snapshot wins when online, last snapshot serves offline). */
-const CACHE = "edu-delta-v3";
+const CACHE = "edu-delta-v4";
 const SHELL = [
   "./index.html", "./insights.html",
   "./assets/styles.css", "./assets/app.js", "./assets/insights.js",

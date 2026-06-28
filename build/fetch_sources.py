@@ -35,8 +35,11 @@ WB_INDICATORS = {
     "SE.TER.ENRL": "tertiary_enrollment_count",         # enrollment weight
 }
 
-# Years for the per-year institution leaderboard (windows 1/3/5/10 from 2023).
-LEADERBOARD_YEARS = [2013, 2018, 2020, 2022, 2023]
+# Years for the per-year institution leaderboard (windows 1/3/5/10 from 2024).
+LEADERBOARD_YEARS = [2014, 2019, 2021, 2023, 2024]
+# Recent window for AI/quantum tag signals and the research-momentum panel.
+TAG_WINDOW = "2021-2024"
+RESEARCH_YEARS = range(2013, 2025)  # 2013..2024; 2025+ are not yet fully indexed
 
 
 def _redact(url):
@@ -75,7 +78,7 @@ def fetch_worldbank(countries):
     for ind, label in WB_INDICATORS.items():
         url = (
             f"https://api.worldbank.org/v2/country/{iso2}/indicator/{ind}"
-            f"?format=json&date=2013:2023&per_page=20000"
+            f"?format=json&date=2013:2024&per_page=20000"
         )
         data = get_json(url)
         if not isinstance(data, list) or len(data) < 2 or data[1] is None:
@@ -107,7 +110,7 @@ def fetch_openalex_research(countries):
     """Per-country works count per year (research output pillar)."""
     wanted = {c["iso2"] for c in countries}
     rows = []
-    for year in range(2013, 2024):
+    for year in RESEARCH_YEARS:
         url = (
             "https://api.openalex.org/works"
             f"?filter=publication_year:{year}"
@@ -193,7 +196,7 @@ def fetch_openalex_institutions():
 
 def fetch_openalex_country_institutions(countries):
     """Top institutions within each country for attribution (who climbed most)."""
-    years = [2018, 2023]
+    years = [2019, 2024]
     rows = []
     for c in countries:
         cc = c["iso2"]
@@ -239,23 +242,17 @@ def _count_safe(filt):
         return None
 
 
-def fetch_openalex_tags():
-    """Derive AI/quantum research-activity signals for each country's top institution.
+def fetch_openalex_tags(countries):
+    """Derive AI/quantum research-activity signals at COUNTRY level.
 
-    A reproducible, cited proxy: share of 2020-2023 works mentioning the theme.
-    Maps to taxonomy tags ai_using / quantum_programs. Other tags (delivery,
-    funding, quantum_phd, ...) are curated in overlay.json.
+    A reproducible, cited proxy: share of the country's recent works (TAG_WINDOW)
+    mentioning the theme, aggregated across all the country's institutions. This
+    captures national strength (e.g. Australia's quantum leaders) that a single
+    top-by-output institution would miss. Maps to taxonomy tags ai_using /
+    quantum_programs; other tags stay curated in overlay.json.
     """
-    src = os.path.join(SRC, "openalex_country_institutions.csv")
-    tops = {}
-    with open(src) as f:
-        for r in csv.DictReader(f):
-            if r["year"] == "2023" and r["country_rank"] == "1":
-                tops[r["iso2"]] = (r["inst_id"], r["display_name"])
     out = os.path.join(SRC, "openalex_tags.csv")
-    fields = ["iso2", "inst_id", "display_name", "works_total_2020_2023",
-              "works_ai", "works_quantum", "ai_share", "quantum_share"]
-    # resume: keep rows already fetched
+    fields = ["iso2", "works_total", "works_ai", "works_quantum", "ai_share", "quantum_share"]
     done, rows = set(), []
     if os.path.exists(out):
         with open(out) as f:
@@ -269,23 +266,24 @@ def fetch_openalex_tags():
             w.writeheader()
             w.writerows(rows)
 
-    for iso2, (iid, name) in tops.items():
+    for c in countries:
+        iso2 = c["iso2"]
         if iso2 in done:
             continue
-        base = f"institutions.id:{iid},publication_year:2020-2023"
-        total = _count_safe(base); time.sleep(1.2)
-        ai = _count_safe(base + ",title_and_abstract.search:artificial intelligence OR machine learning"); time.sleep(1.2)
-        quantum = _count_safe(base + ",title_and_abstract.search:quantum"); time.sleep(1.2)
+        base = f"institutions.country_code:{iso2},publication_year:{TAG_WINDOW}"
+        total = _count_safe(base); time.sleep(1.0)
+        ai = _count_safe(base + ",title_and_abstract.search:artificial intelligence OR machine learning"); time.sleep(1.0)
+        quantum = _count_safe(base + ",title_and_abstract.search:quantum"); time.sleep(1.0)
         rows.append({
-            "iso2": iso2, "inst_id": iid, "display_name": name,
-            "works_total_2020_2023": total if total is not None else "",
+            "iso2": iso2,
+            "works_total": total if total is not None else "",
             "works_ai": ai if ai is not None else "",
             "works_quantum": quantum if quantum is not None else "",
             "ai_share": round(ai / total, 5) if (ai and total) else "",
             "quantum_share": round(quantum / total, 5) if (quantum and total) else "",
         })
-        print(f"  {iso2} {name}: ai={ai} quantum={quantum} total={total}")
-        flush()  # save progress every institution
+        print(f"  {iso2}: ai={ai} quantum={quantum} total={total}")
+        flush()
     print(f"  -> wrote {out} ({len(rows)} rows)")
 
 
@@ -302,7 +300,7 @@ def main():
     print("OpenAlex per-country institutions ...")
     fetch_openalex_country_institutions(countries)
     print("OpenAlex AI/quantum tag signals ...")
-    fetch_openalex_tags()
+    fetch_openalex_tags(countries)
     print("done.")
 
 

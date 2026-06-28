@@ -122,7 +122,7 @@ function renderRegions() {
   $("#regions").innerHTML = ranked.slice(0, 3).map((x, i) => `
     <div class="card region-card">
       <div class="rank">#${i + 1} improving region</div>
-      <div class="name">${x.r.name}</div>
+      <div class="name">${esc(x.r.name)}</div>
       <div>${deltaSpan(x.d)}</div>
       <div class="note">${x.r.members.length} countries - mean EPI ${x.r.epi_mean_ref}</div>
     </div>`).join("");
@@ -141,9 +141,9 @@ function renderTop30() {
     const c = x.c;
     const tg = Object.entries(c.tags).filter(([, v]) => v.value).slice(0, 3)
       .map(([k]) => `<span class="tag">${TAG_LABEL[k] || k}</span>`).join("");
-    return `<tr data-iso="${c.iso2}" tabindex="0" role="button" aria-label="${c.name}, ${S.window} year delta ${fmtDelta(x.delta)}, open details">
+    return `<tr data-iso="${esc(c.iso2)}" tabindex="0" role="button" aria-label="${esc(c.name)}, ${S.window} year delta ${fmtDelta(x.delta)}, open details">
       <td class="rankcol">${i + 1}</td>
-      <td>${c.name} ${tg}</td>
+      <td>${esc(c.name)} ${tg}</td>
       <td><span class="conf ${c.confidence}">${c.confidence}</span></td>
       <td class="num">${deltaSpan(x.delta)}</td>
       <td class="num">${x.epi != null ? x.epi.toFixed(1) : "n/a"}</td>
@@ -194,7 +194,7 @@ function openDetail(iso) {
     `<span class="tag ${v.value ? "" : "off"}" title="${esc(v.evidence)}">${esc(TAG_LABEL[k] || k)}${v.value ? "" : ": no"}</span>`).join("") || '<span class="na">none coded</span>';
   $("#dBody").innerHTML = `
     <div class="kv">
-      <span class="k">Region</span><span>${regionName(c.region)}</span>
+      <span class="k">Region</span><span>${esc(regionName(c.region))}</span>
       <span class="k">EPI (${ref})</span><span>${(epiAt(c, ref) ?? 0).toFixed(1)} <span class="conf ${c.confidence}">${c.confidence}</span></span>
       <span class="k">Delta</span><span>${["1", "3", "5", "10"].map((w) => `${w}y ${deltaSpan(deltaAt(c, w))}`).join(" &nbsp; ")}</span>
       <span class="k">GDP/capita</span><span>${cf || c.confounders.gdp_per_capita_usd ? "$" + Math.round(c.confounders.gdp_per_capita_usd || 0).toLocaleString() : "n/a"} &nbsp; R&D ${c.confounders.rd_pct_gdp ?? "n/a"}%</span>

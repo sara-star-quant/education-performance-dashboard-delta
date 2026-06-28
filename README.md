@@ -85,6 +85,6 @@ analysis is observational, not causal. Use at your own risk. Full terms:
 
 ## Scope of the first snapshot
 
-A cited seed cohort of 50 countries across seven regions (2013-2023, reference
-year 2023) that exercises every dashboard feature. Coverage expands toward the
+A cited seed cohort of 50 countries across seven regions (2014-2024, reference
+year 2024) that exercises every dashboard feature. Coverage expands toward the
 60-80 threshold-passing target in later quarterly snapshots.
